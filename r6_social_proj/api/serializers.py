@@ -10,7 +10,7 @@ class ProfileSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = Profile
-        fields = ['bio', 'country', 'fav_team']
+        fields = ['user', 'balance', 'bio', 'country', 'fav_team']
     
     
 class UserSerializer(serializers.ModelSerializer):
