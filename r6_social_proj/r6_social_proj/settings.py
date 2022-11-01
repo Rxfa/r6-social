@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "knox",
     "api",
+    "django_countries",
 ]
 
 REST_FRAMEWORK = {
