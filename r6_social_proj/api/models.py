@@ -26,13 +26,33 @@ class Team(models.Model):
   id = models.PositiveSmallIntegerField(primary_key=True)
   logo = models.ImageField(default='default/no_image.jpg', upload_to='teams/logos/')
   name = models.CharField(max_length=30)
-  short_name = models.CharField(null=True, Blank=True, max_length=3)
+  short_name = models.CharField(null=True, blank=True, max_length=3)
   
   class Meta:
     ordering = ['name']
     
   def __str__(self):
     return self.name
+  
+class Player(models.Model):
+  team = models.ForeignKey(Team, on_delete=models.CASCADE)
+  nickname = models.CharField(max_length=30)
+  name = models.CharField(max_length=30)
+  nationality = CountryField()
+  date_of_birth = models.DateField(null=True, black=True)
+  image = models.ImageField(default='default/no_image.jpg', upload_to='players/images/')
+  
+  class Meta:
+    ordering = ['name']
+    
+  def __str__(self):
+    return f'{self.nickname}.{self.team.short_name}'
+  
+  def age(self):
+    if self.date_of_birth:
+      import datetime
+      days_in_year = 365.25
+      return int((datetime.date.today() - self.date_of_birth) / days_in_year)
   
 
 class Competition(models.Model):
