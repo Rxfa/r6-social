@@ -37,14 +37,25 @@ class Competition(models.Model):
     ('D', 'D-Tier')
   ]
   
+  id = models.PositiveSmallIntegerField(primary_key=True)
+  year = models.PositiveSmallIntegerField()
   name = models.CharField()
   type = models.CharField(max_length=1, choices=TYPE_CHOICES)
   logo = models.ImageField(default='default/no_image.jpg', upload_to='competitions/logos/')
-  start_date = models.DateField()
-  end_date = models.DateField()
-  prize_pool = models.IntegerField(max_digits=12, decimal_places=2)
   region = models.CharField(max_length=1, choices=REGION_CHOICES)
   tier = models.CharField(max_length=1, choices=TIER_CHOICES)
+  current_matchday = models.PositiveSmallIntegerField()
+  n_of_matchdays = models.PositiveSmallIntegerField()
+  n_of_teams = models.PositiveSmallIntegerField()
+  n_of_games = models.PositiveSmallIntegerField()
+  last_updated = models.DateField
   
+  class Meta:
+    ordering = ['-year', 'name']
+    get_latest_by = 'last_updated'
+    abstract = True
+
   def __str__(self):
-    return self.name
+    return f'{self.name} - matchday {self.current_matchday}'
+
+  
