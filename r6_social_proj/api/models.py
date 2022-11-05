@@ -21,6 +21,19 @@ class Profile(models.Model):
   profile_pic = models.ImageField(blank=True, null=True, upload_to='profiles/')
   fav_team = models.CharField(blank=True, null=True)
   
+  
+class Team(models.Model):
+  id = models.PositiveSmallIntegerField(primary_key=True)
+  logo = models.ImageField(default='default/no_image.jpg', upload_to='teams/logos/')
+  name = models.CharField(max_length=30)
+  short_name = models.CharField(null=True, Blank=True, max_length=3)
+  
+  class Meta:
+    ordering = ['name']
+    
+  def __str__(self):
+    return self.name
+  
 
 class Competition(models.Model):
   
@@ -53,19 +66,20 @@ class Competition(models.Model):
   class Meta:
     ordering = ['-year', 'name']
     get_latest_by = 'last_updated'
+    abstract = True
 
   def __str__(self):
     return f'{self.name} - matchday {self.current_matchday}'
 
 
-class Table(models.Model):
-  competition = models.ForeignKey(Competition, on_delete=models.CASCADE)
+class Table(Competition):
   
   def __str__(self):
-    return f'{self.competition} Table'
+    return f'{self.name} Table'
   
 class Standing(models.Model):
   table = models.ForeignKey(Table, on_delete=models.CASCADE)
+  team = models.ForeignKey(Team, on_delete=models.CASCADE)
   position = models.PositiveSmallIntegerField()
   played_games = models.PositiveSmallIntegerField()
   points = models.PositiveSmallIntegerField()
@@ -77,4 +91,15 @@ class Standing(models.Model):
   
   class Meta:
     ordering = ['position']
-  
+    
+  def has_position_changed(self, previous_matchday_standing):
+    return {
+      self.played_games > previous_matchday_standing.played_games and
+      self.position != previous_matchday_standing.position
+    }
+    
+  def has_position_improved(self, previous_matchday_standing):
+    return {
+      self.played_games > previous_matchday_standing.played_games and
+      self.position > previous_matchday_standing.position
+    }
