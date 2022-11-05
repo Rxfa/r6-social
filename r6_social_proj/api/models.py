@@ -53,9 +53,28 @@ class Competition(models.Model):
   class Meta:
     ordering = ['-year', 'name']
     get_latest_by = 'last_updated'
-    abstract = True
 
   def __str__(self):
     return f'{self.name} - matchday {self.current_matchday}'
 
+
+class Table(models.Model):
+  competition = models.ForeignKey(Competition, on_delete=models.CASCADE)
+  
+  def __str__(self):
+    return f'{self.competition} Table'
+  
+class Standing(models.Model):
+  table = models.ForeignKey(Table, on_delete=models.CASCADE)
+  position = models.PositiveSmallIntegerField()
+  played_games = models.PositiveSmallIntegerField()
+  points = models.PositiveSmallIntegerField()
+  wins = models.PositiveSmallIntegerField()
+  overtime_wins = models.PositiveSmallIntegerField()
+  overtime_losses = models.PositiveSmallIntegerField()
+  losses = models.PositiveSmallIntegerField()
+  round_difference = models.PositiveSmallIntegerField()
+  
+  class Meta:
+    ordering = ['position']
   
