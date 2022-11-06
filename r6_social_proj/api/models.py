@@ -1,17 +1,6 @@
-from email.policy import default
 from django.contrib.auth.models import User
 from django.db import models
 from django_countries.fields import CountryField
-
-# Create your models here.
-
-REGION_CHOICES = [
-  ('EU', 'EUROPE'),
-  ('NA', 'NORTH AMERICA'),
-  ('LATAM', 'LATIN AMERICA'),
-  ('APAC', 'ASIA-PACIFIC'),
-  ('INT', 'INTERNATIONAL'),
-]
 
 class Profile(models.Model):
   user = models.OneToOneField(User, on_delete=models.CASCADE)
@@ -57,6 +46,14 @@ class Player(models.Model):
 
 class Competition(models.Model):
   
+  REGION_CHOICES = [
+    ('EU', 'EUROPE'),
+    ('NA', 'NORTH AMERICA'),
+    ('LATAM', 'LATIN AMERICA'),
+    ('APAC', 'ASIA-PACIFIC'),
+    ('INT', 'INTERNATIONAL'),
+  ]
+  
   TYPE_CHOICES = [
     ('LAN'),
     ('Online')
@@ -73,10 +70,10 @@ class Competition(models.Model):
   id = models.PositiveSmallIntegerField(primary_key=True)
   year = models.PositiveSmallIntegerField()
   name = models.CharField()
-  type = models.CharField(max_length=1, choices=TYPE_CHOICES)
+  type = models.CharField(max_length=30, choices=TYPE_CHOICES)
   logo = models.ImageField(default='default/no_image.jpg', upload_to='competitions/logos/')
-  region = models.CharField(max_length=1, choices=REGION_CHOICES)
-  tier = models.CharField(max_length=1, choices=TIER_CHOICES)
+  region = models.CharField(max_length=30, choices=REGION_CHOICES)
+  tier = models.CharField(max_length=30, choices=TIER_CHOICES)
   current_matchday = models.PositiveSmallIntegerField()
   n_of_matchdays = models.PositiveSmallIntegerField()
   n_of_teams = models.PositiveSmallIntegerField()
@@ -123,3 +120,24 @@ class Standing(models.Model):
       self.played_games > previous_matchday_standing.played_games and
       self.position > previous_matchday_standing.position
     }
+    
+class Game(models.Model):
+  MAPS = [
+    ('Oregon'),
+    ('Chalet'),
+    ('Club House'),
+    ('Bank'),
+    ('Kafe Dostoyevsky')
+    ('Villa'),
+    ('Theme Park'),
+    ('Border'),
+    ('Skyscraper'),    
+  ]
+  team1 = models.ForeignKey(Team, on_delete=models.CASCADE)
+  team2 = models.ForeignKey(Team, on_delete=models.CASCADE)
+  score1 = models.PositiveSmallIntegerField()
+  score2 = models.PositiveSmallIntegerField()
+  map = models.CharField(max_length=1, choices=MAPS)
+
+  def had_overtime(self):
+    return self.score1 > 7 or self.score2 > 7
