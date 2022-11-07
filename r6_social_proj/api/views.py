@@ -23,7 +23,10 @@ class ListUsers(APIView):
         userSerializer = UserSerializer(data=request.data)
         if userSerializer.is_valid():
             user = userSerializer.save()
-            return Response(status=status.HTTP_200_OK)
+            return Response({
+                'message': userSerializer.errors, 'status': status.HTTP_200_OK
+                }, status=status.HTTP_200_OK
+            )
         return Response({
             'message': userSerializer.errors, 'status': status.HTTP_400_BAD_REQUEST
             }, status=status.HTTP_400_BAD_REQUEST
