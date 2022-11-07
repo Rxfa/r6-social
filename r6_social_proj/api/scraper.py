@@ -1,5 +1,5 @@
 """
-Small script to scrape information(Nationality, nickname, real name and team) on know r6 pro players
+Small script to scrape information(Nationality, nickname, real name and team) on known r6 pro players
 """
 
 import requests
@@ -41,3 +41,4 @@ for element in soup.find_all("table", class_="wikitable"):
                 list_of_players.append(player_info)
 
 #print(list_of_players)
+print(len(list_of_players))
