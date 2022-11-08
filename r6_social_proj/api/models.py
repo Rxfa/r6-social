@@ -28,20 +28,13 @@ class Player(models.Model):
   nickname = models.CharField(max_length=30)
   name = models.CharField(max_length=30)
   nationality = CountryField()
-  date_of_birth = models.DateField(null=True, black=True)
-  image = models.ImageField(default='default/no_image.jpg', upload_to='players/images/')
+  image = models.ImageField(blank=True, null=True, default='default/no_image.jpg', upload_to='players/images/')
   
   class Meta:
-    ordering = ['name']
+    ordering = ['team', 'name']
     
   def __str__(self):
     return f'{self.nickname}.{self.team.short_name}'
-  
-  def age(self):
-    if self.date_of_birth:
-      import datetime
-      days_in_year = 365.25
-      return int((datetime.date.today() - self.date_of_birth) / days_in_year)
   
 
 class Competition(models.Model):
