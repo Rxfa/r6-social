@@ -22,11 +22,11 @@ class Profile(models.Model):
   balance = models.DecimalField(max_digits=12, decimal_places=2, default=0.0)
   country = CountryField()
   profile_pic = models.ImageField(blank=True, null=True, upload_to='profiles/')
-  fav_team = models.ForeignKey(Team, on_delete=models.CASCADE)
+  fav_team = models.ForeignKey(Team, blank=True, null=True, on_delete=models.CASCADE)
 
   
 class Player(models.Model):
-  team = models.ForeignKey(Team, on_delete=models.CASCADE)
+  team = models.ForeignKey(Team, blank=True, null=True, on_delete=models.CASCADE)
   nickname = models.CharField(max_length=30)
   name = models.CharField(max_length=30)
   nationality = CountryField()
