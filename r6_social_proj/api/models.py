@@ -22,7 +22,7 @@ class Profile(models.Model):
   balance = models.DecimalField(max_digits=12, decimal_places=2, default=0.0)
   country = CountryField()
   profile_pic = models.ImageField(blank=True, null=True, upload_to='profiles/')
-  fav_team = models.ForeignKey(Team, blank=True, null=True)
+  fav_team = models.ForeignKey(Team, on_delete=models.CASCADE)
 
   
 class Player(models.Model):
@@ -38,7 +38,7 @@ class Player(models.Model):
   def __str__(self):
     return f'{self.nickname}.{self.team.short_name}'
   
-
+"""
 class Competition(models.Model):
   
   REGION_CHOICES = [
@@ -120,21 +120,23 @@ class Standing(models.Model):
 
 class Game(models.Model):
   MAPS = [
-    ('Oregon'),
-    ('Chalet'),
-    ('Club House'),
-    ('Bank'),
-    ('Kafe Dostoyevsky')
-    ('Villa'),
-    ('Theme Park'),
-    ('Border'),
-    ('Skyscraper'),    
+    ('Oregon', 'Oregon'),
+    ('Chalet', 'Chalet'),
+    ('Club House', 'Club House'),
+    ('Bank', 'Bank'),
+    ('Kafe Dostoyevsky', 'Kafe Dostoyevsky'),
+    ('Villa', 'Villa'),
+    ('Theme Park', 'Theme Park'),
+    ('Border', 'Border'),
+    ('Skyscraper', 'Skyscraper'),    
   ]
-  team1 = models.ForeignKey(Team, on_delete=models.CASCADE)
-  team2 = models.ForeignKey(Team, on_delete=models.CASCADE)
+  team1 = models.ManyToManyField(Team)
+  team2 = models.ManyToManyField(Team)
   score1 = models.PositiveSmallIntegerField()
   score2 = models.PositiveSmallIntegerField()
   map = models.CharField(max_length=1, choices=MAPS)
 
   def had_overtime(self):
     return self.score1 > 7 or self.score2 > 7
+    
+"""
