@@ -8,7 +8,6 @@ class Team(models.Model):
   logo = models.ImageField(default='default/no_image.jpg', upload_to='teams/logos/')
   name = models.CharField(max_length=30)
   short_name = models.CharField(null=True, blank=True, max_length=3)
-  
   class Meta:
     ordering = ['name']
     

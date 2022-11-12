@@ -110,17 +110,42 @@ Take your time to read through an issue you want to work on and try to understan
 
 When you are done with your issue, submit a pull request, that will be promptly reviewed by one of the project team members that will either review and accept your PR or will guide you on what to change for it to be accepted.
 
-Don't forget to read about the [Styleguide](#styleguides) we use in this project, and don't be shy to reach out to the project team if you have any question(although you should always strive to find the answer by yourself).
+Don't forget to read about the [Style](#styleguides) used in this project, and don't be shy to reach out to the project team if you have any question(although you should always strive to find the answer by yourself).
 
 Thank you for taking your time to work on this project, it **really** means a lot to us. We look forward to work with you and we hope you enjoy the ride as much as we do!
 
 ### Improving The Documentation
 
+Every suggestion to improve the project in any way are tracked as [Github Issues](/issues).
+
+Follow the instructions in [how-do-i-submit-a-good-enhancement-suggestion](#how-do-i-submit-a-good-enhancement-suggestion) and you'll get an answer by the project team as soon as possible.
+
 ## Styleguides
+
+Every open-source project has its own style guide: a set of conventions(sometimes) arbitrary about how too write code for that project. The reason for that being that it is much easier to maintain a large codebase when all the code is written in a consistent style.
+
+This project style guide is **heavily** influenced by [Airbnb Javascript Style Guide](https://airbnb.io/javascript/react) for its frontend and for the backend, which is written in python we aim to have code [PEP-8](https://www.python.org/dev/peps/pep-0008) friendly.
+
+### Rules of thumb
+
+    - Components should be organized in folders according to the feature they belong to.
+    - Functions should hardly be more than 30 lines long.
+    - Lines shouldn't be more than 80 chars long.
+    - Code should be correct, clear, concise and fast. In that order.
+    - Don't commit commented code. And you should delete it if you see it.
+    - Write tests and then develop the feature to pass those tests.
+    - YAGNI
+    - KISS
 
 ### Commit Messages
 
+    - Commits are like savegames, if you don't do it enough, you are going to wish you did when something happens.
+    - Commit messages should be clear and written in the imperative form.
+    - Under no circunstance, you should include sensitive information(such as passwords) in the message.
+
 ## Join The Project Team
+
+We are always looking for help, pay a visit to our tracked issues, and follow the instructions given at [Your First Code Contribution](#your-first-code-contribution)
 
 ## Attribution
 This guide is based on the **contributing.md**. [Make your own](https://contributing.md/)!
