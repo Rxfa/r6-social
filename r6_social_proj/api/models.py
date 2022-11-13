@@ -4,7 +4,6 @@ from django_countries.fields import CountryField
 
 
 class Team(models.Model):
-  id = models.PositiveSmallIntegerField(primary_key=True)
   logo = models.ImageField(default='default/no_image.jpg', upload_to='teams/logos/')
   name = models.CharField(max_length=30)
   short_name = models.CharField(null=True, blank=True, max_length=3)
@@ -19,7 +18,7 @@ class Profile(models.Model):
   user = models.OneToOneField(User, on_delete=models.CASCADE)
   bio = models.TextField(blank=True, null=True)
   balance = models.DecimalField(max_digits=12, decimal_places=2, default=0.0)
-  country = CountryField()
+  country = CountryField(blank=True, null=True)
   profile_pic = models.ImageField(blank=True, null=True, upload_to='profiles/')
   fav_team = models.ForeignKey(Team, blank=True, null=True, on_delete=models.CASCADE)
 
@@ -28,7 +27,7 @@ class Player(models.Model):
   team = models.ForeignKey(Team, blank=True, null=True, on_delete=models.CASCADE)
   nickname = models.CharField(max_length=30)
   name = models.CharField(max_length=30)
-  nationality = CountryField()
+  nationality = CountryField(blank=True, null=True)
   image = models.ImageField(blank=True, null=True, default='default/no_image.jpg', upload_to='players/images/')
   
   class Meta:

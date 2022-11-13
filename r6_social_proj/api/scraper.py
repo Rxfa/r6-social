@@ -1,38 +1,15 @@
-"""
-Small script to scrape information(Nationality, nickname, real name and team) on known r6 pro players
-"""
-
 import requests
+import logging
+import json
 from bs4 import BeautifulSoup
+from os.path import exists
 
-BASE_URL = "https://liquipedia.net"
-
-list_of_teams = []
-list_of_players = []
 list_of_staff = []
-
+list_of_players = []
 
 def main():
     people_data_url = "https://liquipedia.net/rainbowsix/Portal:Players/All"
-    team_data_url = "https://liquipedia.net/rainbowsix/Portal:Teams"
     get_people_data(people_data_url)
-    get_team_data(team_data_url)
-    print(list_of_staff, end="\n\n")
-    print(f"there are {len(list_of_staff)} entries.", end="\n\n")
-
-
-def get_team_data(url):
-    page = requests.get(url).text
-    soup = BeautifulSoup(page, "lxml")
-    for table in soup.find_all("table", class_="wikitable"):
-        if table.find("span", class_="team-template-text").find("a")["href"]:
-            page = requests.get(
-                f"{BASE_URL}{table.find('span', class_='team-template-text').find('a')['href']}"
-            ).text
-            soup = BeautifulSoup(page, "lxml")
-        else:
-            continue
-    return list_of_teams
 
 
 def get_people_data(url):
@@ -43,8 +20,13 @@ def get_people_data(url):
         if table.find("abbr"):
             get_staff(table)
         else:
-            #            get_players(table)
-            continue
+            get_players(table)
+        
+    with open("json/players.json", "w+") as players:
+        players.write(json.dumps(list_of_players, ensure_ascii=False, indent=4))
+        
+    with open("json/staff.json", "w+") as staff:
+        staff.write(json.dumps(list_of_staff, ensure_ascii=False, indent=4))
 
 
 def get_staff(table):
@@ -66,11 +48,12 @@ def get_staff(table):
                 "nickname": id.strip(),
                 "real name": real_name.strip(),
                 "team": team.strip(),
-                "role": role.strip(),
+                "role": role.split()[-1].strip(""),
                 "status": get_status(row) if len(row.find("td")["style"].split(":")) == 3 else "active",
             }
             list_of_staff.append(staff_info)
-    return list_of_staff
+    logging.info("Staff data scrapped successfully!")
+    return list_of_staff.sort(key=lambda x: x["team"])
 
 
 def get_players(table):
@@ -95,7 +78,8 @@ def get_players(table):
                 "status": get_status(row) if len(row.find("td")["style"].split(":")) == 3 else "active",
             }
             list_of_players.append(player_info)
-    return list_of_players
+    logging.info("Player data scrapped successfully!")
+    return list_of_players.sort(key=lambda x: x["team"])
 
 
 def get_status(row):
