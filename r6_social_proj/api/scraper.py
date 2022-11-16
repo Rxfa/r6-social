@@ -216,6 +216,7 @@ def get_birthdays(url):
         }
         birthday_list.append(player)
     logger.info("Birthday list scraped successfully")
+    birthday_list.sort(key=lambda x: x["year"])
     export_to_json("birthday_list", birthday_list)
 
 
