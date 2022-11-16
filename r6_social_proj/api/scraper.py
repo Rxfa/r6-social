@@ -4,37 +4,52 @@ import logging
 import requests
 from bs4 import BeautifulSoup
 
-PEOPLE_DATA_URL = "https://liquipedia.net/rainbowsix/Portal:Players/All"
-GLOBAL_POINTS_URL = "https://liquipedia.net/rainbowsix/Six_Invitational/2023/Global_Standings"
 
-list_of_staff = []
-list_of_players = []
-global_points_standings = []
+logger = logging.getLogger(__name__)
+
+PEOPLE_DATA_URL = "https://liquipedia.net/rainbowsix/Portal:Players/All"
+GLOBAL_POINTS_URL = (
+    "https://liquipedia.net/rainbowsix/Six_Invitational/2023/Global_Standings"
+)
+BIRTHDAY_LIST_URL = "https://liquipedia.net/rainbowsix/Birthday_list"
+
+staff_list = []
+player_list = []
+birthday_list = []
+global_standings = []
+
 
 def main():
-    get_people_data(PEOPLE_DATA_URL)
-    get_global_points(GLOBAL_POINTS_URL)
-
+    #get_global_points(GLOBAL_POINTS_URL)
+    #get_people_data(PEOPLE_DATA_URL)
+    get_birthdays(BIRTHDAY_LIST_URL)
 
 
 def export_to_json(filename, data):
     """
     Exports given data list to JSON file.
     """
+    logger.info("Exporting %s to JSON file.", filename)
     with open(f"json/{filename}.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(data, ensure_ascii=False, indent=4))
+        logger.info("%s exported to json/%s.json successfully!", data, filename)
+
 
 def get_global_points(url):
     """
-    Gets teams global points standings and saves to JSON file.
+    Makes GET request to url argument, with a 10 timeout.
+    Then it extracts teams global points standings and exports to a JSON file.
     """
-    page = requests.get(url)
+    logger.info("Scraping global points standings")
+    page = requests.get(url, timeout=10)
     soup = BeautifulSoup(page.content, "html.parser")
     for row in soup.select(".table-responsive tbody tr")[1:]:
         team_global_points = {
-            "place":  row.select_one("td b").text,
-            "subregion": row.select_one('.league-icon-small-image a')["title"],
-            "team": row.select_one('span[class="team-template-team-standard"]')["data-highlightingclass"],
+            "place": row.select_one("td b").text,
+            "subregion": row.select_one(".league-icon-small-image a")["title"],
+            "team": row.select_one('span[class="team-template-team-standard"]')[
+                "data-highlightingclass"
+            ],
             "points": row.select("td")[3].select_one("b").text,
             "max points": row.select("td")[4].text,
             "status": get_team_qualification_status(row.select_one("td")),
@@ -43,18 +58,20 @@ def get_global_points(url):
                 "2nd stage": row.select("td[colspan='1']")[2].text,
                 "3rd stage": row.select("td[colspan='1']")[4].text,
             },
-            "major" : {
+            "major": {
                 "February": row.select("td[colspan='1']")[1].text,
                 "August": row.select("td[colspan='1']")[3].text,
                 "November": row.select("td[colspan='1']")[5].text,
-            }
+            },
         }
         try:
             default_points(team_global_points, "regional league")
             default_points(team_global_points, "major")
         finally:
-            global_points_standings.append(team_global_points)
-            export_to_json("global_standings", global_points_standings)
+            global_standings.append(team_global_points)
+            logger.info("Global points standings have been scraped successfully")
+            export_to_json("global_standings", global_standings)
+
 
 def default_points(team, competition):
     """
@@ -62,6 +79,7 @@ def default_points(team, competition):
     """
     for key, value in team[competition].items():
         team[competition][key] = 0 if value == "X" else value
+
 
 def get_team_qualification_status(row):
     """
@@ -77,28 +95,33 @@ def get_team_qualification_status(row):
             status = "Can qualify to Six Invitational"
     return status
 
+
 def get_people_data(url):
     """
-    Invokes get_staff() or get_players() to get either player or staff data,
+    Makes GET request to url argument, with a 10s timeout.
+    Then it invokes get_staff() or get_players() to get either player or staff data,
     depending on whose data the table of current iteration holds.
-    At the end, saves the scraped data to a JSON file.
+    At the end, exports the scraped data to a JSON file.
     """
-    page = requests.get(url).text
-    soup = BeautifulSoup(page, "html.parser")
+    logger.info("Scraping players and staff data")
+    page = requests.get(url, timeout=10)
+    soup = BeautifulSoup(page.content, "html.parser")
     for table in soup.find_all("table", class_="wikitable"):
         # Every table of staff & talents has an 'abbr' tag
         if table.find("abbr"):
             get_staff(table)
         else:
             get_players(table)
+    logger.info("Players and staff data have been scraped successfully")
+    export_to_json("player_list", player_list)
+    export_to_json("staff_list", staff_list)
 
-    export_to_json("players", list_of_players)
-    export_to_json("staff", list_of_staff)
 
 def get_staff(table):
     """
-    Gets non-players data, stores in dict and appends to list_of_staff.
+    Gets non-players data, stores in dict and appends to staff_list.
     """
+    logger.info("Scraping staff data")
     for row in table.find_all("tr"):
         if row.find("th"):
             continue
@@ -123,15 +146,16 @@ def get_staff(table):
                 else "active",
             }
 
-            list_of_staff.append(staff_info)
-    logging.info("Staff data scrapped successfully!")
-    return list_of_staff.sort(key=lambda x: x["team"])
+            staff_list.append(staff_info)
+    logging.info("Staff data scraped successfully!")
+    return staff_list.sort(key=lambda x: x["team"])
 
 
 def get_players(table):
     """
-    Gets players data, stores in dict and appends to list_of_players.
+    Gets players data, stores in dict and appends to player_list.
     """
+    logger.info("Scraping players data")
     for row in table.find_all("tr"):
         if row.find("th"):
             continue
@@ -154,9 +178,9 @@ def get_players(table):
                 if len(row.find("td")["style"].split(":")) == 3
                 else "active",
             }
-            list_of_players.append(player_info)
-    logging.info("Player data scrapped successfully!")
-    return list_of_players.sort(key=lambda x: x["team"])
+            player_list.append(player_info)
+    logging.info("Players data scrapped successfully!")
+    return player_list.sort(key=lambda x: x["team"])
 
 
 def get_status(row):
@@ -172,6 +196,27 @@ def get_status(row):
         case _:
             status = "active"
     return status
+
+
+def get_birthdays(url):
+    """
+    Makes GET request to url argument with a 10s timeout.
+    Then it gets every player and community personalities birthdays and exports to JSON file.
+    """
+    logger.info("Scraping birthday list")
+    page = requests.get(url, timeout=10)
+    soup = BeautifulSoup(page.content, "html.parser")
+    for row in soup.select("table tbody tr")[1:]:
+        row.span.extract()
+        player = {
+            "nickname": row.select_one("td > a").text,
+            "name": row.select("td")[-1].text,
+            "day of month": row.select("td")[1].text,
+            "year": row.select("td")[0].text,
+        }
+        birthday_list.append(player)
+    logger.info("Birthday list scraped successfully")
+    export_to_json("birthday_list", birthday_list)
 
 
 if __name__ == "__main__":
