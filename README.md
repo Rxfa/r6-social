@@ -16,12 +16,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -62,6 +56,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -69,22 +64,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rxfa`, `r6-social`, `rxfa__1`, `R6 Social`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+[![React][React.js]][React-url]
+[![Django][Django]][Django-url]
+[![Python][Python]][Python-url]
+[![Material-ui][Material-ui]][Material-ui-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,12 +105,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-* [ ] Users can create, edit and delete their accounts.
-* [ ] Following system.
-* [ ] Write players, staff, teams and competitions data to the database.
-* [ ] Users can place bets, and compete with others to see who wins the most.
-* [ ] App displays all the data in great detail.
-* [ ] Predictive analytics.
+- [ ] Extract, clean and organize data on players, staff, teams and competitions.
+- [ ] Write all the extracted data to the database.
+- [ ] Users can create, edit and delete their accounts.
+- [ ] Mods can suspend Users.
+- [ ] Create fake currency for betting system.
+- [ ] Create betting system.
+- [ ] App displays **as much data as possible** in an intuitive and good looking way.
+- [ ] Prediction analytics. (maybe)
 
 See the [open issues](https://github.com/rxfa/r6-social/issues) for a full list of proposed features (and known issues).
 
@@ -144,18 +135,33 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rafael Nicolau - [@rxfa__1](https://twitter.com/rxfa__1)
+Rxfa - [@rxfa__1](https://twitter.com/rxfa__1)
 
-Project Link: [https://github.com/rxfa/r6-social](https://github.com/rxfa/r6-social)
+Project Link - [https://github.com/rxfa/r6-social](https://github.com/rxfa/r6-social)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Contributors
+
+## Special thanks for all the people who had helped this project so far:
+
+> Here you should include a list of people who helped your project. A good practice would be their names and GH profiles. Other additional info may fit, but names and profiles are mandatory. Proper credits matter.
+
+* [CyberKiller00](https://github.com/CyberKiller00)
+* [s8nm4m](https://github.com/s8nm4m)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Django Rest Framework](https://www.django-rest-framework.org/)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Django rest knox](https://james1345.github.io/django-rest-knox/)
+* [Airbnb Javascript Style Guide](https://airbnb.io/javascript/react)
+* [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+* [SiegeGG](https://siege.gg/)
+* [Liquipedia](https://liquipedia.net/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,19 +177,13 @@ Project Link: [https://github.com/rxfa/r6-social](https://github.com/rxfa/r6-soc
 [issues-url]: https://github.com/rxfa/r6-social/issues
 [license-shield]: https://img.shields.io/github/license/rxfa/r6-social.svg?style=for-the-badge
 [license-url]: https://github.com/rxfa/r6-social/blob/master/LICENSE.txt
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+[Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://www.djangoproject.com/
+[Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://docs.python.org/3/
+[JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Material-ui]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[Material-ui-url]: https://mui.com/
