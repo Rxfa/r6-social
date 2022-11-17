@@ -1,9 +1,9 @@
+import os
 import json
 import logging
 
 import requests
 from bs4 import BeautifulSoup
-
 
 logger = logging.getLogger(__name__)
 
@@ -13,6 +13,10 @@ GLOBAL_POINTS_URL = (
 )
 BIRTHDAY_LIST_URL = "https://liquipedia.net/rainbowsix/Birthday_list"
 
+BASE_URL = "https://liquipedia.net"
+
+
+list_of_teams = []
 staff_list = []
 player_list = []
 birthday_list = []
@@ -23,8 +27,12 @@ def main():
     #get_global_points(GLOBAL_POINTS_URL)
     #get_people_data(PEOPLE_DATA_URL)
     get_birthdays(BIRTHDAY_LIST_URL)
-
-
+    
+    team_data_url = "https://liquipedia.net/rainbowsix/Portal:Teams"
+    get_team_data(team_data_url)
+    export_to_json("team_data",list_of_teams)
+    
+    
 def export_to_json(filename, data):
     """
     Exports given data list to JSON file.
@@ -219,6 +227,49 @@ def get_birthdays(url):
     birthday_list.sort(key=lambda x: x["year"])
     export_to_json("birthday_list", birthday_list)
 
+    
+def get_team_data(url):
+    page = requests.get(url,timeout=10).text
+    soup = BeautifulSoup(page, "lxml")
+    for table in soup.find_all("table", class_="wikitable"):
+        if table.find("span", class_="team-template-text").find("a")["href"]:
+            page = requests.get(
+                f"{BASE_URL}{table.find('span', class_='team-template-text').find('a')['href']}",timeout=10
+            ).content
+            soup = BeautifulSoup(page, "html.parser")
+            get_team(soup)
+        else:
+            continue
+    return list_of_teams
 
+
+def get_team(soup):
+    name = soup.find("div", class_="infobox-header").text.split("]")[-1]
+    folder_name = "_".join(name.lower().split(" "))
+    infobox = soup.find_all("div", class_="infobox-cell-2")
+    country = infobox[1].text.strip()
+    region = infobox[3].text.strip()
+    team_data ={
+        "name":name,
+        "country": country,
+        "region":region,
+    }
+    list_of_teams.append(team_data)
+    team_logos(soup, folder_name)
+    return list_of_teams
+
+def team_logos(soup, name):
+    path_name = r"..\media\logos\teams"
+    if not os.path.exists(path_name):
+        os.makedirs(path_name)
+    else:
+        new_path = f"{path_name}\{name}" 
+        if not os.path.exists(new_path):# in case the folder doesnt exit creates it
+            os.mkdir(new_path)
+        img_path = soup.find("div", class_="floatnone").find("img")["src"]
+        image_data = requests.get(f"{BASE_URL}{img_path}",timeout=10).content
+        with open(f"{path_name}\{name}\{name}.png", 'wb') as handler:
+            handler.write(image_data)
+                        
 if __name__ == "__main__":
     main()
