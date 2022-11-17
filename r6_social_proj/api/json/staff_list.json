@@ -1274,7 +1274,7 @@
     {
         "country": "Italy",
         "nickname": "Simo01",
-        "real name": "",
+        "real name": "Simone",
         "team": "",
         "role": "Admin",
         "status": "active"
@@ -3268,7 +3268,7 @@
         "nickname": "Daughter",
         "real name": "Mandy Powers",
         "team": "ESL",
-        "role": "(Observer)",
+        "role": "(Caster)",
         "status": "active"
     },
     {
@@ -4000,6 +4000,14 @@
         "status": "active"
     },
     {
+        "country": "South Korea",
+        "nickname": "Squ4d",
+        "real name": "Bang Woo-sik",
+        "team": "Quintette Shizuoka",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
         "country": "Belgium",
         "nickname": "Phantom2ification",
         "real name": "David Stynen",
@@ -4213,14 +4221,6 @@
         "real name": "",
         "team": "TENSTAR",
         "role": "(Analyst)",
-        "status": "active"
-    },
-    {
-        "country": "South Korea",
-        "nickname": "Squ4d",
-        "real name": "Bang Woo-sik",
-        "team": "TRIDENT",
-        "role": "(Coach)",
         "status": "active"
     },
     {
