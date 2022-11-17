@@ -272,4 +272,5 @@ def team_logos(soup, name):
             handler.write(image_data)
                         
 if __name__ == "__main__":
-    main()
+    main()  
+    
