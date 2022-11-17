@@ -233,14 +233,6 @@
     },
     {
         "country": "Mexico",
-        "nickname": "Akibeel",
-        "real name": "Edwin Vázquez",
-        "team": "ALPHA Team",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "Mexico",
         "nickname": "Clipe",
         "real name": "Rene Clark",
         "team": "ALPHA Team",
@@ -416,14 +408,6 @@
         "status": "active"
     },
     {
-        "country": "United States",
-        "nickname": "Saikosys",
-        "real name": "Jeffrey Pingel",
-        "team": "Aqualix",
-        "role": "Player",
-        "status": "active"
-    },
-    {
         "country": "Canada",
         "nickname": "StorMz",
         "real name": "Antony Bossé-Henri",
@@ -449,7 +433,23 @@
     },
     {
         "country": "United States",
-        "nickname": "Tonez",
+        "nickname": "Saikosys",
+        "real name": "Jeffrey Pingel",
+        "team": "Arial Arise",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Tra",
+        "real name": "",
+        "team": "Arial Arise",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "slothi",
         "real name": "",
         "team": "Arial Arise",
         "role": "Player",
@@ -892,14 +892,6 @@
         "nickname": "Wh1skey",
         "real name": "Itsuki Sasa",
         "team": "Crest Gaming Lst",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "South Korea",
-        "nickname": "CATsang",
-        "real name": "Heo Se-woong",
-        "team": "DAMWON Gaming",
         "role": "Player",
         "status": "active"
     },
@@ -2817,14 +2809,6 @@
     },
     {
         "country": "Brazil",
-        "nickname": "Ar7hr",
-        "real name": "Arthur Arantes",
-        "team": "LFT",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "Brazil",
         "nickname": "Astery",
         "real name": "Livian Camilo",
         "team": "LFT",
@@ -4409,6 +4393,14 @@
     },
     {
         "country": "Japan",
+        "nickname": "Nellfq",
+        "real name": "",
+        "team": "LFT",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
         "nickname": "No2",
         "real name": "Taku Murakami",
         "team": "LFT",
@@ -4451,6 +4443,14 @@
         "country": "Japan",
         "nickname": "Simotuki",
         "real name": "Tomohisa Imoto",
+        "team": "LFT",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "SpeakEqsy",
+        "real name": "Hashi Daichi",
         "team": "LFT",
         "role": "Player",
         "status": "active"
@@ -4779,14 +4779,6 @@
         "country": "Mexico",
         "nickname": "Slaay",
         "real name": "Joan Castillo",
-        "team": "LFT",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "Mexico",
-        "nickname": "Unfixed",
-        "real name": "Aldair Oliva",
         "team": "LFT",
         "role": "Player",
         "status": "active"
@@ -5273,6 +5265,14 @@
     },
     {
         "country": "South Korea",
+        "nickname": "CATsang",
+        "real name": "Heo Se-woong",
+        "team": "LFT",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
         "nickname": "Chanzo",
         "real name": "Jeon Won-kyun",
         "team": "LFT",
@@ -5395,6 +5395,14 @@
         "country": "South Korea",
         "nickname": "RBT",
         "real name": "Kim Dong-chan",
+        "team": "LFT",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "RoyBoy",
+        "real name": "Koo Min-seong",
         "team": "LFT",
         "role": "Player",
         "status": "active"
@@ -6673,6 +6681,14 @@
     },
     {
         "country": "United States",
+        "nickname": "Tonez",
+        "real name": "",
+        "team": "LFT",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "United States",
         "nickname": "TragikL",
         "real name": "",
         "team": "LFT",
@@ -7633,14 +7649,6 @@
     },
     {
         "country": "Japan",
-        "nickname": "SpeakEqsy",
-        "real name": "Hashi Daichi",
-        "team": "Northeption",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "Japan",
         "nickname": "febar",
         "real name": "Hayade Tsuda",
         "team": "Northeption",
@@ -8088,14 +8096,6 @@
         "status": "active"
     },
     {
-        "country": "Japan",
-        "nickname": "Nellfq",
-        "real name": "",
-        "team": "Quintette Shizuoka",
-        "role": "Player",
-        "status": "active"
-    },
-    {
         "country": "Russia",
         "nickname": "Frey",
         "real name": "Konstantin Volegov",
@@ -8252,6 +8252,14 @@
         "nickname": "Poison",
         "real name": "Callum Keegan",
         "team": "RentFree",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Unfixed",
+        "real name": "Aldair Oliva",
+        "team": "Reven Esports",
         "role": "Player",
         "status": "active"
     },
@@ -8489,6 +8497,14 @@
     },
     {
         "country": "Mexico",
+        "nickname": "Akibeel",
+        "real name": "Edwin Vázquez",
+        "team": "Six Karma",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
         "nickname": "Crespo",
         "real name": "Miguel Crespo",
         "team": "Six Karma",
@@ -8681,14 +8697,6 @@
     },
     {
         "country": "South Korea",
-        "nickname": "RoyBoy",
-        "real name": "Koo Min-seong",
-        "team": "Spear Gaming",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "South Korea",
         "nickname": "iLeven",
         "real name": "Cha Won-il",
         "team": "Spear Gaming",
@@ -8724,6 +8732,14 @@
         "nickname": "SAxTurki",
         "real name": "Turki",
         "team": "Sudor Esports",
+        "role": "Player",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ar7hr",
+        "real name": "Arthur Arantes",
+        "team": "SuperNova Team",
         "role": "Player",
         "status": "active"
     },
@@ -9456,14 +9472,6 @@
         "status": "active"
     },
     {
-        "country": "United States",
-        "nickname": "slothi",
-        "real name": "",
-        "team": "The Favelas",
-        "role": "Player",
-        "status": "active"
-    },
-    {
         "country": "Japan",
         "nickname": "Eight",
         "real name": "Eito Shintaku",
@@ -9499,14 +9507,6 @@
         "country": "Puerto Rico",
         "nickname": "Karnageb",
         "real name": "Brandon Santos",
-        "team": "Unemployment",
-        "role": "Player",
-        "status": "active"
-    },
-    {
-        "country": "United States",
-        "nickname": "Tra",
-        "real name": "",
         "team": "Unemployment",
         "role": "Player",
         "status": "active"
