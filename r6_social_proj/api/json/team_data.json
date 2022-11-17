@@ -1,0 +1,447 @@
+[
+    {
+        "name": "Acend",
+        "country": " Austria France",
+        "region": "Europe"
+    },
+    {
+        "name": "Ambush Esport",
+        "country": " Denmark",
+        "region": "Europe"
+    },
+    {
+        "name": "DeathroW",
+        "country": " France",
+        "region": "Europe"
+    },
+    {
+        "name": "Epsilon eSports",
+        "country": " Belgium",
+        "region": "Europe"
+    },
+    {
+        "name": "G2 Esports",
+        "country": " Germany Europe",
+        "region": "Europe"
+    },
+    {
+        "name": "GoSkilla",
+        "country": " Switzerland",
+        "region": "Europe"
+    },
+    {
+        "name": "Granit Gaming",
+        "country": " Sweden",
+        "region": "Europe"
+    },
+    {
+        "name": "HellRaisers",
+        "country": " Ukraine Russia",
+        "region": "Europe"
+    },
+    {
+        "name": "Heroic",
+        "country": " Denmark",
+        "region": "Europe"
+    },
+    {
+        "name": "Invicta",
+        "country": " Poland",
+        "region": "Europe"
+    },
+    {
+        "name": "Mkers",
+        "country": " Italy",
+        "region": "Europe"
+    },
+    {
+        "name": "MNM Gaming",
+        "country": " United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "name": "Natus Vincere",
+        "country": " Ukraine United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "name": "PACT",
+        "country": " Poland",
+        "region": "Europe"
+    },
+    {
+        "name": "Playing Ducks",
+        "country": " Germany",
+        "region": "Europe"
+    },
+    {
+        "name": "Rogue",
+        "country": " United States Germany",
+        "region": "Europe"
+    },
+    {
+        "name": "Team BDS",
+        "country": " Switzerland France",
+        "region": "Europe"
+    },
+    {
+        "name": "Team Secret",
+        "country": " Europe Germany",
+        "region": "Europe"
+    },
+    {
+        "name": "TENSTAR",
+        "country": " United Kingdom Nordic Countries",
+        "region": "Europe"
+    },
+    {
+        "name": "Totem Esports",
+        "country": " Italy France",
+        "region": "Europe"
+    },
+    {
+        "name": "Virtus.pro",
+        "country": " Russia",
+        "region": "Europe"
+    },
+    {
+        "name": "WiLD MultiGaming",
+        "country": " Hungary",
+        "region": "Europe"
+    },
+    {
+        "name": "Wolves Esports",
+        "country": " France United Kingdom",
+        "region": "Europe"
+    },
+    {
+        "name": "WYLDE",
+        "country": " Ireland Germany",
+        "region": "Europe"
+    },
+    {
+        "name": "Yunktis",
+        "country": " France",
+        "region": "Europe"
+    },
+    {
+        "name": "Arial Arise",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Astralis",
+        "country": " Denmark United States",
+        "region": "North America"
+    },
+    {
+        "name": "beastcoast",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "DarkZero Esports",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Luminosity Gaming",
+        "country": " Canada United States",
+        "region": "North America"
+    },
+    {
+        "name": "Mirage",
+        "country": " Canada",
+        "region": "North America"
+    },
+    {
+        "name": "Oxygen Esports",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Parabellum Esports",
+        "country": " Canada",
+        "region": "North America"
+    },
+    {
+        "name": "RentFree",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Soniqs",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Spacestation Gaming",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "Team MystiC NA",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "TSM",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "XSET",
+        "country": " United States",
+        "region": "North America"
+    },
+    {
+        "name": "ALPHA Team",
+        "country": " Mexico United States",
+        "region": "Latin America"
+    },
+    {
+        "name": "Black Dragons e-Sports",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Black Dragons e-Sports Female",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "FaZe Clan",
+        "country": " United States Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Fenix Esports",
+        "country": " Mexico",
+        "region": "Latin America"
+    },
+    {
+        "name": "FURIA Esports",
+        "country": " Brazil United States",
+        "region": "Latin America"
+    },
+    {
+        "name": "Furious Gaming",
+        "country": " Argentina",
+        "region": "Latin America"
+    },
+    {
+        "name": "Golden Kids",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Guidance Gaming",
+        "country": " United States Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Malvinas Gaming",
+        "country": " Argentina",
+        "region": "Latin America"
+    },
+    {
+        "name": "MeT",
+        "country": " Mexico",
+        "region": "Latin America"
+    },
+    {
+        "name": "MIBR",
+        "country": " United States Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Newstar",
+        "country": " Chile",
+        "region": "Latin America"
+    },
+    {
+        "name": "Ninjas in Pyjamas",
+        "country": " Sweden Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "OverKnight",
+        "country": " Mexico",
+        "region": "Latin America"
+    },
+    {
+        "name": "Red Wolf Esports Female",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Six Karma",
+        "country": " Mexico",
+        "region": "Latin America"
+    },
+    {
+        "name": "SuperNova Team",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Team Liquid",
+        "country": " Netherlands Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Team oNe eSports",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "w7m esports",
+        "country": " Brazil",
+        "region": "Latin America"
+    },
+    {
+        "name": "Crest Gaming Lst",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "CYCLOPS athlete gaming",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "DAMWON Gaming",
+        "country": " South Korea",
+        "region": "Asia"
+    },
+    {
+        "name": "Dire Wolves",
+        "country": " Australia Taiwan",
+        "region": "Asia"
+    },
+    {
+        "name": "Donuts Unsold Stuff Gaming",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "Elevate",
+        "country": " United States Thailand",
+        "region": "Asia"
+    },
+    {
+        "name": "FAV gaming",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "Fnatic",
+        "country": " United Kingdom Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "FURY",
+        "country": " Australia Thailand",
+        "region": "Oceania"
+    },
+    {
+        "name": "Gaimin Gladiators",
+        "country": " Canada",
+        "region": "Asia"
+    },
+    {
+        "name": "KIRA E-Sports",
+        "country": " India",
+        "region": "Asia"
+    },
+    {
+        "name": "Knights",
+        "country": " United States Australia",
+        "region": "Oceania"
+    },
+    {
+        "name": "mantis FPS",
+        "country": " South Korea",
+        "region": "Asia"
+    },
+    {
+        "name": "MercenarieZ",
+        "country": " Bangladesh",
+        "region": "Asia"
+    },
+    {
+        "name": "MonkaS",
+        "country": " India",
+        "region": "Asia-Pacific"
+    },
+    {
+        "name": "NORTHEPTION",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "PANTHERA",
+        "country": " South Korea",
+        "region": "Asia"
+    },
+    {
+        "name": "Renatus",
+        "country": " Indonesia",
+        "region": "Asia"
+    },
+    {
+        "name": "SANDBOX Gaming",
+        "country": " South Korea",
+        "region": "Asia"
+    },
+    {
+        "name": "SCARZ",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "Sengoku Gaming",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "Spear Gaming",
+        "country": " South Korea",
+        "region": "Asia"
+    },
+    {
+        "name": "Talon Esports",
+        "country": " South Korea Hong Kong",
+        "region": "Asia"
+    },
+    {
+        "name": "Team Bliss",
+        "country": " Australia",
+        "region": "Oceania"
+    },
+    {
+        "name": "Tyde",
+        "country": " Singapore",
+        "region": "Asia"
+    },
+    {
+        "name": "Velocity9",
+        "country": " Taiwan",
+        "region": "Asia"
+    },
+    {
+        "name": "Wildcard Gaming",
+        "country": " United States Australia",
+        "region": "Oceania"
+    },
+    {
+        "name": "YOSHIMOTO Gaming Lamy",
+        "country": " Japan",
+        "region": "Asia"
+    },
+    {
+        "name": "Zepto",
+        "country": " Japan",
+        "region": "Asia"
+    }
+]

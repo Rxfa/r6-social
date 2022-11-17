@@ -24,15 +24,18 @@ global_standings = []
 
 
 def main():
-    #get_global_points(GLOBAL_POINTS_URL)
-    #get_people_data(PEOPLE_DATA_URL)
+    # get_global_points(GLOBAL_POINTS_URL)
+    # get_people_data(PEOPLE_DATA_URL)
     get_birthdays(BIRTHDAY_LIST_URL)
-    
+
     team_data_url = "https://liquipedia.net/rainbowsix/Portal:Teams"
     get_team_data(team_data_url)
-    export_to_json("team_data",list_of_teams)
-    
-    
+
+
+def save_img():
+    pass
+
+
 def export_to_json(filename, data):
     """
     Exports given data list to JSON file.
@@ -227,50 +230,59 @@ def get_birthdays(url):
     birthday_list.sort(key=lambda x: x["year"])
     export_to_json("birthday_list", birthday_list)
 
-    
+
 def get_team_data(url):
-    page = requests.get(url,timeout=10).text
+    """
+    Iterates through every table and makes GET a request
+    if a link to a team profile is found.
+    """
+    page = requests.get(url, timeout=10).text
     soup = BeautifulSoup(page, "lxml")
     for table in soup.find_all("table", class_="wikitable"):
         if table.find("span", class_="team-template-text").find("a")["href"]:
             page = requests.get(
-                f"{BASE_URL}{table.find('span', class_='team-template-text').find('a')['href']}",timeout=10
+                f"{BASE_URL}{table.find('span', class_='team-template-text').find('a')['href']}",
+                timeout=10,
             ).content
             soup = BeautifulSoup(page, "html.parser")
             get_team(soup)
         else:
             continue
-    return list_of_teams
+    return export_to_json("team_data", list_of_teams)
 
 
 def get_team(soup):
+    """
+    Makes GET request to url argument with a 10s timeout.
+    Then it gets data on team and appends to list_of_teams.
+    """
     name = soup.find("div", class_="infobox-header").text.split("]")[-1]
     folder_name = "_".join(name.lower().split(" "))
     infobox = soup.find_all("div", class_="infobox-cell-2")
-    country = infobox[1].text.strip()
+    country = infobox[1].text
     region = infobox[3].text.strip()
-    team_data ={
-        "name":name,
-        "country": country,
-        "region":region,
+    team_data = {
+        "name": name,
+        "country": country.strip(),
+        "region": region.strip(),
     }
     list_of_teams.append(team_data)
     team_logos(soup, folder_name)
     return list_of_teams
 
+
 def team_logos(soup, name):
-    path_name = r"..\media\logos\teams"
-    if not os.path.exists(path_name):
-        os.makedirs(path_name)
+    """
+    Gets team image and saves to media/logos/team/<name arg>
+    """
+    image_url = f"../media/logos/teams/{name}/{name}.png"
+    if os.path.isfile(image_url):
+        logger.info("%s.png has already been saved", name)
     else:
-        new_path = f"{path_name}\{name}" 
-        if not os.path.exists(new_path):# in case the folder doesnt exit creates it
-            os.mkdir(new_path)
         img_path = soup.find("div", class_="floatnone").find("img")["src"]
-        image_data = requests.get(f"{BASE_URL}{img_path}",timeout=10).content
-        with open(f"{path_name}\{name}\{name}.png", 'wb') as handler:
-            handler.write(image_data)
-                        
+        image_data = requests.get(f"{BASE_URL}{img_path}", timeout=10)
+        with open(image_url, 'wb') as handler:
+            handler.write(image_data.content)
+
 if __name__ == "__main__":
-    main()  
-    
+    main()
