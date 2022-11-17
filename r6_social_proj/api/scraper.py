@@ -13,9 +13,6 @@ GLOBAL_POINTS_URL = (
 )
 BIRTHDAY_LIST_URL = "https://liquipedia.net/rainbowsix/Birthday_list"
 
-
-
-
 BASE_URL = "https://liquipedia.net"
 
 
@@ -227,8 +224,9 @@ def get_birthdays(url):
         }
         birthday_list.append(player)
     logger.info("Birthday list scraped successfully")
-    #export_to_json("birthday_list", birthday_list)
-    
+    birthday_list.sort(key=lambda x: x["year"])
+    export_to_json("birthday_list", birthday_list)
+
     
 def get_team_data(url):
     page = requests.get(url,timeout=10).text
@@ -243,6 +241,7 @@ def get_team_data(url):
         else:
             continue
     return list_of_teams
+
 
 def get_team(soup):
     name = soup.find("div", class_="infobox-header").text.split("]")[-1]
