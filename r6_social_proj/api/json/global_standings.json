@@ -167,7 +167,7 @@
         "team": "MNM Gaming",
         "points": "830+",
         "max points": "1155",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": "225",
@@ -185,7 +185,7 @@
         "team": "FaZe Clan",
         "points": "800+",
         "max points": "1125",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": 0,
             "2nd stage": "225",
@@ -203,7 +203,7 @@
         "team": "Elevate",
         "points": "800",
         "max points": "800",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": "215",
@@ -221,7 +221,7 @@
         "team": "Heroic",
         "points": "775+",
         "max points": "1100",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": "225",
@@ -239,7 +239,7 @@
         "team": "CYCLOPS athlete gaming",
         "points": "745+",
         "max points": "1070",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": "205",
@@ -257,7 +257,7 @@
         "team": "Team Liquid",
         "points": "730+",
         "max points": "1055",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": 0,
@@ -275,7 +275,7 @@
         "team": "FURIA Esports",
         "points": "720",
         "max points": "720",
-        "status": "Qualified to Six Invitational",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": "225",
@@ -293,7 +293,7 @@
         "team": "SANDBOX Gaming",
         "points": "700+",
         "max points": "1025",
-        "status": "Cannot qualify via points",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "115",
             "2nd stage": "215",
@@ -311,7 +311,7 @@
         "team": "Soniqs",
         "points": "665+",
         "max points": "990",
-        "status": "Cannot qualify via points",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "115",
             "2nd stage": "225",
@@ -329,7 +329,7 @@
         "team": "Dire Wolves",
         "points": "595+",
         "max points": "920",
-        "status": "Cannot qualify via points",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": 0,
@@ -383,7 +383,7 @@
         "team": "Spacestation Gaming",
         "points": "500+",
         "max points": "825",
-        "status": "Cannot qualify via points",
+        "status": "Can qualify to Six Invitational",
         "regional league": {
             "1st stage": "225",
             "2nd stage": 0,

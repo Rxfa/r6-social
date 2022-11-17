@@ -49,7 +49,7 @@ def get_global_points(url):
             ],
             "points": row.select("td")[3].select_one("b").text,
             "max points": row.select("td")[4].text,
-            "status": get_team_qualification_status(row.select_one("td")),
+            "status": get_team_qualification_status(row.find_all("td")[2]),
             "regional league": {
                 "1st stage": row.select("td[colspan='1']")[0].text,
                 "2nd stage": row.select("td[colspan='1']")[2].text,
@@ -83,13 +83,16 @@ def get_team_qualification_status(row):
     Team rows are color coded according to Six Invitation qualification status.
     Returns Team Six Invitational qualification status.
     """
-    match row["style"]:
-        case "background-color:rgb(221,244,221)":
-            status = "Qualified to Six Invitational"
-        case "background-color:rgb(251,223,223)":
-            status = "Cannot qualify via points"
-        case _:
-            status = "Can qualify to Six Invitational"
+    if row.get("style") is None:
+        status = "Can qualify to Six Invitational"
+    else:
+        match row["style"]:
+            case "background-color:rgb(221,244,221)":
+                status = "Qualified to Six Invitational"
+            case "background-color:rgb(251,223,223)":
+                status = "Cannot qualify via points"
+            case _:
+                status = "Can qualify to Six Invitational"
     return status
 
 
