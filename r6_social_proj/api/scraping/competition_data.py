@@ -7,6 +7,11 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://liquipedia.net"
 COMPETITION_URLS = [
+    "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/365-six-sweden-major-2021?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/404-six-charlotte-major-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/418-six-berlin-major-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/297-six-invitational-2021?tab=results&stats=full-stats",
     "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
     "https://liquipedia.net/rainbowsix/Six_Invitational/2022",
 ]
@@ -63,16 +68,19 @@ def get_competition_mvp(raw):
     """
     logger.info("scraping MVP data.")
     mvp_card = raw.select_one("div[class='nook nook--player nook--stat nook--award award--mvp mb-3 w-100']")
-    mvp = dict(
-        player=mvp_card.select_one("div:first-child h4 > a").text,
-        rating=mvp_card.select_one("div:last-child > div:first-child > div:nth-child(2)").text,
-        operators=dict(
-            attack=mvp_card.select_one("div[class='col-6 stat__number'] > span:first-child > a > span").text,
-            defense=mvp_card.select_one("div[class='col-6 stat__number'] > span:last-child > a > span").text,
-        ),
-    )
-    logger.info("MVP data has been scraped successfully")
-    return mvp
+    if mvp_card:
+        mvp = dict(
+            player=mvp_card.select_one("div:first-child h4 > a").text,
+            rating=mvp_card.select_one("div:last-child > div:first-child > div:nth-child(2)").text,
+            operators=dict(
+                attack=mvp_card.select_one("div[class='col-6 stat__number'] > span:first-child > a > span").text,
+                defense=mvp_card.select_one("div[class='col-6 stat__number'] > span:last-child > a > span").text,
+            ),
+        )
+        logger.info("MVP data has been scraped successfully")
+        return mvp
+    else:
+        return None
 
 
 def get_competition_player_stats(raw):

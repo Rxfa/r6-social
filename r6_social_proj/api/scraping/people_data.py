@@ -9,6 +9,8 @@ PEOPLE_DATA_URL = "https://liquipedia.net/rainbowsix/Portal:Players/All"
 BIRTHDAY_LIST_URL = "https://liquipedia.net/rainbowsix/Birthday_list"
 BASE_URL = "https://liquipedia.net"
 
+staff_list = []
+player_list = []
 
 def main():
     get_birthdays(BIRTHDAY_LIST_URL)
@@ -39,7 +41,6 @@ def get_staff(table):
     Gets non-players data, stores in dict and appends to staff_list.
     """
     logger.info("Scraping staff data")
-    staff_list = []
     for row in table.find_all("tr"):
         if row.find("th"):
             continue
@@ -65,10 +66,10 @@ def get_staff(table):
                         else "active"
                     ),
             )
-
             staff_list.append(staff_info)
     logging.info("Staff data scraped successfully!")
-    return "Staff", staff_list.sort(key=lambda x: x["team"])
+    staff_list.sort(key=lambda x: x["team"])
+    return "Staff", staff_list
 
 @convert_to_json
 def get_players(table):
@@ -76,7 +77,6 @@ def get_players(table):
     Gets players data, stores in dict and appends to player_list.
     """
     logger.info("Scraping players data")
-    player_list = []
     for row in table.find_all("tr"):
         if row.find("th"):
             continue
@@ -103,7 +103,8 @@ def get_players(table):
             )
             player_list.append(player_info)
     logging.info("Players data scrapped successfully!")
-    return "Players", player_list.sort(key=lambda x: x["team"])
+    player_list.sort(key=lambda x: x["team"])
+    return "Players", player_list
 
 
 def get_status(row):
