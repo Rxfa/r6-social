@@ -1,9 +1,8 @@
 import os
-import json
 import logging
-
 import requests
 from bs4 import BeautifulSoup
+from myutils.util import convert_to_json
 
 logger = logging.getLogger(__name__)
 
@@ -13,26 +12,14 @@ GLOBAL_POINTS_URL = (
     "https://liquipedia.net/rainbowsix/Six_Invitational/2023/Global_Standings"
 )
 
-list_of_teams = []
-global_standings = []
-
-
 def main():
-    get_global_points(GLOBAL_POINTS_URL)
+    get_global_standings(GLOBAL_POINTS_URL)
     get_team_data(TEAM_DATA_URL)
+    return None
 
 
-def export_to_json(filename, data):
-    """
-    Exports given data list to JSON file.
-    """
-    logger.info("Exporting %s to JSON file.", filename)
-    with open(f"../json/{filename}.json", "w+", encoding="utf-8") as file:
-        file.write(json.dumps(data, ensure_ascii=False, indent=4))
-        logger.info("%s exported to json/%s.json successfully!", data, filename)
-
-
-def get_global_points(url):
+@convert_to_json
+def get_global_standings(url):
     """
     Makes GET request to url argument, with a 10 timeout.
     Then it extracts teams global points standings and exports to a JSON file.
@@ -40,34 +27,35 @@ def get_global_points(url):
     logger.info("Scraping global points standings")
     page = requests.get(url, timeout=10)
     soup = BeautifulSoup(page.content, "html.parser")
+    global_standings = []
     for row in soup.select(".table-responsive tbody tr")[1:]:
-        team_global_points = {
-            "place": row.select_one("td b").text,
-            "subregion": row.select_one(".league-icon-small-image a")["title"],
-            "team": row.select_one('span[class="team-template-team-standard"]')[
+        team_global_points = dict(
+            place=row.select_one("td b").text,
+            subregion=row.select_one(".league-icon-small-image a")["title"],
+            team=row.select_one('span[class="team-template-team-standard"]')[
                 "data-highlightingclass"
             ],
-            "points": row.select("td")[3].select_one("b").text,
-            "max points": row.select("td")[4].text,
-            "status": get_team_qualification_status(row.find_all("td")[2]),
-            "regional league": {
-                "1st stage": row.select("td[colspan='1']")[0].text,
-                "2nd stage": row.select("td[colspan='1']")[2].text,
-                "3rd stage": row.select("td[colspan='1']")[4].text,
-            },
-            "major": {
-                "February": row.select("td[colspan='1']")[1].text,
-                "August": row.select("td[colspan='1']")[3].text,
-                "November": row.select("td[colspan='1']")[5].text,
-            },
-        }
+            points=row.select("td")[3].select_one("b").text,
+            max_points=row.select("td")[4].text,
+            status=get_team_qualification_status(row.find_all("td")[2]),
+            league=dict(
+                stage_1=row.select("td[colspan='1']")[0].text,
+                stage_2=row.select("td[colspan='1']")[2].text,
+                stage_3=row.select("td[colspan='1']")[4].text,
+            ),
+            major=dict(
+                february=row.select("td[colspan='1']")[1].text,
+                august=row.select("td[colspan='1']")[3].text,
+                november=row.select("td[colspan='1']")[5].text,
+            )
+        )
         try:
-            default_points(team_global_points, "regional league")
+            default_points(team_global_points, "league")
             default_points(team_global_points, "major")
         finally:
             global_standings.append(team_global_points)
             logger.info("Global points standings have been scraped successfully")
-            export_to_json("global_standings", global_standings)
+    return "Global_standings", global_standings
 
 
 def default_points(team, competition):
@@ -76,6 +64,7 @@ def default_points(team, competition):
     """
     for key, value in team[competition].items():
         team[competition][key] = 0 if value == "X" else value
+    return None
 
 
 def get_team_qualification_status(row):
@@ -96,6 +85,7 @@ def get_team_qualification_status(row):
     return status
 
 
+@convert_to_json
 def get_team_data(url):
     """
     Iterates through every table and makes GET a request
@@ -103,20 +93,20 @@ def get_team_data(url):
     """
     page = requests.get(url, timeout=10).text
     soup = BeautifulSoup(page, "lxml")
+    list_of_teams = []
     for table in soup.find_all("table", class_="wikitable"):
         if table.find("span", class_="team-template-text").find("a")["href"]:
             page = requests.get(
                 f"{BASE_URL}{table.find('span', class_='team-template-text').find('a')['href']}",
                 timeout=10,
-            ).content
-            soup = BeautifulSoup(page, "html.parser")
-            get_team(soup)
+            )
+            soup = BeautifulSoup(page.content, "html.parser")
+            get_team(list_of_teams, soup)
         else:
             continue
-    return export_to_json("team_data", list_of_teams)
+    return "Team", list_of_teams
 
-
-def get_team(soup):
+def get_team(list_of_teams, soup):
     """
     Makes GET request to url argument with a 10s timeout.
     Then it gets data on team and appends to list_of_teams.
@@ -126,14 +116,13 @@ def get_team(soup):
     infobox = soup.find_all("div", class_="infobox-cell-2")
     country = infobox[1].text
     region = infobox[3].text.strip()
-    team_data = {
-        "name": name,
-        "country": country.strip(),
-        "region": region.strip(),
-    }
+    team_data = dict(
+        name=name,
+        country=country.strip(),
+        region=region.strip(),
+    )
     list_of_teams.append(team_data)
-    team_logos(soup, folder_name)
-    return list_of_teams
+    return team_logos(soup, folder_name)
 
 
 def team_logos(soup, name):
@@ -148,6 +137,7 @@ def team_logos(soup, name):
         image_data = requests.get(f"{BASE_URL}{img_path}", timeout=10)
         with open(image_url, "wb") as handler:
             handler.write(image_data.content)
+    return None
 
 
 if __name__ == "__main__":
