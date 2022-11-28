@@ -58,8 +58,7 @@ def get_competition_teams(raw):
     def get_team_name(team):
         team.img.extract()
         return team.select_one("a div").text.strip()
-    result = [get_team_name(team) for team in participants]
-    return result
+    return [get_team_name(team) for team in participants]
 
 
 def get_competition_mvp(raw):
@@ -112,8 +111,7 @@ def get_competition_player_stats(raw):
             ),
         )
         return player
-    player_stats = [get_row_stats(player) for player in stats_table]
-    return player_stats
+    return [get_row_stats(player) for player in stats_table]
 
 
 def get_map_picks(raw):
@@ -136,8 +134,7 @@ def get_map_picks(raw):
             plays=plays,
             bombsites=[get_winrates(bombsite) for bombsite in def_winrate]
         )
-    map_picks = [get_map_info(map) for map in map_cards]
-    return map_picks
+    return [get_map_info(map) for map in map_cards]
 
 
 if __name__ == "__main__":
