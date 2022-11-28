@@ -2,7 +2,7 @@
     {
         "country": "Argentina",
         "nickname": "Asterix",
-        "real name": "Alvaro Pagliaricci",
+        "name": "Alvaro Pagliaricci",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -10,7 +10,7 @@
     {
         "country": "Argentina",
         "nickname": "Kanserix",
-        "real name": "Jorge Azubel",
+        "name": "Jorge Azubel",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -18,7 +18,7 @@
     {
         "country": "Argentina",
         "nickname": "Microkw",
-        "real name": "Rodrigo Maza",
+        "name": "Rodrigo Maza",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -26,7 +26,7 @@
     {
         "country": "Argentina",
         "nickname": "Nhepheria",
-        "real name": "Pablo Geneyro",
+        "name": "Pablo Geneyro",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -34,7 +34,7 @@
     {
         "country": "Argentina",
         "nickname": "Novag3x",
-        "real name": "Nahuel Taier",
+        "name": "Nahuel Taier",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -42,7 +42,7 @@
     {
         "country": "Argentina",
         "nickname": "UnProPlayer",
-        "real name": "Gonza Santillán",
+        "name": "Gonza Santillán",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -50,7 +50,7 @@
     {
         "country": "Australia",
         "nickname": "AmFlea",
-        "real name": "Simon Davis",
+        "name": "Simon Davis",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -58,7 +58,7 @@
     {
         "country": "Australia",
         "nickname": "DK",
-        "real name": "Danny Kim",
+        "name": "Danny Kim",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -66,7 +66,7 @@
     {
         "country": "Australia",
         "nickname": "Derpeh",
-        "real name": "Brendan Carr",
+        "name": "Brendan Carr",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -74,7 +74,7 @@
     {
         "country": "Australia",
         "nickname": "Devmarta",
-        "real name": "James Stewart",
+        "name": "James Stewart",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -82,7 +82,7 @@
     {
         "country": "Australia",
         "nickname": "Elfishguy",
-        "real name": "Jordan Mays",
+        "name": "Jordan Mays",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -90,7 +90,7 @@
     {
         "country": "Australia",
         "nickname": "Fluxx",
-        "real name": "Bharath Sukesh",
+        "name": "Bharath Sukesh",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -98,7 +98,7 @@
     {
         "country": "Australia",
         "nickname": "Guzz",
-        "real name": "Michael Gurrie",
+        "name": "Michael Gurrie",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -106,7 +106,7 @@
     {
         "country": "Australia",
         "nickname": "ItBeStyle",
-        "real name": "Jayden Franken",
+        "name": "Jayden Franken",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -114,7 +114,7 @@
     {
         "country": "Australia",
         "nickname": "Jess",
-        "real name": "Jessica Bolden",
+        "name": "Jessica Bolden",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -122,7 +122,7 @@
     {
         "country": "Australia",
         "nickname": "MC",
-        "real name": "Michael Campagna",
+        "name": "Michael Campagna",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -130,7 +130,7 @@
     {
         "country": "Australia",
         "nickname": "Manic",
-        "real name": "Robert Munday",
+        "name": "Robert Munday",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -138,7 +138,7 @@
     {
         "country": "Australia",
         "nickname": "Monkeyfist",
-        "real name": "Sam Royals",
+        "name": "Sam Royals",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -146,7 +146,7 @@
     {
         "country": "Australia",
         "nickname": "Nuttery",
-        "real name": "Ethan Christie",
+        "name": "Ethan Christie",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -154,7 +154,7 @@
     {
         "country": "Australia",
         "nickname": "Proto",
-        "real name": "Kai Brookes",
+        "name": "Kai Brookes",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -162,7 +162,7 @@
     {
         "country": "Australia",
         "nickname": "Sinnix",
-        "real name": "Emrys Clegg",
+        "name": "Emrys Clegg",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -170,7 +170,7 @@
     {
         "country": "Australia",
         "nickname": "Skye",
-        "real name": "Alex McCallum",
+        "name": "Alex McCallum",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -178,7 +178,7 @@
     {
         "country": "Australia",
         "nickname": "Vast",
-        "real name": "Isaiah Patterson",
+        "name": "Isaiah Patterson",
         "team": "",
         "role": "Analyst",
         "status": "retired"
@@ -186,7 +186,7 @@
     {
         "country": "Australia",
         "nickname": "Zenox",
-        "real name": "Jake Venditti",
+        "name": "Jake Venditti",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -194,7 +194,7 @@
     {
         "country": "Australia",
         "nickname": "pikniq",
-        "real name": "Jed Dixon",
+        "name": "Jed Dixon",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -202,7 +202,7 @@
     {
         "country": "Australia",
         "nickname": "syliX",
-        "real name": "Vinnie Tam",
+        "name": "Vinnie Tam",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -210,7 +210,7 @@
     {
         "country": "Austria",
         "nickname": "S1lenty_",
-        "real name": "Nico Schwingenschrot",
+        "name": "Nico Schwingenschrot",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -218,7 +218,7 @@
     {
         "country": "Belarus",
         "nickname": "N1ghtEnd",
-        "real name": "Yaroslav Klochko",
+        "name": "Yaroslav Klochko",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -226,7 +226,7 @@
     {
         "country": "Belgium",
         "nickname": "Slump3r",
-        "real name": "Pierre-Anthony Hubert",
+        "name": "Pierre-Anthony Hubert",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -234,7 +234,7 @@
     {
         "country": "Brazil",
         "nickname": "Alpha",
-        "real name": "Victor Passarin",
+        "name": "Victor Passarin",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -242,7 +242,7 @@
     {
         "country": "Brazil",
         "nickname": "Ar7hur",
-        "real name": "Arthur Schubert",
+        "name": "Arthur Schubert",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -250,7 +250,7 @@
     {
         "country": "Brazil",
         "nickname": "Carrelzinha",
-        "real name": "Izabelly Carrel",
+        "name": "Izabelly Carrel",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -258,7 +258,7 @@
     {
         "country": "Brazil",
         "nickname": "Doc",
-        "real name": "Gabriel Amato",
+        "name": "Gabriel Amato",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -266,7 +266,7 @@
     {
         "country": "Brazil",
         "nickname": "Dryx",
-        "real name": "Marcos Vinícios",
+        "name": "Marcos Vinícios",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -274,7 +274,7 @@
     {
         "country": "Brazil",
         "nickname": "Duda",
-        "real name": "Maria Eduarda Avella",
+        "name": "Maria Eduarda Avella",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -282,7 +282,7 @@
     {
         "country": "Brazil",
         "nickname": "Fernandes",
-        "real name": "Renan Fernandes",
+        "name": "Renan Fernandes",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -290,7 +290,7 @@
     {
         "country": "Brazil",
         "nickname": "GC Gamer",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -298,7 +298,7 @@
     {
         "country": "Brazil",
         "nickname": "Gabrilos",
-        "real name": "Gabriel Calixto",
+        "name": "Gabriel Calixto",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -306,7 +306,7 @@
     {
         "country": "Brazil",
         "nickname": "Galdo",
-        "real name": "Mathias Galdi",
+        "name": "Mathias Galdi",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -314,7 +314,7 @@
     {
         "country": "Brazil",
         "nickname": "Guilherme Sarda",
-        "real name": "Guilherme Sarda",
+        "name": "Guilherme Sarda",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -322,7 +322,7 @@
     {
         "country": "Brazil",
         "nickname": "Hit",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -330,7 +330,7 @@
     {
         "country": "Brazil",
         "nickname": "IqueGMK",
-        "real name": "Luiz Monclar",
+        "name": "Luiz Monclar",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -338,7 +338,7 @@
     {
         "country": "Brazil",
         "nickname": "Izabelly Carrel",
-        "real name": "Izabelly Carrel",
+        "name": "Izabelly Carrel",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -346,7 +346,7 @@
     {
         "country": "Brazil",
         "nickname": "JP",
-        "real name": "João Teixeira",
+        "name": "João Teixeira",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -354,7 +354,7 @@
     {
         "country": "Brazil",
         "nickname": "Ju Póca",
-        "real name": "Juliane Póca",
+        "name": "Juliane Póca",
         "team": "",
         "role": "Manager",
         "status": "inactive"
@@ -362,7 +362,7 @@
     {
         "country": "Brazil",
         "nickname": "Konstantino",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -370,7 +370,7 @@
     {
         "country": "Brazil",
         "nickname": "LGS",
-        "real name": "Lucca Santucci",
+        "name": "Lucca Santucci",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -378,7 +378,7 @@
     {
         "country": "Brazil",
         "nickname": "Lansamisio",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -386,7 +386,7 @@
     {
         "country": "Brazil",
         "nickname": "Lend4",
-        "real name": "Daniel Ferreira",
+        "name": "Daniel Ferreira",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -394,7 +394,7 @@
     {
         "country": "Brazil",
         "nickname": "LukeeR",
-        "real name": "Luke Ramires",
+        "name": "Luke Ramires",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -402,7 +402,7 @@
     {
         "country": "Brazil",
         "nickname": "M00DY",
-        "real name": "Daniel Oliveira",
+        "name": "Daniel Oliveira",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -410,7 +410,7 @@
     {
         "country": "Brazil",
         "nickname": "Machadinho",
-        "real name": "Gabriel Machado",
+        "name": "Gabriel Machado",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -418,7 +418,7 @@
     {
         "country": "Brazil",
         "nickname": "Mathias Galdi",
-        "real name": "Mathias Galdi",
+        "name": "Mathias Galdi",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -426,7 +426,7 @@
     {
         "country": "Brazil",
         "nickname": "Meligeni",
-        "real name": "André Santos",
+        "name": "André Santos",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -434,7 +434,7 @@
     {
         "country": "Brazil",
         "nickname": "Mirelle Moschella",
-        "real name": "Mirelle Moschella",
+        "name": "Mirelle Moschella",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -442,7 +442,7 @@
     {
         "country": "Brazil",
         "nickname": "Mity",
-        "real name": "Dyjair Soares",
+        "name": "Dyjair Soares",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -450,7 +450,7 @@
     {
         "country": "Brazil",
         "nickname": "Mohamad",
-        "real name": "Lucas Mohamad",
+        "name": "Lucas Mohamad",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -458,7 +458,7 @@
     {
         "country": "Brazil",
         "nickname": "Nyvi Estephan",
-        "real name": "Nyvi Estephan",
+        "name": "Nyvi Estephan",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -466,7 +466,7 @@
     {
         "country": "Brazil",
         "nickname": "O.Gabss",
-        "real name": "Gabriel Carvalho",
+        "name": "Gabriel Carvalho",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -474,7 +474,7 @@
     {
         "country": "Brazil",
         "nickname": "Palamidas",
-        "real name": "Daniel Palamidese",
+        "name": "Daniel Palamidese",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -482,7 +482,7 @@
     {
         "country": "Brazil",
         "nickname": "Ramon Venter",
-        "real name": "Ramon Venter",
+        "name": "Ramon Venter",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -490,7 +490,7 @@
     {
         "country": "Brazil",
         "nickname": "Retalha",
-        "real name": "Otávio Rodrigues Ceschi",
+        "name": "Otávio Rodrigues Ceschi",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -498,7 +498,7 @@
     {
         "country": "Brazil",
         "nickname": "Rovida",
-        "real name": "Bruno Rovida",
+        "name": "Bruno Rovida",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -506,7 +506,7 @@
     {
         "country": "Brazil",
         "nickname": "SePz",
-        "real name": "Pedro Rodrigues",
+        "name": "Pedro Rodrigues",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -514,7 +514,7 @@
     {
         "country": "Brazil",
         "nickname": "Shoiti Ono",
-        "real name": "Shoiti Ono",
+        "name": "Shoiti Ono",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -522,7 +522,7 @@
     {
         "country": "Brazil",
         "nickname": "Silence",
-        "real name": "Adenauer Alvarenga",
+        "name": "Adenauer Alvarenga",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -530,7 +530,7 @@
     {
         "country": "Brazil",
         "nickname": "SunshineM18",
-        "real name": "Mohana Lopes",
+        "name": "Mohana Lopes",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -538,7 +538,7 @@
     {
         "country": "Brazil",
         "nickname": "Thico",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -546,7 +546,7 @@
     {
         "country": "Brazil",
         "nickname": "Tonello",
-        "real name": "Felipe Souza",
+        "name": "Felipe Souza",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -554,7 +554,7 @@
     {
         "country": "Brazil",
         "nickname": "Viic",
-        "real name": "Victória Rodrigues",
+        "name": "Victória Rodrigues",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -562,7 +562,7 @@
     {
         "country": "Brazil",
         "nickname": "Yankkz",
-        "real name": "Thiago Quélhas",
+        "name": "Thiago Quélhas",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -570,7 +570,7 @@
     {
         "country": "Brazil",
         "nickname": "qeP",
-        "real name": "Ricardo Fugi",
+        "name": "Ricardo Fugi",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -578,7 +578,7 @@
     {
         "country": "Brazil",
         "nickname": "rFont4",
-        "real name": "Rodrigo Fontanella",
+        "name": "Rodrigo Fontanella",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -586,7 +586,7 @@
     {
         "country": "Brazil",
         "nickname": "sSeiiya",
-        "real name": "Henrique Sanchez",
+        "name": "Henrique Sanchez",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -594,7 +594,7 @@
     {
         "country": "Canada",
         "nickname": "Brimstone",
-        "real name": "James Flynn",
+        "name": "James Flynn",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -602,7 +602,7 @@
     {
         "country": "Canada",
         "nickname": "Chill",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -610,7 +610,7 @@
     {
         "country": "Canada",
         "nickname": "Fermay",
-        "real name": "Peter Nightingales",
+        "name": "Peter Nightingales",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -618,7 +618,7 @@
     {
         "country": "Canada",
         "nickname": "Flynn",
-        "real name": "Rob Flynn",
+        "name": "Rob Flynn",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -626,7 +626,7 @@
     {
         "country": "Canada",
         "nickname": "Forceful",
-        "real name": "Tanner McHattie",
+        "name": "Tanner McHattie",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -634,7 +634,7 @@
     {
         "country": "Canada",
         "nickname": "Gioo",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -642,7 +642,7 @@
     {
         "country": "Canada",
         "nickname": "Interro",
-        "real name": "Parker Mackay",
+        "name": "Parker Mackay",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -650,7 +650,7 @@
     {
         "country": "Canada",
         "nickname": "Jarvis",
-        "real name": "Sam Jarvis",
+        "name": "Sam Jarvis",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -658,7 +658,7 @@
     {
         "country": "Canada",
         "nickname": "Jesse Chick",
-        "real name": "Jesse Chick",
+        "name": "Jesse Chick",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -666,7 +666,7 @@
     {
         "country": "Canada",
         "nickname": "KenZ",
-        "real name": "Trevor D. Kenzie",
+        "name": "Trevor D. Kenzie",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -674,7 +674,7 @@
     {
         "country": "Canada",
         "nickname": "The Evil Waffle",
-        "real name": "Jeffrey Haworth",
+        "name": "Jeffrey Haworth",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -682,7 +682,7 @@
     {
         "country": "Chile",
         "nickname": "Cinnacup",
-        "real name": "Claudio Vigouroux",
+        "name": "Claudio Vigouroux",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -690,7 +690,7 @@
     {
         "country": "Chile",
         "nickname": "Joe Pino",
-        "real name": "Diego Chaer",
+        "name": "Diego Chaer",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -698,7 +698,7 @@
     {
         "country": "Chile",
         "nickname": "Ppiippeee",
-        "real name": "Felipe Guerra",
+        "name": "Felipe Guerra",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -706,7 +706,7 @@
     {
         "country": "Chile",
         "nickname": "WikS",
-        "real name": "Jorge Weeks",
+        "name": "Jorge Weeks",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -714,7 +714,7 @@
     {
         "country": "China",
         "nickname": "孤独的小锤子",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -722,7 +722,7 @@
     {
         "country": "China",
         "nickname": "飞雪再临恍若隔世",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -730,7 +730,7 @@
     {
         "country": "Croatia",
         "nickname": "med1cz",
-        "real name": "Ante Medić",
+        "name": "Ante Medić",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -738,7 +738,7 @@
     {
         "country": "Egypt",
         "nickname": "Unseen",
-        "real name": "Yahya Mokhtar",
+        "name": "Yahya Mokhtar",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -746,7 +746,7 @@
     {
         "country": "Finland",
         "nickname": "ProtaX",
-        "real name": "Mikko Mutanen",
+        "name": "Mikko Mutanen",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -754,7 +754,7 @@
     {
         "country": "Finland",
         "nickname": "Vapo",
-        "real name": "Petri Laiho",
+        "name": "Petri Laiho",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -762,7 +762,7 @@
     {
         "country": "Finland",
         "nickname": "r0usty",
-        "real name": "Wille Turunen",
+        "name": "Wille Turunen",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -770,7 +770,7 @@
     {
         "country": "France",
         "nickname": "Alive",
-        "real name": "Nathan Donday",
+        "name": "Nathan Donday",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -778,7 +778,7 @@
     {
         "country": "France",
         "nickname": "AlphaX",
-        "real name": "Thomas Martinez",
+        "name": "Thomas Martinez",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -786,7 +786,7 @@
     {
         "country": "France",
         "nickname": "BiOs",
-        "real name": "Arnaud Billaudel",
+        "name": "Arnaud Billaudel",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -794,7 +794,7 @@
     {
         "country": "France",
         "nickname": "DineroJD",
-        "real name": "Jérémy Devaux",
+        "name": "Jérémy Devaux",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -802,7 +802,7 @@
     {
         "country": "France",
         "nickname": "Fabien",
-        "real name": "Fabien Bacquet",
+        "name": "Fabien Bacquet",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -810,7 +810,7 @@
     {
         "country": "France",
         "nickname": "Frenchi",
-        "real name": "Paul Droal",
+        "name": "Paul Droal",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -818,7 +818,7 @@
     {
         "country": "France",
         "nickname": "Heaavens",
-        "real name": "Raphaël Trinel",
+        "name": "Raphaël Trinel",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -826,7 +826,7 @@
     {
         "country": "France",
         "nickname": "Hell",
-        "real name": "Baptiste Adiasse",
+        "name": "Baptiste Adiasse",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -834,7 +834,7 @@
     {
         "country": "France",
         "nickname": "Joghurtzz",
-        "real name": "Nolan Crouzery",
+        "name": "Nolan Crouzery",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -842,7 +842,7 @@
     {
         "country": "France",
         "nickname": "Lanf3ust",
-        "real name": "Philippe Rivain",
+        "name": "Philippe Rivain",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -850,7 +850,7 @@
     {
         "country": "France",
         "nickname": "Salzem",
-        "real name": "Salem Haddad",
+        "name": "Salem Haddad",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -858,7 +858,7 @@
     {
         "country": "France",
         "nickname": "Scok",
-        "real name": "Guillaume Beck",
+        "name": "Guillaume Beck",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -866,7 +866,7 @@
     {
         "country": "France",
         "nickname": "Swish",
-        "real name": "Nicolas Bouhier",
+        "name": "Nicolas Bouhier",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -874,7 +874,7 @@
     {
         "country": "France",
         "nickname": "TORTANK",
-        "real name": "Clément Windecker",
+        "name": "Clément Windecker",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -882,7 +882,7 @@
     {
         "country": "France",
         "nickname": "TPEX",
-        "real name": "Alexandre Koenig",
+        "name": "Alexandre Koenig",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -890,7 +890,7 @@
     {
         "country": "France",
         "nickname": "Tapis",
-        "real name": "Armand Haye",
+        "name": "Armand Haye",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -898,7 +898,7 @@
     {
         "country": "France",
         "nickname": "fiskeR",
-        "real name": "Tony Geoffroy",
+        "name": "Tony Geoffroy",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -906,7 +906,7 @@
     {
         "country": "France",
         "nickname": "jahk",
-        "real name": "Cyril Renoud",
+        "name": "Cyril Renoud",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -914,7 +914,7 @@
     {
         "country": "France",
         "nickname": "spokeN",
-        "real name": "Jonathan Nolasco",
+        "name": "Jonathan Nolasco",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -922,7 +922,7 @@
     {
         "country": "Germany",
         "nickname": "AgOnY",
-        "real name": "Lucian Kohn",
+        "name": "Lucian Kohn",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -930,7 +930,7 @@
     {
         "country": "Germany",
         "nickname": "AmA",
-        "real name": "Tim Dahmann",
+        "name": "Tim Dahmann",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -938,7 +938,7 @@
     {
         "country": "Germany",
         "nickname": "Centus",
-        "real name": "Antoni Lagemann",
+        "name": "Antoni Lagemann",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -946,7 +946,7 @@
     {
         "country": "Germany",
         "nickname": "Der Fox",
-        "real name": "Markus Schwenn",
+        "name": "Markus Schwenn",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -954,7 +954,7 @@
     {
         "country": "Germany",
         "nickname": "DocYen",
-        "real name": "Thorben Henger",
+        "name": "Thorben Henger",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -962,7 +962,7 @@
     {
         "country": "Germany",
         "nickname": "Dryike",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -970,7 +970,7 @@
     {
         "country": "Germany",
         "nickname": "Harris",
-        "real name": "Ihno Kampen",
+        "name": "Ihno Kampen",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -978,7 +978,7 @@
     {
         "country": "Germany",
         "nickname": "Hektor",
-        "real name": "Maximilian Spring",
+        "name": "Maximilian Spring",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -986,7 +986,7 @@
     {
         "country": "Germany",
         "nickname": "Lazzo",
-        "real name": "Lasse Klie",
+        "name": "Lasse Klie",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -994,7 +994,7 @@
     {
         "country": "Germany",
         "nickname": "MilliTheKid",
-        "real name": "Milan Nowakowski",
+        "name": "Milan Nowakowski",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1002,7 +1002,7 @@
     {
         "country": "Germany",
         "nickname": "Mori",
-        "real name": "Maurice Lange",
+        "name": "Maurice Lange",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1010,7 +1010,7 @@
     {
         "country": "Germany",
         "nickname": "NeTfLeX",
-        "real name": "Nico Zimmer",
+        "name": "Nico Zimmer",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1018,7 +1018,7 @@
     {
         "country": "Germany",
         "nickname": "Reaper",
-        "real name": "Eric Nohl",
+        "name": "Eric Nohl",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -1026,7 +1026,7 @@
     {
         "country": "Germany",
         "nickname": "Silver219",
-        "real name": "Riccardo Minuto",
+        "name": "Riccardo Minuto",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1034,7 +1034,7 @@
     {
         "country": "Germany",
         "nickname": "Sua",
-        "real name": "Kevin Stahnke",
+        "name": "Kevin Stahnke",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1042,7 +1042,7 @@
     {
         "country": "Germany",
         "nickname": "ThoreBnB",
-        "real name": "Thore Lehmann",
+        "name": "Thore Lehmann",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1050,7 +1050,7 @@
     {
         "country": "Germany",
         "nickname": "Verdipwnz",
-        "real name": "Marius Lauer",
+        "name": "Marius Lauer",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1058,7 +1058,7 @@
     {
         "country": "Germany",
         "nickname": "morxzas",
-        "real name": "Julian Miculcy",
+        "name": "Julian Miculcy",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1066,7 +1066,7 @@
     {
         "country": "Germany",
         "nickname": "nOose",
-        "real name": "Alex Rennemann",
+        "name": "Alex Rennemann",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1074,7 +1074,7 @@
     {
         "country": "Hungary",
         "nickname": "Graff",
-        "real name": "Barnabás Greff",
+        "name": "Barnabás Greff",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1082,7 +1082,7 @@
     {
         "country": "India",
         "nickname": "Aleanboy",
-        "real name": "Shariq Rana",
+        "name": "Shariq Rana",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1090,7 +1090,7 @@
     {
         "country": "India",
         "nickname": "BabaGusta",
-        "real name": "Yaksha Malagatti",
+        "name": "Yaksha Malagatti",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1098,7 +1098,7 @@
     {
         "country": "India",
         "nickname": "BlackJack",
-        "real name": "Anuresh Chakraborty",
+        "name": "Anuresh Chakraborty",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1106,7 +1106,7 @@
     {
         "country": "India",
         "nickname": "Darkside",
-        "real name": "Vinayak Goswami",
+        "name": "Vinayak Goswami",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1114,7 +1114,7 @@
     {
         "country": "India",
         "nickname": "Dr Dang",
-        "real name": "Kanav Dang",
+        "name": "Kanav Dang",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1122,7 +1122,7 @@
     {
         "country": "India",
         "nickname": "Eizen",
-        "real name": "Soham Roy Chowdhury",
+        "name": "Soham Roy Chowdhury",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1130,7 +1130,7 @@
     {
         "country": "India",
         "nickname": "Foxtrot",
-        "real name": "Het Vora",
+        "name": "Het Vora",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1138,7 +1138,7 @@
     {
         "country": "India",
         "nickname": "Mr Reborn",
-        "real name": "Anirudh Bommina",
+        "name": "Anirudh Bommina",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1146,7 +1146,7 @@
     {
         "country": "India",
         "nickname": "Overseer",
-        "real name": "Sai Raj Mambeti",
+        "name": "Sai Raj Mambeti",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1154,7 +1154,7 @@
     {
         "country": "India",
         "nickname": "Sedulous",
-        "real name": "Rishab Goyal",
+        "name": "Rishab Goyal",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1162,7 +1162,7 @@
     {
         "country": "India",
         "nickname": "Teck",
-        "real name": "Gitansh Arora",
+        "name": "Gitansh Arora",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1170,7 +1170,7 @@
     {
         "country": "India",
         "nickname": "iMajorNova",
-        "real name": "Priyank Patel",
+        "name": "Priyank Patel",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1178,7 +1178,7 @@
     {
         "country": "Indonesia",
         "nickname": "Evou",
-        "real name": "Dyaz Caesar",
+        "name": "Dyaz Caesar",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -1186,7 +1186,7 @@
     {
         "country": "Iran",
         "nickname": "K1",
-        "real name": "Keyvan Ataei",
+        "name": "Keyvan Ataei",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1194,7 +1194,7 @@
     {
         "country": "Ireland",
         "nickname": "Whippet",
-        "real name": "Dylan Maguire",
+        "name": "Dylan Maguire",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1202,7 +1202,7 @@
     {
         "country": "Italy",
         "nickname": "Eddie",
-        "real name": "Edoardo Cianciosi",
+        "name": "Edoardo Cianciosi",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1210,7 +1210,7 @@
     {
         "country": "Italy",
         "nickname": "Etrurian",
-        "real name": "Filippo Burresi",
+        "name": "Filippo Burresi",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1218,7 +1218,7 @@
     {
         "country": "Italy",
         "nickname": "Hybrid",
-        "real name": "Riccardo Massimino Font",
+        "name": "Riccardo Massimino Font",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1226,7 +1226,7 @@
     {
         "country": "Italy",
         "nickname": "JustRyuk",
-        "real name": "Mauro Barone",
+        "name": "Mauro Barone",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1234,7 +1234,7 @@
     {
         "country": "Italy",
         "nickname": "LiFe",
-        "real name": "Francesco Caforio",
+        "name": "Francesco Caforio",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -1242,7 +1242,7 @@
     {
         "country": "Italy",
         "nickname": "LordChanka",
-        "real name": "Valentino Allegri",
+        "name": "Valentino Allegri",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1250,7 +1250,7 @@
     {
         "country": "Italy",
         "nickname": "MrBox",
-        "real name": "Michele Scattola",
+        "name": "Michele Scattola",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1258,7 +1258,7 @@
     {
         "country": "Italy",
         "nickname": "Police",
-        "real name": "Alessandro Selmo",
+        "name": "Alessandro Selmo",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -1266,7 +1266,7 @@
     {
         "country": "Italy",
         "nickname": "RedLike",
-        "real name": "Pietro Girardo",
+        "name": "Pietro Girardo",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1274,7 +1274,7 @@
     {
         "country": "Italy",
         "nickname": "Simo01",
-        "real name": "Simone",
+        "name": "Simone",
         "team": "",
         "role": "Admin",
         "status": "active"
@@ -1282,7 +1282,7 @@
     {
         "country": "Italy",
         "nickname": "Torok",
-        "real name": "Matteo Bellotti",
+        "name": "Matteo Bellotti",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1290,7 +1290,7 @@
     {
         "country": "Italy",
         "nickname": "sNakj",
-        "real name": "Giovanni Murabito",
+        "name": "Giovanni Murabito",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1298,7 +1298,7 @@
     {
         "country": "Japan",
         "nickname": "CAN4D3",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Analyst",
         "status": "inactive"
@@ -1306,7 +1306,7 @@
     {
         "country": "Japan",
         "nickname": "ChloroForM",
-        "real name": "Takuya Kurosu",
+        "name": "Takuya Kurosu",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1314,7 +1314,7 @@
     {
         "country": "Japan",
         "nickname": "Frieda",
-        "real name": "Toshiaki Kubota",
+        "name": "Toshiaki Kubota",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1322,7 +1322,7 @@
     {
         "country": "Japan",
         "nickname": "Hono ice",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1330,7 +1330,7 @@
     {
         "country": "Japan",
         "nickname": "Joghurt",
-        "real name": "Tomohiro Ito",
+        "name": "Tomohiro Ito",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1338,7 +1338,7 @@
     {
         "country": "Japan",
         "nickname": "Laughingfox",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1346,7 +1346,7 @@
     {
         "country": "Japan",
         "nickname": "Nonomiya Mika",
-        "real name": "Mika Nonomiya",
+        "name": "Mika Nonomiya",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1354,7 +1354,7 @@
     {
         "country": "Japan",
         "nickname": "Norio",
-        "real name": "Kazunori Sakamoto",
+        "name": "Kazunori Sakamoto",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1362,7 +1362,7 @@
     {
         "country": "Japan",
         "nickname": "OUDON",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1370,7 +1370,7 @@
     {
         "country": "Japan",
         "nickname": "Okamoto",
-        "real name": "Shu Okamoto",
+        "name": "Shu Okamoto",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1378,7 +1378,7 @@
     {
         "country": "Japan",
         "nickname": "Okayama",
-        "real name": "Kazuya Okayama",
+        "name": "Kazuya Okayama",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1386,7 +1386,7 @@
     {
         "country": "Japan",
         "nickname": "P3Ril",
-        "real name": "Ryo Nakabayashi",
+        "name": "Ryo Nakabayashi",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -1394,7 +1394,7 @@
     {
         "country": "Japan",
         "nickname": "Pep",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1402,7 +1402,7 @@
     {
         "country": "Japan",
         "nickname": "Pimen",
-        "real name": "Yuka Sawaura",
+        "name": "Yuka Sawaura",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1410,7 +1410,7 @@
     {
         "country": "Japan",
         "nickname": "Tomozoh",
-        "real name": "Tomohisa Yamano",
+        "name": "Tomohisa Yamano",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1418,7 +1418,7 @@
     {
         "country": "Japan",
         "nickname": "Urameshi",
-        "real name": "Yusuke Horie",
+        "name": "Yusuke Horie",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1426,7 +1426,7 @@
     {
         "country": "Japan",
         "nickname": "XQQ",
-        "real name": "Hibiki Motoyama",
+        "name": "Hibiki Motoyama",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1434,7 +1434,7 @@
     {
         "country": "Japan",
         "nickname": "prototype_1z",
-        "real name": "Shinya Nishiwaki",
+        "name": "Shinya Nishiwaki",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1442,7 +1442,7 @@
     {
         "country": "Japan",
         "nickname": "seven",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Analyst",
         "status": "inactive"
@@ -1450,7 +1450,7 @@
     {
         "country": "Kazakhstan",
         "nickname": "Toda",
-        "real name": "Kerim Musaev",
+        "name": "Kerim Musaev",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1458,7 +1458,7 @@
     {
         "country": "Malaysia",
         "nickname": "SerSparta",
-        "real name": "Munir Ghazali",
+        "name": "Munir Ghazali",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1466,7 +1466,7 @@
     {
         "country": "Mexico",
         "nickname": "ACE AcT ilsE",
-        "real name": "Ilse Zaldivar",
+        "name": "Ilse Zaldivar",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1474,7 +1474,7 @@
     {
         "country": "Mexico",
         "nickname": "BRAVE",
-        "real name": "Luis Flores",
+        "name": "Luis Flores",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1482,7 +1482,7 @@
     {
         "country": "Mexico",
         "nickname": "Demonweasel",
-        "real name": "Diego Quiñónez",
+        "name": "Diego Quiñónez",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -1490,7 +1490,7 @@
     {
         "country": "Mexico",
         "nickname": "Edward Crush",
-        "real name": "Eduardo Jimenez",
+        "name": "Eduardo Jimenez",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1498,7 +1498,7 @@
     {
         "country": "Mexico",
         "nickname": "EzPz",
-        "real name": "Alfonso Ruiz",
+        "name": "Alfonso Ruiz",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1506,7 +1506,7 @@
     {
         "country": "Mexico",
         "nickname": "Foxtrot",
-        "real name": "Rafael Jacques",
+        "name": "Rafael Jacques",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1514,7 +1514,7 @@
     {
         "country": "Mexico",
         "nickname": "GamingOhs",
-        "real name": "Juan Luqueño",
+        "name": "Juan Luqueño",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1522,7 +1522,7 @@
     {
         "country": "Mexico",
         "nickname": "HeyBell",
-        "real name": "Paola Becerri",
+        "name": "Paola Becerri",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -1530,7 +1530,7 @@
     {
         "country": "Mexico",
         "nickname": "Linkin Pick",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1538,7 +1538,7 @@
     {
         "country": "Mexico",
         "nickname": "Lord",
-        "real name": "Angel Rodríguez",
+        "name": "Angel Rodríguez",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1546,7 +1546,7 @@
     {
         "country": "Mexico",
         "nickname": "Lord Angel",
-        "real name": "Angel Rodríguez",
+        "name": "Angel Rodríguez",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1554,7 +1554,7 @@
     {
         "country": "Mexico",
         "nickname": "Mapache Verde",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1562,7 +1562,7 @@
     {
         "country": "Mexico",
         "nickname": "Maple Games",
-        "real name": "Gabriel Sintora",
+        "name": "Gabriel Sintora",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1570,7 +1570,7 @@
     {
         "country": "Mexico",
         "nickname": "Muebleitor",
-        "real name": "Gustavo Gomez",
+        "name": "Gustavo Gomez",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -1578,7 +1578,7 @@
     {
         "country": "Mexico",
         "nickname": "Pausalins",
-        "real name": "Paulina Salinas",
+        "name": "Paulina Salinas",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -1586,7 +1586,7 @@
     {
         "country": "Mexico",
         "nickname": "Romeo",
-        "real name": "Alejandro Déleon Pajón",
+        "name": "Alejandro Déleon Pajón",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1594,7 +1594,7 @@
     {
         "country": "Mexico",
         "nickname": "Ronny",
-        "real name": "Ronaldo Rodríguez",
+        "name": "Ronaldo Rodríguez",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1602,7 +1602,7 @@
     {
         "country": "Mexico",
         "nickname": "Royon",
-        "real name": "Rodrigo Suarez",
+        "name": "Rodrigo Suarez",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1610,7 +1610,7 @@
     {
         "country": "Mexico",
         "nickname": "Skyshock",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1618,7 +1618,7 @@
     {
         "country": "Mexico",
         "nickname": "Tyrone",
-        "real name": "Abdiel Tyrone",
+        "name": "Abdiel Tyrone",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1626,7 +1626,7 @@
     {
         "country": "Morocco",
         "nickname": "KidQuix",
-        "real name": "Hatim",
+        "name": "Hatim",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1634,7 +1634,7 @@
     {
         "country": "Netherlands",
         "nickname": "Anthony",
-        "real name": "Anthony L.",
+        "name": "Anthony L.",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1642,7 +1642,7 @@
     {
         "country": "Netherlands",
         "nickname": "Okidokie98",
-        "real name": "Brandon de Baat",
+        "name": "Brandon de Baat",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1650,7 +1650,7 @@
     {
         "country": "Netherlands",
         "nickname": "TeamSix",
-        "real name": "Sebastiaan Kissing",
+        "name": "Sebastiaan Kissing",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -1658,7 +1658,7 @@
     {
         "country": "Netherlands",
         "nickname": "oVie",
-        "real name": "Michiel van Dartel",
+        "name": "Michiel van Dartel",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1666,7 +1666,7 @@
     {
         "country": "New Zealand",
         "nickname": "Bluepanda",
-        "real name": "Billy Brereton",
+        "name": "Billy Brereton",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1674,7 +1674,7 @@
     {
         "country": "New Zealand",
         "nickname": "LAN",
-        "real name": "Ian Seaton",
+        "name": "Ian Seaton",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1682,7 +1682,7 @@
     {
         "country": "New Zealand",
         "nickname": "WarTurtle",
-        "real name": "Patrick Gleeson",
+        "name": "Patrick Gleeson",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1690,7 +1690,7 @@
     {
         "country": "Norway",
         "nickname": "Snurreleif",
-        "real name": "Thomas Johan Brorstad Rønningen",
+        "name": "Thomas Johan Brorstad Rønningen",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1698,7 +1698,7 @@
     {
         "country": "Oman",
         "nickname": "Pisty",
-        "real name": "Ahmed Al-Maimani",
+        "name": "Ahmed Al-Maimani",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1706,7 +1706,7 @@
     {
         "country": "Philippines",
         "nickname": "BlackenBlue",
-        "real name": "Nico Gayoso",
+        "name": "Nico Gayoso",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1714,7 +1714,7 @@
     {
         "country": "Poland",
         "nickname": "Alban",
-        "real name": "Karol Pakosz",
+        "name": "Karol Pakosz",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1722,7 +1722,7 @@
     {
         "country": "Poland",
         "nickname": "Jakub",
-        "real name": "Jakub Szmyt",
+        "name": "Jakub Szmyt",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -1730,7 +1730,7 @@
     {
         "country": "Poland",
         "nickname": "Laz4rz",
-        "real name": "Mikołaj Boroński",
+        "name": "Mikołaj Boroński",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1738,7 +1738,7 @@
     {
         "country": "Poland",
         "nickname": "Marciu",
-        "real name": "Marcin Prusinowski",
+        "name": "Marcin Prusinowski",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1746,7 +1746,7 @@
     {
         "country": "Poland",
         "nickname": "Sjerra",
-        "real name": "Jacek Wachowiak",
+        "name": "Jacek Wachowiak",
         "team": "",
         "role": "Observer",
         "status": "retired"
@@ -1754,7 +1754,7 @@
     {
         "country": "Poland",
         "nickname": "Stick!",
-        "real name": "Patryk Szuszkiewicz",
+        "name": "Patryk Szuszkiewicz",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -1762,7 +1762,7 @@
     {
         "country": "Poland",
         "nickname": "Yden",
-        "real name": "Daniel Zegar",
+        "name": "Daniel Zegar",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1770,7 +1770,7 @@
     {
         "country": "Poland",
         "nickname": "k1kS",
-        "real name": "Patryk Cieszyński",
+        "name": "Patryk Cieszyński",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1778,7 +1778,7 @@
     {
         "country": "Puerto Rico",
         "nickname": "SmiTaSous",
-        "real name": "Elim Rivera-Valle",
+        "name": "Elim Rivera-Valle",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1786,7 +1786,7 @@
     {
         "country": "Russia",
         "nickname": "Amedalook",
-        "real name": "Vadim Laptev",
+        "name": "Vadim Laptev",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1794,7 +1794,7 @@
     {
         "country": "Russia",
         "nickname": "Braun",
-        "real name": "Egor Braun",
+        "name": "Egor Braun",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1802,7 +1802,7 @@
     {
         "country": "Russia",
         "nickname": "Cthulhu",
-        "real name": "Konstantin Nuridzhanyan",
+        "name": "Konstantin Nuridzhanyan",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1810,7 +1810,7 @@
     {
         "country": "Russia",
         "nickname": "FasterTL",
-        "real name": "Georgij Gagiev",
+        "name": "Georgij Gagiev",
         "team": "",
         "role": "Caster",
         "status": "inactive"
@@ -1818,7 +1818,7 @@
     {
         "country": "Russia",
         "nickname": "KaMa",
-        "real name": "Alexander Chernyshov",
+        "name": "Alexander Chernyshov",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1826,7 +1826,7 @@
     {
         "country": "Russia",
         "nickname": "Korben",
-        "real name": "Anton Tulbu",
+        "name": "Anton Tulbu",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1834,7 +1834,7 @@
     {
         "country": "Russia",
         "nickname": "MeDVeD",
-        "real name": "Alexander Kozlov",
+        "name": "Alexander Kozlov",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1842,7 +1842,7 @@
     {
         "country": "Russia",
         "nickname": "Rhyzzy",
-        "real name": "Ilya Rhys-Mayers",
+        "name": "Ilya Rhys-Mayers",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1850,7 +1850,7 @@
     {
         "country": "Russia",
         "nickname": "STARBOY",
-        "real name": "Maxim Fomin",
+        "name": "Maxim Fomin",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1858,7 +1858,7 @@
     {
         "country": "Russia",
         "nickname": "Starosvitskiy",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1866,7 +1866,7 @@
     {
         "country": "Russia",
         "nickname": "Wh1te",
-        "real name": "Alexandr Sokolov",
+        "name": "Alexandr Sokolov",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -1874,7 +1874,7 @@
     {
         "country": "Russia",
         "nickname": "Zheka",
-        "real name": "Eugene Bokhanov",
+        "name": "Eugene Bokhanov",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1882,7 +1882,7 @@
     {
         "country": "Russia",
         "nickname": "flaers0",
-        "real name": "Alexander Kroshkin",
+        "name": "Alexander Kroshkin",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -1890,7 +1890,7 @@
     {
         "country": "Saudi Arabia",
         "nickname": "Agent47",
-        "real name": "AbdulRahman",
+        "name": "AbdulRahman",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1898,7 +1898,7 @@
     {
         "country": "Saudi Arabia",
         "nickname": "Fancy",
-        "real name": "Abdulaziz Alrasheed",
+        "name": "Abdulaziz Alrasheed",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -1906,7 +1906,7 @@
     {
         "country": "Saudi Arabia",
         "nickname": "SKoRRSA",
-        "real name": "Maged Al Anzi",
+        "name": "Maged Al Anzi",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1914,7 +1914,7 @@
     {
         "country": "Scotland",
         "nickname": "Kairo",
-        "real name": "Kieran Tulloch",
+        "name": "Kieran Tulloch",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1922,7 +1922,7 @@
     {
         "country": "Singapore",
         "nickname": "CDMeister",
-        "real name": "Kai Yueh-chang",
+        "name": "Kai Yueh-chang",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -1930,7 +1930,7 @@
     {
         "country": "Singapore",
         "nickname": "InfianEwok",
-        "real name": "Shikhar Gupta",
+        "name": "Shikhar Gupta",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1938,7 +1938,7 @@
     {
         "country": "Singapore",
         "nickname": "quikz",
-        "real name": "Eugene Tay",
+        "name": "Eugene Tay",
         "team": "",
         "role": "Manager",
         "status": "inactive"
@@ -1946,7 +1946,7 @@
     {
         "country": "South Korea",
         "nickname": "Choi Jung-yoon",
-        "real name": "Choi Jung-yoon",
+        "name": "Choi Jung-yoon",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1954,7 +1954,7 @@
     {
         "country": "South Korea",
         "nickname": "EroSA",
-        "real name": "Kim Ha-neul",
+        "name": "Kim Ha-neul",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -1962,7 +1962,7 @@
     {
         "country": "South Korea",
         "nickname": "Gemi Teacher",
-        "real name": "Choi Yoon-ho",
+        "name": "Choi Yoon-ho",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -1970,7 +1970,7 @@
     {
         "country": "South Korea",
         "nickname": "Howard",
-        "real name": "Jeong Hyun-woo",
+        "name": "Jeong Hyun-woo",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -1978,7 +1978,7 @@
     {
         "country": "South Korea",
         "nickname": "Kim Do-geun",
-        "real name": "Kim Do-geun",
+        "name": "Kim Do-geun",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -1986,7 +1986,7 @@
     {
         "country": "South Korea",
         "nickname": "MarTen",
-        "real name": "Youn Ji-hun",
+        "name": "Youn Ji-hun",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -1994,7 +1994,7 @@
     {
         "country": "South Korea",
         "nickname": "OCN",
-        "real name": "Park Hyun",
+        "name": "Park Hyun",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2002,7 +2002,7 @@
     {
         "country": "South Korea",
         "nickname": "Park Dong-min",
-        "real name": "Park Dong-min",
+        "name": "Park Dong-min",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2010,7 +2010,7 @@
     {
         "country": "South Korea",
         "nickname": "Park Ha-neol",
-        "real name": "Park Ha-neol",
+        "name": "Park Ha-neol",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2018,7 +2018,7 @@
     {
         "country": "South Korea",
         "nickname": "RechoTZ",
-        "real name": "Seo Min-jae",
+        "name": "Seo Min-jae",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2026,7 +2026,7 @@
     {
         "country": "South Korea",
         "nickname": "Revi",
-        "real name": "Shin Jun-young",
+        "name": "Shin Jun-young",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2034,7 +2034,7 @@
     {
         "country": "South Korea",
         "nickname": "Roy Mikelate",
-        "real name": "Ryu Seung-hyeon",
+        "name": "Ryu Seung-hyeon",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2042,7 +2042,7 @@
     {
         "country": "South Korea",
         "nickname": "Sia",
-        "real name": "Chun Si-a",
+        "name": "Chun Si-a",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2050,7 +2050,7 @@
     {
         "country": "South Korea",
         "nickname": "Steve",
-        "real name": "Yoon Seo-ha",
+        "name": "Yoon Seo-ha",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -2058,7 +2058,7 @@
     {
         "country": "South Korea",
         "nickname": "Sunbi",
-        "real name": "Jang Eun",
+        "name": "Jang Eun",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -2066,7 +2066,7 @@
     {
         "country": "South Korea",
         "nickname": "zelgadiss",
-        "real name": "Lee Si-woo",
+        "name": "Lee Si-woo",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2074,7 +2074,7 @@
     {
         "country": "Spain",
         "nickname": "Adonai",
-        "real name": "Ignacio Ballesteros",
+        "name": "Ignacio Ballesteros",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2082,7 +2082,7 @@
     {
         "country": "Spain",
         "nickname": "ByTommy",
-        "real name": "Tomás Moreno",
+        "name": "Tomás Moreno",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2090,7 +2090,7 @@
     {
         "country": "Spain",
         "nickname": "Fabs",
-        "real name": "Fabián Cierco",
+        "name": "Fabián Cierco",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2098,7 +2098,7 @@
     {
         "country": "Spain",
         "nickname": "JU4MP4",
-        "real name": "Juan Valdivia",
+        "name": "Juan Valdivia",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2106,7 +2106,7 @@
     {
         "country": "Spain",
         "nickname": "Noel",
-        "real name": "Noel Garberi",
+        "name": "Noel Garberi",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2114,7 +2114,7 @@
     {
         "country": "Spain",
         "nickname": "SiLenCe",
-        "real name": "Chevy Bullido",
+        "name": "Chevy Bullido",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2122,7 +2122,7 @@
     {
         "country": "Spain",
         "nickname": "Tellorista",
-        "real name": "Roberto Urresti",
+        "name": "Roberto Urresti",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -2130,7 +2130,7 @@
     {
         "country": "Spain",
         "nickname": "Vetel",
-        "real name": "Pablo Sanz",
+        "name": "Pablo Sanz",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2138,7 +2138,7 @@
     {
         "country": "Sweden",
         "nickname": "BikiniBodhi",
-        "real name": "Tobias André",
+        "name": "Tobias André",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2146,7 +2146,7 @@
     {
         "country": "Sweden",
         "nickname": "Hyperino",
-        "real name": "Galdim Dani",
+        "name": "Galdim Dani",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2154,7 +2154,7 @@
     {
         "country": "Sweden",
         "nickname": "Syred",
-        "real name": "Victor Andersson",
+        "name": "Victor Andersson",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2162,7 +2162,7 @@
     {
         "country": "Switzerland",
         "nickname": "EarlyBird",
-        "real name": "Christoph Earle",
+        "name": "Christoph Earle",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2170,7 +2170,7 @@
     {
         "country": "Taiwan",
         "nickname": "Aimb0t",
-        "real name": "Kao Yin-hung",
+        "name": "Kao Yin-hung",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2178,7 +2178,7 @@
     {
         "country": "Taiwan",
         "nickname": "Ratio",
-        "real name": "Jhuang Shao-An",
+        "name": "Jhuang Shao-An",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2186,7 +2186,7 @@
     {
         "country": "Taiwan",
         "nickname": "YongFa",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -2194,7 +2194,7 @@
     {
         "country": "Thailand",
         "nickname": "CTkz-Sama",
-        "real name": "Burapa Tainsakuldej",
+        "name": "Burapa Tainsakuldej",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2202,7 +2202,7 @@
     {
         "country": "Thailand",
         "nickname": "CheckmATE",
-        "real name": "Pongtanuth Taipakpongsakun",
+        "name": "Pongtanuth Taipakpongsakun",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2210,7 +2210,7 @@
     {
         "country": "Thailand",
         "nickname": "ChrislareN",
-        "real name": "Patsada Chinphanich",
+        "name": "Patsada Chinphanich",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2218,7 +2218,7 @@
     {
         "country": "Thailand",
         "nickname": "Dejavu",
-        "real name": "Ponprom Saeoueng",
+        "name": "Ponprom Saeoueng",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2226,7 +2226,7 @@
     {
         "country": "Thailand",
         "nickname": "Dr.Bestsiaer",
-        "real name": "Nattakan Prachanban",
+        "name": "Nattakan Prachanban",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2234,7 +2234,7 @@
     {
         "country": "Thailand",
         "nickname": "FluffyBoiz",
-        "real name": "Vorraphat Watthanet",
+        "name": "Vorraphat Watthanet",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2242,7 +2242,7 @@
     {
         "country": "Thailand",
         "nickname": "GG Newii",
-        "real name": "Pongsirawit Sataman",
+        "name": "Pongsirawit Sataman",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2250,7 +2250,7 @@
     {
         "country": "Thailand",
         "nickname": "Meijin",
-        "real name": "Chatchaphong Thipphayaworn",
+        "name": "Chatchaphong Thipphayaworn",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2258,7 +2258,7 @@
     {
         "country": "Thailand",
         "nickname": "NINEFACE9",
-        "real name": "Runnaphat Siriwatthanarat",
+        "name": "Runnaphat Siriwatthanarat",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -2266,7 +2266,7 @@
     {
         "country": "Thailand",
         "nickname": "Tanler",
-        "real name": "Saharuch Manosamut",
+        "name": "Saharuch Manosamut",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2274,7 +2274,7 @@
     {
         "country": "Thailand",
         "nickname": "Zylnazter",
-        "real name": "Natthan Thumjarern",
+        "name": "Natthan Thumjarern",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2282,7 +2282,7 @@
     {
         "country": "Thailand",
         "nickname": "nanoKidz",
-        "real name": "Suphawit Kasemsirisopha",
+        "name": "Suphawit Kasemsirisopha",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2290,7 +2290,7 @@
     {
         "country": "Ukraine",
         "nickname": "Caff",
-        "real name": "Igor Sydorenko",
+        "name": "Igor Sydorenko",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -2298,7 +2298,7 @@
     {
         "country": "United Kingdom",
         "nickname": "AceOfPyrite",
-        "real name": "Tim Leaver",
+        "name": "Tim Leaver",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2306,7 +2306,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Affy",
-        "real name": "Aaftab Mohmed",
+        "name": "Aaftab Mohmed",
         "team": "",
         "role": "Analyst",
         "status": "inactive"
@@ -2314,7 +2314,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Barney Banks",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2322,7 +2322,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Brycer",
-        "real name": "Bryce Hauver-Reeves",
+        "name": "Bryce Hauver-Reeves",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2330,7 +2330,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Bugs",
-        "real name": "Declan McWilliams",
+        "name": "Declan McWilliams",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2338,7 +2338,7 @@
     {
         "country": "United Kingdom",
         "nickname": "COPPET",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Admin",
         "status": "active"
@@ -2346,7 +2346,7 @@
     {
         "country": "United Kingdom",
         "nickname": "CaptainFluke",
-        "real name": "Emi Donaldson",
+        "name": "Emi Donaldson",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2354,7 +2354,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Chunks",
-        "real name": "Liam Desposito",
+        "name": "Liam Desposito",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2362,7 +2362,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Demo",
-        "real name": "Harry Dempster",
+        "name": "Harry Dempster",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2370,7 +2370,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Dezachu",
-        "real name": "Derry Holt",
+        "name": "Derry Holt",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2378,7 +2378,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Feedmachine",
-        "real name": "Ciaran Williams",
+        "name": "Ciaran Williams",
         "team": "",
         "role": "Observer",
         "status": "retired"
@@ -2386,7 +2386,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Frazer Scully",
-        "real name": "Frazer Scully",
+        "name": "Frazer Scully",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -2394,7 +2394,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Fresh",
-        "real name": "Jack Thomas Allen",
+        "name": "Jack Thomas Allen",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2402,7 +2402,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Geo",
-        "real name": "Geo Collins",
+        "name": "Geo Collins",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2410,7 +2410,7 @@
     {
         "country": "United Kingdom",
         "nickname": "GerryTheMusicMan",
-        "real name": "Gerry Brazell",
+        "name": "Gerry Brazell",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2418,7 +2418,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Ghostie",
-        "real name": "Jennifer Stanford",
+        "name": "Jennifer Stanford",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2426,7 +2426,7 @@
     {
         "country": "United Kingdom",
         "nickname": "GoluMolu",
-        "real name": "Benedict Lux",
+        "name": "Benedict Lux",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2434,7 +2434,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Grissom",
-        "real name": "Luke Halliburton",
+        "name": "Luke Halliburton",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -2442,7 +2442,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Haffy",
-        "real name": "Josh Parvin",
+        "name": "Josh Parvin",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -2450,7 +2450,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Harpr",
-        "real name": "Harper Kayser",
+        "name": "Harper Kayser",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2458,7 +2458,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Jacky",
-        "real name": "Jack Peters",
+        "name": "Jack Peters",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2466,7 +2466,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Lethal",
-        "real name": "Harry Thomas",
+        "name": "Harry Thomas",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2474,7 +2474,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Matt Andrews",
-        "real name": "Matt Andrews",
+        "name": "Matt Andrews",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2482,7 +2482,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Muhcreedy",
-        "real name": "Adam Maskrey",
+        "name": "Adam Maskrey",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2490,7 +2490,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Novicaine",
-        "real name": "Morgan Palmer",
+        "name": "Morgan Palmer",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2498,7 +2498,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Omerta",
-        "real name": "Stefan Saltalamacchia",
+        "name": "Stefan Saltalamacchia",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2506,7 +2506,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Panky",
-        "real name": "Christopher Pankhurst",
+        "name": "Christopher Pankhurst",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2514,7 +2514,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Peakalicious",
-        "real name": "Bradley Beal",
+        "name": "Bradley Beal",
         "team": "",
         "role": "Talent",
         "status": "active"
@@ -2522,7 +2522,7 @@
     {
         "country": "United Kingdom",
         "nickname": "RRGeneral",
-        "real name": "Alex Granatowicz",
+        "name": "Alex Granatowicz",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -2530,7 +2530,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Reece Fowler",
-        "real name": "Reece Fowler",
+        "name": "Reece Fowler",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -2538,7 +2538,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Rideoo",
-        "real name": "Josh Riding",
+        "name": "Josh Riding",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2546,7 +2546,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Shas[O]Udas",
-        "real name": "Thomas Lee",
+        "name": "Thomas Lee",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2554,7 +2554,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Sparxo",
-        "real name": "Jack Wright",
+        "name": "Jack Wright",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2562,7 +2562,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Sternab",
-        "real name": "James Parkinson",
+        "name": "James Parkinson",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2570,7 +2570,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Sways",
-        "real name": "Louis Graham",
+        "name": "Louis Graham",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2578,7 +2578,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Tru3Ta1ent",
-        "real name": "Aaron Erliz",
+        "name": "Aaron Erliz",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2586,7 +2586,7 @@
     {
         "country": "United Kingdom",
         "nickname": "XRTROIKA",
-        "real name": "Ollie Hatton",
+        "name": "Ollie Hatton",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2594,7 +2594,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Yosh",
-        "real name": "Joshua Ingles",
+        "name": "Joshua Ingles",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2602,7 +2602,7 @@
     {
         "country": "United Kingdom",
         "nickname": "rcuth",
-        "real name": "Ramiz Cuthbert",
+        "name": "Ramiz Cuthbert",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2610,7 +2610,7 @@
     {
         "country": "United States",
         "nickname": "Anna Prosser",
-        "real name": "Anna Prosser",
+        "name": "Anna Prosser",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -2618,7 +2618,7 @@
     {
         "country": "United States",
         "nickname": "BKN",
-        "real name": "Jordan Soojian",
+        "name": "Jordan Soojian",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -2626,7 +2626,7 @@
     {
         "country": "United States",
         "nickname": "BLU",
-        "real name": "John Mullen",
+        "name": "John Mullen",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2634,7 +2634,7 @@
     {
         "country": "United States",
         "nickname": "Bagel",
-        "real name": "Colby Smith",
+        "name": "Colby Smith",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -2642,7 +2642,7 @@
     {
         "country": "United States",
         "nickname": "BennyAu",
-        "real name": "Benjamin Au",
+        "name": "Benjamin Au",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2650,7 +2650,7 @@
     {
         "country": "United States",
         "nickname": "BloodBath",
-        "real name": "Sean Rosenbaum",
+        "name": "Sean Rosenbaum",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2658,7 +2658,7 @@
     {
         "country": "United States",
         "nickname": "CaliberJacob",
-        "real name": "Jacob Anderson",
+        "name": "Jacob Anderson",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2666,7 +2666,7 @@
     {
         "country": "United States",
         "nickname": "Cassanova",
-        "real name": "Jared Boyd",
+        "name": "Jared Boyd",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2674,7 +2674,7 @@
     {
         "country": "United States",
         "nickname": "Crow",
-        "real name": "Harrison Broder",
+        "name": "Harrison Broder",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2682,7 +2682,7 @@
     {
         "country": "United States",
         "nickname": "Dauntless",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2690,7 +2690,7 @@
     {
         "country": "United States",
         "nickname": "Devpetm",
-        "real name": "Devin Petmecky",
+        "name": "Devin Petmecky",
         "team": "",
         "role": "Analyst",
         "status": "inactive"
@@ -2698,7 +2698,7 @@
     {
         "country": "United States",
         "nickname": "DoA",
-        "real name": "Erik Lonnquist",
+        "name": "Erik Lonnquist",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2706,7 +2706,7 @@
     {
         "country": "United States",
         "nickname": "Fellow",
-        "real name": "Jonathan Szuch",
+        "name": "Jonathan Szuch",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2714,7 +2714,7 @@
     {
         "country": "United States",
         "nickname": "Goldenboy",
-        "real name": "Alex Mendez",
+        "name": "Alex Mendez",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2722,7 +2722,7 @@
     {
         "country": "United States",
         "nickname": "Henru",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -2730,7 +2730,7 @@
     {
         "country": "United States",
         "nickname": "Infernosis",
-        "real name": "Scott Hurley",
+        "name": "Scott Hurley",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2738,7 +2738,7 @@
     {
         "country": "United States",
         "nickname": "Jacki Jing",
-        "real name": "Jacki Jing",
+        "name": "Jacki Jing",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2746,7 +2746,7 @@
     {
         "country": "United States",
         "nickname": "Jazzman",
-        "real name": "Adam Jasim",
+        "name": "Adam Jasim",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2754,7 +2754,7 @@
     {
         "country": "United States",
         "nickname": "Jess Brohard",
-        "real name": "Jessica Brohard",
+        "name": "Jessica Brohard",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2762,7 +2762,7 @@
     {
         "country": "United States",
         "nickname": "Keglunneq",
-        "real name": "Max Tompkins",
+        "name": "Max Tompkins",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2770,7 +2770,7 @@
     {
         "country": "United States",
         "nickname": "KiXSTAr",
-        "real name": "Michael Stockley",
+        "name": "Michael Stockley",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2778,7 +2778,7 @@
     {
         "country": "United States",
         "nickname": "Klimpse",
-        "real name": "Mason Best",
+        "name": "Mason Best",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2786,7 +2786,7 @@
     {
         "country": "United States",
         "nickname": "KraTyr",
-        "real name": "Devin Hoot",
+        "name": "Devin Hoot",
         "team": "",
         "role": "Producer",
         "status": "active"
@@ -2794,7 +2794,7 @@
     {
         "country": "United States",
         "nickname": "Lisa Malambri",
-        "real name": "Lisa Malambri",
+        "name": "Lisa Malambri",
         "team": "",
         "role": "Host",
         "status": "retired"
@@ -2802,7 +2802,7 @@
     {
         "country": "United States",
         "nickname": "Literose",
-        "real name": "Vee Kohler",
+        "name": "Vee Kohler",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2810,7 +2810,7 @@
     {
         "country": "United States",
         "nickname": "Loaf",
-        "real name": "Jessica Byrd",
+        "name": "Jessica Byrd",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2818,7 +2818,7 @@
     {
         "country": "United States",
         "nickname": "Lonnie Lightning",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2826,7 +2826,7 @@
     {
         "country": "United States",
         "nickname": "MonteCristo",
-        "real name": "Christopher Mykles",
+        "name": "Christopher Mykles",
         "team": "",
         "role": "Host",
         "status": "active"
@@ -2834,7 +2834,7 @@
     {
         "country": "United States",
         "nickname": "Nebsy",
-        "real name": "Kaden Kingery",
+        "name": "Kaden Kingery",
         "team": "",
         "role": "Analyst",
         "status": "active"
@@ -2842,7 +2842,7 @@
     {
         "country": "United States",
         "nickname": "Neverswimalone",
-        "real name": "",
+        "name": "",
         "team": "",
         "role": "Analyst",
         "status": "retired"
@@ -2850,7 +2850,7 @@
     {
         "country": "United States",
         "nickname": "Ocho",
-        "real name": "Logan Enxel",
+        "name": "Logan Enxel",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -2858,7 +2858,7 @@
     {
         "country": "United States",
         "nickname": "Peter",
-        "real name": "Peter Chau",
+        "name": "Peter Chau",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -2866,7 +2866,7 @@
     {
         "country": "United States",
         "nickname": "Pubstomper",
-        "real name": "Austin Jones",
+        "name": "Austin Jones",
         "team": "",
         "role": "Manager",
         "status": "active"
@@ -2874,7 +2874,7 @@
     {
         "country": "United States",
         "nickname": "Punjistick",
-        "real name": "Derek Mallon",
+        "name": "Derek Mallon",
         "team": "",
         "role": "Caster",
         "status": "retired"
@@ -2882,7 +2882,7 @@
     {
         "country": "United States",
         "nickname": "Ranger",
-        "real name": "Tristan Pehrson",
+        "name": "Tristan Pehrson",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2890,7 +2890,7 @@
     {
         "country": "United States",
         "nickname": "Razorz",
-        "real name": "Dan Trittler",
+        "name": "Dan Trittler",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2898,7 +2898,7 @@
     {
         "country": "United States",
         "nickname": "Slayzilla",
-        "real name": "Christopher Doubleday",
+        "name": "Christopher Doubleday",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2906,7 +2906,7 @@
     {
         "country": "United States",
         "nickname": "Thumperr",
-        "real name": "Christpher Segura",
+        "name": "Christpher Segura",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2914,7 +2914,7 @@
     {
         "country": "United States",
         "nickname": "Tifa",
-        "real name": "Tiffany Chiu",
+        "name": "Tiffany Chiu",
         "team": "",
         "role": "Manager",
         "status": "retired"
@@ -2922,7 +2922,7 @@
     {
         "country": "United States",
         "nickname": "Tiie",
-        "real name": "Alberto Chavez Benitez",
+        "name": "Alberto Chavez Benitez",
         "team": "",
         "role": "Observer",
         "status": "active"
@@ -2930,7 +2930,7 @@
     {
         "country": "United States",
         "nickname": "Uzumaki",
-        "real name": "Christopher Valdez",
+        "name": "Christopher Valdez",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2938,7 +2938,7 @@
     {
         "country": "United States",
         "nickname": "Velly",
-        "real name": "Loviel Cardwell",
+        "name": "Loviel Cardwell",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2946,7 +2946,7 @@
     {
         "country": "United States",
         "nickname": "ViiRuS",
-        "real name": "Anthony Ybarra",
+        "name": "Anthony Ybarra",
         "team": "",
         "role": "Coach",
         "status": "inactive"
@@ -2954,7 +2954,7 @@
     {
         "country": "United States",
         "nickname": "XecratioN",
-        "real name": "Jacob Campbell",
+        "name": "Jacob Campbell",
         "team": "",
         "role": "Coach",
         "status": "retired"
@@ -2962,7 +2962,7 @@
     {
         "country": "United States",
         "nickname": "Yurii",
-        "real name": "Patrick Ray",
+        "name": "Patrick Ray",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2970,7 +2970,7 @@
     {
         "country": "Venezuela",
         "nickname": "GOKU",
-        "real name": "Emerich Lozano",
+        "name": "Emerich Lozano",
         "team": "",
         "role": "Coach",
         "status": "active"
@@ -2978,7 +2978,7 @@
     {
         "country": "Venezuela",
         "nickname": "Naigal7",
-        "real name": "Jose Rodríguez",
+        "name": "Jose Rodríguez",
         "team": "",
         "role": "Caster",
         "status": "active"
@@ -2986,7 +2986,7 @@
     {
         "country": "Brazil",
         "nickname": "Kohn",
-        "real name": "Gabriel Kohn",
+        "name": "Gabriel Kohn",
         "team": "00 Nation",
         "role": "(Manager)",
         "status": "active"
@@ -2994,7 +2994,7 @@
     {
         "country": "Brazil",
         "nickname": "RafadeLL",
-        "real name": "Rafael de Oliveira",
+        "name": "Rafael de Oliveira",
         "team": "00 Nation",
         "role": "(Analyst)",
         "status": "active"
@@ -3002,7 +3002,7 @@
     {
         "country": "Brazil",
         "nickname": "TchubZ",
-        "real name": "Arthur Figueira",
+        "name": "Arthur Figueira",
         "team": "00 Nation",
         "role": "(Coach)",
         "status": "active"
@@ -3010,7 +3010,7 @@
     {
         "country": "Canada",
         "nickname": "Okward1HP",
-        "real name": "Matthew Smedley",
+        "name": "Matthew Smedley",
         "team": "1HP",
         "role": "(Coach)",
         "status": "active"
@@ -3018,7 +3018,7 @@
     {
         "country": "Mexico",
         "nickname": "Gallo",
-        "real name": "Alex Sánchez",
+        "name": "Alex Sánchez",
         "team": "ALPHA Team",
         "role": "(Manager)",
         "status": "active"
@@ -3026,7 +3026,7 @@
     {
         "country": "Mexico",
         "nickname": "Oskar",
-        "real name": "Oscar Montero",
+        "name": "Oscar Montero",
         "team": "ALPHA Team",
         "role": "(Coach)",
         "status": "active"
@@ -3034,7 +3034,7 @@
     {
         "country": "France",
         "nickname": "Akany",
-        "real name": "Lucas Petit",
+        "name": "Lucas Petit",
         "team": "Acend",
         "role": "(Manager)",
         "status": "active"
@@ -3042,7 +3042,7 @@
     {
         "country": "Belgium",
         "nickname": "Crapelle",
-        "real name": "Laurent Patriarche",
+        "name": "Laurent Patriarche",
         "team": "Activit-E",
         "role": "(Coach)",
         "status": "active"
@@ -3050,7 +3050,7 @@
     {
         "country": "United States",
         "nickname": "Aerial",
-        "real name": "Ben Paulsen",
+        "name": "Ben Paulsen",
         "team": "Arial Arise",
         "role": "(Analyst)",
         "status": "active"
@@ -3058,7 +3058,7 @@
     {
         "country": "United States",
         "nickname": "Read",
-        "real name": "Read Adams",
+        "name": "Read Adams",
         "team": "Arial Arise",
         "role": "(Coach)",
         "status": "active"
@@ -3066,7 +3066,7 @@
     {
         "country": "United States",
         "nickname": "Mango",
-        "real name": "Adam Pazner",
+        "name": "Adam Pazner",
         "team": "Astralis",
         "role": "(Analyst)",
         "status": "active"
@@ -3074,7 +3074,7 @@
     {
         "country": "Germany",
         "nickname": "Shocks",
-        "real name": "Maximilian Wagner",
+        "name": "Maximilian Wagner",
         "team": "Axolotl Esports",
         "role": "(Analyst)",
         "status": "active"
@@ -3082,7 +3082,7 @@
     {
         "country": "South Korea",
         "nickname": "Cloud",
-        "real name": "Seo Seong-min",
+        "name": "Seo Seong-min",
         "team": "Beyond Stratos Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3090,7 +3090,7 @@
     {
         "country": "South Korea",
         "nickname": "MinGoran",
-        "real name": "Kim Min-geun",
+        "name": "Kim Min-geun",
         "team": "Beyond Stratos Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3098,7 +3098,7 @@
     {
         "country": "Brazil",
         "nickname": "Cherrygumms",
-        "real name": "Nicolle Merhy",
+        "name": "Nicolle Merhy",
         "team": "Black Dragons e-Sports",
         "role": "(Manager)",
         "status": "active"
@@ -3106,7 +3106,7 @@
     {
         "country": "Brazil",
         "nickname": "freezao",
-        "real name": "Igor Silva",
+        "name": "Igor Silva",
         "team": "Black Dragons e-Sports",
         "role": "(Analyst)",
         "status": "active"
@@ -3114,7 +3114,7 @@
     {
         "country": "Brazil",
         "nickname": "thug",
-        "real name": "Bruno Ferreira",
+        "name": "Bruno Ferreira",
         "team": "Black Dragons e-Sports",
         "role": "(Analyst)",
         "status": "active"
@@ -3122,7 +3122,7 @@
     {
         "country": "Brazil",
         "nickname": "copaS",
-        "real name": "Ruryan Vigiani",
+        "name": "Ruryan Vigiani",
         "team": "Black Dragons e-Sports Female",
         "role": "(Coach)",
         "status": "active"
@@ -3130,7 +3130,7 @@
     {
         "country": "Japan",
         "nickname": "Fuji3",
-        "real name": "Fumiya Fujisaki",
+        "name": "Fumiya Fujisaki",
         "team": "CYCLOPS athlete gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3138,7 +3138,7 @@
     {
         "country": "Japan",
         "nickname": "KYON",
-        "real name": "Kyouhei Nishio",
+        "name": "Kyouhei Nishio",
         "team": "CYCLOPS athlete gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3146,7 +3146,7 @@
     {
         "country": "Argentina",
         "nickname": "L4ZinG",
-        "real name": "Franco D´Arino",
+        "name": "Franco D´Arino",
         "team": "Coscu Army",
         "role": "(Coach)",
         "status": "active"
@@ -3154,7 +3154,7 @@
     {
         "country": "Japan",
         "nickname": "Taka",
-        "real name": "",
+        "name": "",
         "team": "Crest Gaming Lst",
         "role": "(Coach)",
         "status": "active"
@@ -3162,7 +3162,7 @@
     {
         "country": "Japan",
         "nickname": "VAshizuku",
-        "real name": "",
+        "name": "",
         "team": "Crest Gaming Lst",
         "role": "(Coach)",
         "status": "active"
@@ -3170,7 +3170,7 @@
     {
         "country": "South Korea",
         "nickname": "HoundBird",
-        "real name": "Jang Gwon-jae",
+        "name": "Jang Gwon-jae",
         "team": "DAMWON Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3178,7 +3178,7 @@
     {
         "country": "South Korea",
         "nickname": "PJH",
-        "real name": "Park Jae-hyun",
+        "name": "Park Jae-hyun",
         "team": "DAMWON Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3186,7 +3186,7 @@
     {
         "country": "Denmark",
         "nickname": "Pengu",
-        "real name": "Niclas Mouritzen",
+        "name": "Niclas Mouritzen",
         "team": "DarkZero Esports",
         "role": "(Caster)",
         "status": "active"
@@ -3194,7 +3194,7 @@
     {
         "country": "United States",
         "nickname": "BC",
-        "real name": "Brandon Carr",
+        "name": "Brandon Carr",
         "team": "DarkZero Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3202,7 +3202,7 @@
     {
         "country": "United States",
         "nickname": "Grant",
-        "real name": "Grant Tripple",
+        "name": "Grant Tripple",
         "team": "DarkZero Esports",
         "role": "(Analyst)",
         "status": "active"
@@ -3210,7 +3210,7 @@
     {
         "country": "United States",
         "nickname": "Mint",
-        "real name": "Kyle Lander",
+        "name": "Kyle Lander",
         "team": "DarkZero Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3218,7 +3218,7 @@
     {
         "country": "Germany",
         "nickname": "KS",
-        "real name": "Niklas Massierer",
+        "name": "Niklas Massierer",
         "team": "Delta Project",
         "role": "(Manager)",
         "status": "active"
@@ -3226,7 +3226,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Ferral",
-        "real name": "Daniel Rotheram",
+        "name": "Daniel Rotheram",
         "team": "Delta Project",
         "role": "(Coach)",
         "status": "active"
@@ -3234,7 +3234,7 @@
     {
         "country": "China",
         "nickname": "Daling",
-        "real name": "Zhang Yingmei",
+        "name": "Zhang Yingmei",
         "team": "Dire Wolves",
         "role": "(Manager)",
         "status": "active"
@@ -3242,7 +3242,7 @@
     {
         "country": "Germany",
         "nickname": "Odin",
-        "real name": "Odin Hempel",
+        "name": "Odin Hempel",
         "team": "Dire Wolves",
         "role": "(Coach)",
         "status": "active"
@@ -3250,7 +3250,7 @@
     {
         "country": "Australia",
         "nickname": "Spruce",
-        "real name": "James Feaver",
+        "name": "James Feaver",
         "team": "Dynasty",
         "role": "(Coach)",
         "status": "active"
@@ -3258,7 +3258,7 @@
     {
         "country": "France",
         "nickname": "Need Tiger",
-        "real name": "Julien Lelong-Robin",
+        "name": "Julien Lelong-Robin",
         "team": "ESIX",
         "role": "(Talent)",
         "status": "active"
@@ -3266,7 +3266,7 @@
     {
         "country": "Australia",
         "nickname": "Daughter",
-        "real name": "Mandy Powers",
+        "name": "Mandy Powers",
         "team": "ESL",
         "role": "(Caster)",
         "status": "active"
@@ -3274,7 +3274,7 @@
     {
         "country": "Australia",
         "nickname": "Marshall",
-        "real name": "Michael Wong",
+        "name": "Michael Wong",
         "team": "ESL",
         "role": "(Observer)",
         "status": "active"
@@ -3282,7 +3282,7 @@
     {
         "country": "Italy",
         "nickname": "JhonsonTV",
-        "real name": "Giulio Gungui",
+        "name": "Giulio Gungui",
         "team": "ESL",
         "role": "(Caster)",
         "status": "active"
@@ -3290,7 +3290,7 @@
     {
         "country": "Thailand",
         "nickname": "Baifern",
-        "real name": "",
+        "name": "",
         "team": "Elevate",
         "role": "(Manager)",
         "status": "active"
@@ -3298,7 +3298,7 @@
     {
         "country": "United States",
         "nickname": "LaXInG",
-        "real name": "Gabriel Mirelez",
+        "name": "Gabriel Mirelez",
         "team": "Elevate",
         "role": "(Coach)",
         "status": "active"
@@ -3306,7 +3306,7 @@
     {
         "country": "Germany",
         "nickname": "BK-201",
-        "real name": "Jan Moerland",
+        "name": "Jan Moerland",
         "team": "FACEIT",
         "role": "(Talent)",
         "status": "active"
@@ -3314,7 +3314,7 @@
     {
         "country": "Japan",
         "nickname": "Nata",
-        "real name": "Naoki Murase",
+        "name": "Naoki Murase",
         "team": "FAV gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3322,7 +3322,7 @@
     {
         "country": "Japan",
         "nickname": "OdeNMiso",
-        "real name": "Kaito Yonezu",
+        "name": "Kaito Yonezu",
         "team": "FAV gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3330,7 +3330,7 @@
     {
         "country": "Japan",
         "nickname": "Tatsukin",
-        "real name": "Tatsuki Kitagawa",
+        "name": "Tatsuki Kitagawa",
         "team": "FAV gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3338,7 +3338,7 @@
     {
         "country": "Japan",
         "nickname": "An4rchy",
-        "real name": "",
+        "name": "",
         "team": "FIRST Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3346,7 +3346,7 @@
     {
         "country": "Brazil",
         "nickname": "Dann",
-        "real name": "Daniel Mattos",
+        "name": "Daniel Mattos",
         "team": "FURIA Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3354,7 +3354,7 @@
     {
         "country": "Brazil",
         "nickname": "Kizi",
-        "real name": "Luiz Carlos",
+        "name": "Luiz Carlos",
         "team": "FURIA Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3362,7 +3362,7 @@
     {
         "country": "Australia",
         "nickname": "Crenux",
-        "real name": "",
+        "name": "",
         "team": "FURY",
         "role": "(Manager)",
         "status": "active"
@@ -3370,7 +3370,7 @@
     {
         "country": "Thailand",
         "nickname": "DomeDominic",
-        "real name": "Apichat Thuengngento",
+        "name": "Apichat Thuengngento",
         "team": "FURY",
         "role": "(Coach)",
         "status": "active"
@@ -3378,7 +3378,7 @@
     {
         "country": "Thailand",
         "nickname": "Koiju",
-        "real name": "",
+        "name": "",
         "team": "FURY",
         "role": "(Manager)",
         "status": "active"
@@ -3386,7 +3386,7 @@
     {
         "country": "Brazil",
         "nickname": "Portela",
-        "real name": "Leandro Portela",
+        "name": "Leandro Portela",
         "team": "FaZe Clan",
         "role": "(Manager)",
         "status": "active"
@@ -3394,7 +3394,7 @@
     {
         "country": "Brazil",
         "nickname": "Ramalho",
-        "real name": "Matheus Ramalho Gonçalves",
+        "name": "Matheus Ramalho Gonçalves",
         "team": "FaZe Clan",
         "role": "(Coach)",
         "status": "active"
@@ -3402,7 +3402,7 @@
     {
         "country": "Brazil",
         "nickname": "Hemwer",
-        "real name": "",
+        "name": "",
         "team": "Fenix Esports",
         "role": "(Analyst)",
         "status": "active"
@@ -3410,7 +3410,7 @@
     {
         "country": "Brazil",
         "nickname": "Ruivoz",
-        "real name": "Luiz Felipe",
+        "name": "Luiz Felipe",
         "team": "Fenix Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3418,7 +3418,7 @@
     {
         "country": "Mexico",
         "nickname": "Chaquet",
-        "real name": "Carlos Pedrero",
+        "name": "Carlos Pedrero",
         "team": "Fenix Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3426,7 +3426,7 @@
     {
         "country": "Brazil",
         "nickname": "trak",
-        "real name": "James Leme",
+        "name": "James Leme",
         "team": "Fenix Esports Female",
         "role": "(Coach)",
         "status": "active"
@@ -3434,7 +3434,7 @@
     {
         "country": "Australia",
         "nickname": "Dizzle",
-        "real name": "Jayden Saunders",
+        "name": "Jayden Saunders",
         "team": "Fnatic",
         "role": "(Coach)",
         "status": "active"
@@ -3442,7 +3442,7 @@
     {
         "country": "France",
         "nickname": "Phenomene",
-        "real name": "Théo Hentgen",
+        "name": "Théo Hentgen",
         "team": "Fnatic",
         "role": "(Coach)",
         "status": "active"
@@ -3450,7 +3450,7 @@
     {
         "country": "Argentina",
         "nickname": "Nahu",
-        "real name": "Nahuel Cobas",
+        "name": "Nahuel Cobas",
         "team": "Furious Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3458,7 +3458,7 @@
     {
         "country": "Croatia",
         "nickname": "m4niac",
-        "real name": "Luka Matijević",
+        "name": "Luka Matijević",
         "team": "G2 Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3466,7 +3466,7 @@
     {
         "country": "Finland",
         "nickname": "Mayne",
-        "real name": "Julius Ylänne",
+        "name": "Julius Ylänne",
         "team": "G2 Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3474,7 +3474,7 @@
     {
         "country": "Sweden",
         "nickname": "Fabian",
-        "real name": "Fabian Hällsten",
+        "name": "Fabian Hällsten",
         "team": "G2 Esports",
         "role": "(Analyst)",
         "status": "active"
@@ -3482,7 +3482,7 @@
     {
         "country": "Indonesia",
         "nickname": "Sunan",
-        "real name": "Ilham Surya",
+        "name": "Ilham Surya",
         "team": "Gaimin Gladiators",
         "role": "(Coach)",
         "status": "active"
@@ -3490,7 +3490,7 @@
     {
         "country": "Singapore",
         "nickname": "ech0",
-        "real name": "Hong Wei Teo",
+        "name": "Hong Wei Teo",
         "team": "Gaimin Gladiators",
         "role": "(Manager)",
         "status": "active"
@@ -3498,7 +3498,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Titan",
-        "real name": "William Antonio Davie",
+        "name": "William Antonio Davie",
         "team": "Gaimin Gladiators",
         "role": "(Coach)",
         "status": "active"
@@ -3506,7 +3506,7 @@
     {
         "country": "Netherlands",
         "nickname": "Deox",
-        "real name": "Stijn de Rooij",
+        "name": "Stijn de Rooij",
         "team": "Game Fist",
         "role": "(Coach)",
         "status": "active"
@@ -3514,7 +3514,7 @@
     {
         "country": "Iraq",
         "nickname": "ElConTeH",
-        "real name": "Ragheed",
+        "name": "Ragheed",
         "team": "Geekay Esports",
         "role": "(Caster)",
         "status": "active"
@@ -3522,7 +3522,7 @@
     {
         "country": "Iraq",
         "nickname": "Munrix",
-        "real name": "Muntather Ghazy",
+        "name": "Muntather Ghazy",
         "team": "Geekay Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3530,7 +3530,7 @@
     {
         "country": "United Kingdom",
         "nickname": "MaXD",
-        "real name": "Max Bacon",
+        "name": "Max Bacon",
         "team": "Goblins Athlete Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3538,7 +3538,7 @@
     {
         "country": "Hungary",
         "nickname": "davil",
-        "real name": "David Csaba Tóth",
+        "name": "David Csaba Tóth",
         "team": "Heroic",
         "role": "(Analyst)",
         "status": "active"
@@ -3546,7 +3546,7 @@
     {
         "country": "Norway",
         "nickname": "Mrofficer88",
-        "real name": "Murat Motevalli",
+        "name": "Murat Motevalli",
         "team": "Heroic",
         "role": "(Coach)",
         "status": "active"
@@ -3554,7 +3554,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Anarchic",
-        "real name": "Ralph Coates",
+        "name": "Ralph Coates",
         "team": "Heroic",
         "role": "(Coach)",
         "status": "active"
@@ -3562,7 +3562,7 @@
     {
         "country": "Brazil",
         "nickname": "Hellraiser",
-        "real name": "Luiggi Ianelli",
+        "name": "Luiggi Ianelli",
         "team": "INTZ",
         "role": "(Analyst)",
         "status": "active"
@@ -3570,7 +3570,7 @@
     {
         "country": "Argentina",
         "nickname": "Atypickl",
-        "real name": "Lucas Maidana",
+        "name": "Lucas Maidana",
         "team": "Infamous Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3578,7 +3578,7 @@
     {
         "country": "Peru",
         "nickname": "OneTap",
-        "real name": "Paul Arana",
+        "name": "Paul Arana",
         "team": "Infamous Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3586,7 +3586,7 @@
     {
         "country": "Peru",
         "nickname": "ZambO",
-        "real name": "Guillermo Luna",
+        "name": "Guillermo Luna",
         "team": "Infamous Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3594,7 +3594,7 @@
     {
         "country": "United Kingdom",
         "nickname": "ProphetKing",
-        "real name": "Aaron Kennedy",
+        "name": "Aaron Kennedy",
         "team": "JLingz Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3602,7 +3602,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Fraser",
-        "real name": "Fraser Johnstone",
+        "name": "Fraser Johnstone",
         "team": "KV Mechelen Esports",
         "role": "(Caster)",
         "status": "active"
@@ -3610,7 +3610,7 @@
     {
         "country": "Mexico",
         "nickname": "Max1mus",
-        "real name": "Christian Vargas",
+        "name": "Christian Vargas",
         "team": "Kingdom Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3618,7 +3618,7 @@
     {
         "country": "Australia",
         "nickname": "KataVACE",
-        "real name": "Sam Neale",
+        "name": "Sam Neale",
         "team": "Knights",
         "role": "(Manager)",
         "status": "active"
@@ -3626,7 +3626,7 @@
     {
         "country": "Australia",
         "nickname": "Sketchy",
-        "real name": "Mitchell Whitten",
+        "name": "Mitchell Whitten",
         "team": "Knights",
         "role": "(Coach)",
         "status": "active"
@@ -3634,7 +3634,7 @@
     {
         "country": "Singapore",
         "nickname": "Lunarmetal",
-        "real name": "Glen Suryasaputra",
+        "name": "Glen Suryasaputra",
         "team": "Knights",
         "role": "(Coach)",
         "status": "active"
@@ -3642,7 +3642,7 @@
     {
         "country": "Thailand",
         "nickname": "Fluorezent",
-        "real name": "Punsita Bualert",
+        "name": "Punsita Bualert",
         "team": "Kraken Esports Club",
         "role": "(Manager)",
         "status": "active"
@@ -3650,7 +3650,7 @@
     {
         "country": "Argentina",
         "nickname": "Izze",
-        "real name": "Juan Ignacio Magariño",
+        "name": "Juan Ignacio Magariño",
         "team": "Leviatán",
         "role": "(Manager)",
         "status": "active"
@@ -3658,7 +3658,7 @@
     {
         "country": "Argentina",
         "nickname": "RICK",
-        "real name": "Ricardo Leiva",
+        "name": "Ricardo Leiva",
         "team": "Leviatán",
         "role": "(Coach)",
         "status": "active"
@@ -3666,7 +3666,7 @@
     {
         "country": "Brazil",
         "nickname": "Tiseis",
-        "real name": "Moisés Oliveira",
+        "name": "Moisés Oliveira",
         "team": "Luminosity Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3674,7 +3674,7 @@
     {
         "country": "Costa Rica",
         "nickname": "Waiffer",
-        "real name": "Waiffer Sibaja",
+        "name": "Waiffer Sibaja",
         "team": "Luminosity Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3682,7 +3682,7 @@
     {
         "country": "Italy",
         "nickname": "RRock",
-        "real name": "Luca Salvatore Allocca",
+        "name": "Luca Salvatore Allocca",
         "team": "MACKO Esports",
         "role": "(Manager)",
         "status": "active"
@@ -3690,7 +3690,7 @@
     {
         "country": "Poland",
         "nickname": "Mefisto",
-        "real name": "Adam Duma",
+        "name": "Adam Duma",
         "team": "MACKO Esports",
         "role": "(Analyst)",
         "status": "active"
@@ -3698,7 +3698,7 @@
     {
         "country": "Colombia",
         "nickname": "Snowy",
-        "real name": "Juan Corredor",
+        "name": "Juan Corredor",
         "team": "MET REVEN",
         "role": "(Coach)",
         "status": "active"
@@ -3706,7 +3706,7 @@
     {
         "country": "Mexico",
         "nickname": "Jvv",
-        "real name": "Javier Rodriguez",
+        "name": "Javier Rodriguez",
         "team": "MET REVEN",
         "role": "(Manager)",
         "status": "active"
@@ -3714,7 +3714,7 @@
     {
         "country": "Brazil",
         "nickname": "Dxrk",
-        "real name": "Cesar Adriano",
+        "name": "Cesar Adriano",
         "team": "MIBR",
         "role": "(Coach)",
         "status": "active"
@@ -3722,7 +3722,7 @@
     {
         "country": "Brazil",
         "nickname": "Guille",
-        "real name": "Guilherme Scalfi",
+        "name": "Guilherme Scalfi",
         "team": "MIBR",
         "role": "(Manager)",
         "status": "active"
@@ -3730,7 +3730,7 @@
     {
         "country": "France",
         "nickname": "Eden",
-        "real name": "Loïc Sennepin",
+        "name": "Loïc Sennepin",
         "team": "MNM Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3738,7 +3738,7 @@
     {
         "country": "Ukraine",
         "nickname": "ArcherOmix",
-        "real name": "Rostyslav Holoshchuk",
+        "name": "Rostyslav Holoshchuk",
         "team": "MNM Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -3746,7 +3746,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Javelin",
-        "real name": "Daniel Chung",
+        "name": "Daniel Chung",
         "team": "MNM Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3754,7 +3754,7 @@
     {
         "country": "United Kingdom",
         "nickname": "KalKal",
-        "real name": "Kalvin Chung",
+        "name": "Kalvin Chung",
         "team": "MNM Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3762,7 +3762,7 @@
     {
         "country": "Argentina",
         "nickname": "KlaudeX",
-        "real name": "",
+        "name": "",
         "team": "Malvinas Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -3770,7 +3770,7 @@
     {
         "country": "Brazil",
         "nickname": "RuleS",
-        "real name": "Lucas Thiago Perez",
+        "name": "Lucas Thiago Perez",
         "team": "Malvinas Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -3778,7 +3778,7 @@
     {
         "country": "Argentina",
         "nickname": "Gko",
-        "real name": "Emanuel Gaggero",
+        "name": "Emanuel Gaggero",
         "team": "Maycam Evolve",
         "role": "(Coach)",
         "status": "active"
@@ -3786,7 +3786,7 @@
     {
         "country": "Brazil",
         "nickname": "Bigode",
-        "real name": "",
+        "name": "",
         "team": "Maycam Evolve",
         "role": "(Coach)",
         "status": "active"
@@ -3794,7 +3794,7 @@
     {
         "country": "United States",
         "nickname": "DnA",
-        "real name": "David Thomas",
+        "name": "David Thomas",
         "team": "Mirage",
         "role": "(Manager)",
         "status": "active"
@@ -3802,7 +3802,7 @@
     {
         "country": "United States",
         "nickname": "Guerra",
-        "real name": "Cristian Guerra",
+        "name": "Cristian Guerra",
         "team": "Mirage",
         "role": "(Coach)",
         "status": "active"
@@ -3810,7 +3810,7 @@
     {
         "country": "United States",
         "nickname": "Justin",
-        "real name": "Justin Ponce de Leon",
+        "name": "Justin Ponce de Leon",
         "team": "Mirage",
         "role": "(Analyst)",
         "status": "active"
@@ -3818,7 +3818,7 @@
     {
         "country": "Italy",
         "nickname": "ATK",
-        "real name": "Andrea Maso",
+        "name": "Andrea Maso",
         "team": "Mkers",
         "role": "(Analyst)",
         "status": "active"
@@ -3826,7 +3826,7 @@
     {
         "country": "India",
         "nickname": "Hulky",
-        "real name": "Uddhav Shishodia",
+        "name": "Uddhav Shishodia",
         "team": "Monkey Hunters",
         "role": "(Manager)",
         "status": "active"
@@ -3834,7 +3834,7 @@
     {
         "country": "India",
         "nickname": "leoxard",
-        "real name": "Neil Pais",
+        "name": "Neil Pais",
         "team": "Monkey Hunters",
         "role": "(Analyst)",
         "status": "active"
@@ -3842,7 +3842,7 @@
     {
         "country": "Denmark",
         "nickname": "z1ronic",
-        "real name": "Alex Dalgaard-Hansen",
+        "name": "Alex Dalgaard-Hansen",
         "team": "Natus Vincere",
         "role": "(Caster)",
         "status": "retired"
@@ -3850,7 +3850,7 @@
     {
         "country": "Russia",
         "nickname": "Jak2oO",
-        "real name": "Oleg Porotnikov",
+        "name": "Oleg Porotnikov",
         "team": "Natus Vincere",
         "role": "(Manager)",
         "status": "active"
@@ -3858,7 +3858,7 @@
     {
         "country": "Spain",
         "nickname": "Alo",
-        "real name": "Alonso Díez",
+        "name": "Alonso Díez",
         "team": "Natus Vincere",
         "role": "(Coach)",
         "status": "active"
@@ -3866,7 +3866,7 @@
     {
         "country": "Brazil",
         "nickname": "M4G0",
-        "real name": "",
+        "name": "",
         "team": "Newstar",
         "role": "(Coach)",
         "status": "active"
@@ -3874,7 +3874,7 @@
     {
         "country": "Brazil",
         "nickname": "BOB",
-        "real name": "Andre Cardoso",
+        "name": "Andre Cardoso",
         "team": "Ninjas in Pyjamas",
         "role": "(Coach)",
         "status": "active"
@@ -3882,7 +3882,7 @@
     {
         "country": "Brazil",
         "nickname": "Sneepy",
-        "real name": "Marcus Matos",
+        "name": "Marcus Matos",
         "team": "Ninjas in Pyjamas",
         "role": "(Coach)",
         "status": "active"
@@ -3890,7 +3890,7 @@
     {
         "country": "United States",
         "nickname": "Seech",
-        "real name": "Brian Colthirst",
+        "name": "Brian Colthirst",
         "team": "Nokturns",
         "role": "(Analyst)",
         "status": "active"
@@ -3898,7 +3898,7 @@
     {
         "country": "Japan",
         "nickname": "HYDRIDK",
-        "real name": "",
+        "name": "",
         "team": "Northeption",
         "role": "(Coach)",
         "status": "active"
@@ -3906,7 +3906,7 @@
     {
         "country": "Japan",
         "nickname": "amenbo",
-        "real name": "Wakabayashi Ryota",
+        "name": "Wakabayashi Ryota",
         "team": "Northeption",
         "role": "(Coach)",
         "status": "active"
@@ -3914,7 +3914,7 @@
     {
         "country": "France",
         "nickname": "Bolt",
-        "real name": "Maxime Nourrigat",
+        "name": "Maxime Nourrigat",
         "team": "OkaCorp",
         "role": "(Coach)",
         "status": "active"
@@ -3922,7 +3922,7 @@
     {
         "country": "France",
         "nickname": "OkaShiiro",
-        "real name": "Loup Samain",
+        "name": "Loup Samain",
         "team": "OkaCorp",
         "role": "(Manager)",
         "status": "active"
@@ -3930,7 +3930,7 @@
     {
         "country": "Argentina",
         "nickname": "Clicke",
-        "real name": "Santiago Larrarte",
+        "name": "Santiago Larrarte",
         "team": "OverKnight",
         "role": "(Coach)",
         "status": "active"
@@ -3938,7 +3938,7 @@
     {
         "country": "United States",
         "nickname": "HOP3Z",
-        "real name": "Anthony Nizzardo",
+        "name": "Anthony Nizzardo",
         "team": "Oxygen Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3946,7 +3946,7 @@
     {
         "country": "United States",
         "nickname": "Redeemer",
-        "real name": "Taylor Mayeur",
+        "name": "Taylor Mayeur",
         "team": "Oxygen Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3954,7 +3954,7 @@
     {
         "country": "South Korea",
         "nickname": "GlowMe",
-        "real name": "Lee Seung-woo",
+        "name": "Lee Seung-woo",
         "team": "PANTHERA",
         "role": "(Coach)",
         "status": "active"
@@ -3962,7 +3962,7 @@
     {
         "country": "Japan",
         "nickname": "kizoku",
-        "real name": "Yasuhiro Nishi",
+        "name": "Yasuhiro Nishi",
         "team": "PET Nora-Rengo",
         "role": "(Coach)",
         "status": "inactive"
@@ -3970,7 +3970,7 @@
     {
         "country": "Argentina",
         "nickname": "L1m0n4d4",
-        "real name": "Julian Gonzalez",
+        "name": "Julian Gonzalez",
         "team": "Pampas",
         "role": "(Coach)",
         "status": "active"
@@ -3978,7 +3978,7 @@
     {
         "country": "Brazil",
         "nickname": "Mugusto",
-        "real name": "Murilo Augusto",
+        "name": "Murilo Augusto",
         "team": "Pampas",
         "role": "(Coach)",
         "status": "retired"
@@ -3986,7 +3986,7 @@
     {
         "country": "India",
         "nickname": "VBM",
-        "real name": "Varun Bir Mohindra",
+        "name": "Varun Bir Mohindra",
         "team": "Parabellum Esports",
         "role": "(Coach)",
         "status": "active"
@@ -3994,7 +3994,7 @@
     {
         "country": "Mexico",
         "nickname": "ReyDelAfter",
-        "real name": "Diego Escobar",
+        "name": "Diego Escobar",
         "team": "PÊEK Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -4002,7 +4002,7 @@
     {
         "country": "South Korea",
         "nickname": "Squ4d",
-        "real name": "Bang Woo-sik",
+        "name": "Bang Woo-sik",
         "team": "Quintette Shizuoka",
         "role": "(Coach)",
         "status": "active"
@@ -4010,7 +4010,7 @@
     {
         "country": "Belgium",
         "nickname": "Phantom2ification",
-        "real name": "David Stynen",
+        "name": "David Stynen",
         "team": "R6CON",
         "role": "(Host)",
         "status": "active"
@@ -4018,7 +4018,7 @@
     {
         "country": "Netherlands",
         "nickname": "BozeMax",
-        "real name": "Max Hendriks",
+        "name": "Max Hendriks",
         "team": "R6CON",
         "role": "(Host)",
         "status": "active"
@@ -4026,7 +4026,7 @@
     {
         "country": "Japan",
         "nickname": "Blueno4ronandes",
-        "real name": "Shota Aono",
+        "name": "Shota Aono",
         "team": "REJECT",
         "role": "(Coach)",
         "status": "active"
@@ -4034,7 +4034,7 @@
     {
         "country": "France",
         "nickname": "DraZ",
-        "real name": "Razig Abida",
+        "name": "Razig Abida",
         "team": "Real Betis",
         "role": "(Coach)",
         "status": "active"
@@ -4042,7 +4042,7 @@
     {
         "country": "United States",
         "nickname": "Fettuccine",
-        "real name": "",
+        "name": "",
         "team": "Reality TV",
         "role": "(Coach)",
         "status": "active"
@@ -4050,7 +4050,7 @@
     {
         "country": "United States",
         "nickname": "Killhungry",
-        "real name": "",
+        "name": "",
         "team": "Reality TV",
         "role": "(Analyst)",
         "status": "active"
@@ -4058,7 +4058,7 @@
     {
         "country": "Spain",
         "nickname": "WaZo",
-        "real name": "Óscar Llano",
+        "name": "Óscar Llano",
         "team": "Rebels Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4066,7 +4066,7 @@
     {
         "country": "United States",
         "nickname": "Oasis",
-        "real name": "Tyler McLean",
+        "name": "Tyler McLean",
         "team": "RentFree",
         "role": "(Coach)",
         "status": "active"
@@ -4074,7 +4074,7 @@
     {
         "country": "France",
         "nickname": "leacharls",
-        "real name": "Léa Charles",
+        "name": "Léa Charles",
         "team": "Rogue",
         "role": "(Manager)",
         "status": "active"
@@ -4082,7 +4082,7 @@
     {
         "country": "Netherlands",
         "nickname": "Bernie",
-        "real name": "Bernadette Ramaker",
+        "name": "Bernadette Ramaker",
         "team": "Rogue",
         "role": "(Coach)",
         "status": "active"
@@ -4090,7 +4090,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Saethus",
-        "real name": "Tristan Savage",
+        "name": "Tristan Savage",
         "team": "Rogue",
         "role": "(Analyst)",
         "status": "active"
@@ -4098,7 +4098,7 @@
     {
         "country": "United Kingdom",
         "nickname": "meepeY",
-        "real name": "Matthew Sharples",
+        "name": "Matthew Sharples",
         "team": "Rogue",
         "role": "(Coach)",
         "status": "active"
@@ -4106,7 +4106,7 @@
     {
         "country": "South Korea",
         "nickname": "Fanxy",
-        "real name": "Lim Jun-hyuk",
+        "name": "Lim Jun-hyuk",
         "team": "SANDBOX Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4114,7 +4114,7 @@
     {
         "country": "South Korea",
         "nickname": "Nova",
-        "real name": "Lee Si-hun",
+        "name": "Lee Si-hun",
         "team": "SANDBOX Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4122,7 +4122,7 @@
     {
         "country": "Japan",
         "nickname": "TAKA",
-        "real name": "",
+        "name": "",
         "team": "SCARZ",
         "role": "(Coach)",
         "status": "active"
@@ -4130,7 +4130,7 @@
     {
         "country": "Brazil",
         "nickname": "depresso",
-        "real name": "Renan Ribeiro",
+        "name": "Renan Ribeiro",
         "team": "Santos e-Sports",
         "role": "(Analyst)",
         "status": "active"
@@ -4138,7 +4138,7 @@
     {
         "country": "Mexico",
         "nickname": "Olimpo",
-        "real name": "Gerardo Gamez",
+        "name": "Gerardo Gamez",
         "team": "Six Karma",
         "role": "(Coach)",
         "status": "active"
@@ -4146,7 +4146,7 @@
     {
         "country": "Mexico",
         "nickname": "Physicz",
-        "real name": "Rodrigo Flores",
+        "name": "Rodrigo Flores",
         "team": "Six Karma",
         "role": "(Coach)",
         "status": "active"
@@ -4154,7 +4154,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Tribizzle",
-        "real name": "Darren Moore",
+        "name": "Darren Moore",
         "team": "Soniqs",
         "role": "(Manager)",
         "status": "active"
@@ -4162,7 +4162,7 @@
     {
         "country": "United States",
         "nickname": "Goddess",
-        "real name": "Lauren Williams",
+        "name": "Lauren Williams",
         "team": "Soniqs",
         "role": "(Coach)",
         "status": "active"
@@ -4170,7 +4170,7 @@
     {
         "country": "United States",
         "nickname": "Jobro",
-        "real name": "Joe Reyes",
+        "name": "Joe Reyes",
         "team": "Soniqs",
         "role": "(Analyst)",
         "status": "active"
@@ -4178,7 +4178,7 @@
     {
         "country": "Canada",
         "nickname": "Unit",
-        "real name": "Shawn Pellerin",
+        "name": "Shawn Pellerin",
         "team": "Spacestation Gaming",
         "role": "(Manager)",
         "status": "active"
@@ -4186,7 +4186,7 @@
     {
         "country": "United States",
         "nickname": "Luke",
-        "real name": "Luke Slota",
+        "name": "Luke Slota",
         "team": "Spacestation Gaming",
         "role": "(Analyst)",
         "status": "active"
@@ -4194,7 +4194,7 @@
     {
         "country": "United States",
         "nickname": "Lycan",
-        "real name": "Justin Woods",
+        "name": "Justin Woods",
         "team": "Spacestation Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4202,7 +4202,7 @@
     {
         "country": "United States",
         "nickname": "Sov",
-        "real name": "Zachary Sites",
+        "name": "Zachary Sites",
         "team": "Spacestation Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4210,7 +4210,7 @@
     {
         "country": "South Korea",
         "nickname": "WATB",
-        "real name": "Lee Jae-deok",
+        "name": "Lee Jae-deok",
         "team": "Spear Gaming",
         "role": "(Coach)",
         "status": "active"
@@ -4218,7 +4218,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Hurdes",
-        "real name": "",
+        "name": "",
         "team": "TENSTAR",
         "role": "(Analyst)",
         "status": "active"
@@ -4226,7 +4226,7 @@
     {
         "country": "Canada",
         "nickname": "Pojoman",
-        "real name": "Owen Mitura",
+        "name": "Owen Mitura",
         "team": "TSM",
         "role": "(Coach)",
         "status": "active"
@@ -4234,7 +4234,7 @@
     {
         "country": "United States",
         "nickname": "Daeda",
-        "real name": "Jacob Hale",
+        "name": "Jacob Hale",
         "team": "TSM",
         "role": "(Coach)",
         "status": "active"
@@ -4242,7 +4242,7 @@
     {
         "country": "Russia",
         "nickname": "TheRealestRussian",
-        "real name": "Igor Obukhov",
+        "name": "Igor Obukhov",
         "team": "TT9 Esports",
         "role": "(Manager)",
         "status": "active"
@@ -4250,7 +4250,7 @@
     {
         "country": "South Korea",
         "nickname": "DongUk",
-        "real name": "Kim Dong-uk",
+        "name": "Kim Dong-uk",
         "team": "Talon Esports",
         "role": "(Coach)",
         "status": "active"
@@ -4258,7 +4258,7 @@
     {
         "country": "South Korea",
         "nickname": "LabyRinth",
-        "real name": "Do You-hyeon",
+        "name": "Do You-hyeon",
         "team": "Talon Esports",
         "role": "(Coach)",
         "status": "active"
@@ -4266,7 +4266,7 @@
     {
         "country": "Israel",
         "nickname": "GunnY",
-        "real name": "Tomer Hesed",
+        "name": "Tomer Hesed",
         "team": "Team Alpha",
         "role": "(Manager)",
         "status": "active"
@@ -4274,7 +4274,7 @@
     {
         "country": "France",
         "nickname": "Catwo",
-        "real name": "Alexia Chapus",
+        "name": "Alexia Chapus",
         "team": "Team BDS",
         "role": "(Manager)",
         "status": "active"
@@ -4282,7 +4282,7 @@
     {
         "country": "Netherlands",
         "nickname": "eaglemees",
-        "real name": "Mees van der Arend",
+        "name": "Mees van der Arend",
         "team": "Team BDS",
         "role": "(Analyst)",
         "status": "active"
@@ -4290,7 +4290,7 @@
     {
         "country": "Australia",
         "nickname": "Nikoh",
-        "real name": "Erik Ahrenfeld",
+        "name": "Erik Ahrenfeld",
         "team": "Team Bliss",
         "role": "(Coach)",
         "status": "active"
@@ -4298,7 +4298,7 @@
     {
         "country": "South Africa",
         "nickname": "Golden",
-        "real name": "",
+        "name": "",
         "team": "Team Bliss",
         "role": "(Manager)",
         "status": "active"
@@ -4306,7 +4306,7 @@
     {
         "country": "Mexico",
         "nickname": "Pzzg0d",
-        "real name": "Maximiliano Arreola",
+        "name": "Maximiliano Arreola",
         "team": "Team Cruelty",
         "role": "(Manager)",
         "status": "active"
@@ -4314,7 +4314,7 @@
     {
         "country": "Mexico",
         "nickname": "Royz",
-        "real name": "Francisco Guillén",
+        "name": "Francisco Guillén",
         "team": "Team Cruelty",
         "role": "(Coach)",
         "status": "active"
@@ -4322,7 +4322,7 @@
     {
         "country": "Russia",
         "nickname": "RayzerGM",
-        "real name": "Oleg Kuchin",
+        "name": "Oleg Kuchin",
         "team": "Team Empire",
         "role": "(Coach)",
         "status": "active"
@@ -4330,7 +4330,7 @@
     {
         "country": "Netherlands",
         "nickname": "JPM",
-        "real name": "Jean-Paul Moolenaar",
+        "name": "Jean-Paul Moolenaar",
         "team": "Team LFO",
         "role": "(Coach)",
         "status": "active"
@@ -4338,7 +4338,7 @@
     {
         "country": "Brazil",
         "nickname": "Rafa",
-        "real name": "Rafael Queiroz",
+        "name": "Rafael Queiroz",
         "team": "Team Liquid",
         "role": "(Manager)",
         "status": "active"
@@ -4346,7 +4346,7 @@
     {
         "country": "Brazil",
         "nickname": "Sensi",
-        "real name": "André Kaneyasu",
+        "name": "André Kaneyasu",
         "team": "Team Liquid",
         "role": "(Coach)",
         "status": "active"
@@ -4354,7 +4354,7 @@
     {
         "country": "Brazil",
         "nickname": "hugzord",
-        "real name": "Vitor Hugo",
+        "name": "Vitor Hugo",
         "team": "Team Liquid",
         "role": "(Coach)",
         "status": "active"
@@ -4362,7 +4362,7 @@
     {
         "country": "Brazil",
         "nickname": "mcunha",
-        "real name": "Marcelo Cunha",
+        "name": "Marcelo Cunha",
         "team": "Team Liquid",
         "role": "(Coach)",
         "status": "active"
@@ -4370,7 +4370,7 @@
     {
         "country": "Brazil",
         "nickname": "Twister",
-        "real name": "Marlon Mello",
+        "name": "Marlon Mello",
         "team": "Team Secret",
         "role": "(Coach)",
         "status": "active"
@@ -4378,7 +4378,7 @@
     {
         "country": "United Kingdom",
         "nickname": "SamE",
-        "real name": "Sam Ellis",
+        "name": "Sam Ellis",
         "team": "Team Secret",
         "role": "(Manager)",
         "status": "active"
@@ -4386,7 +4386,7 @@
     {
         "country": "Brazil",
         "nickname": "IntacT",
-        "real name": "Vitor Janz",
+        "name": "Vitor Janz",
         "team": "Team oNe eSports",
         "role": "(Coach)",
         "status": "active"
@@ -4394,7 +4394,7 @@
     {
         "country": "Canada",
         "nickname": "Fame",
-        "real name": "Antonio Nardi",
+        "name": "Antonio Nardi",
         "team": "The Favelas",
         "role": "(Coach)",
         "status": "active"
@@ -4402,7 +4402,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Luk3",
-        "real name": "Luke Hiorns-Boddington",
+        "name": "Luke Hiorns-Boddington",
         "team": "The Favelas",
         "role": "(Coach)",
         "status": "active"
@@ -4410,7 +4410,7 @@
     {
         "country": "United Kingdom",
         "nickname": "GiG",
-        "real name": "Ellis Hindle",
+        "name": "Ellis Hindle",
         "team": "Tyde",
         "role": "(Coach)",
         "status": "active"
@@ -4418,7 +4418,7 @@
     {
         "country": "Argentina",
         "nickname": "Simplemente Marcos",
-        "real name": "Marcos Sanchez Urbanek",
+        "name": "Marcos Sanchez Urbanek",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4426,7 +4426,7 @@
     {
         "country": "Argentina",
         "nickname": "XGerard",
-        "real name": "Gerardo Scollo",
+        "name": "Gerardo Scollo",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4434,7 +4434,7 @@
     {
         "country": "Argentina",
         "nickname": "ipaP",
-        "real name": "Leandro Truppa",
+        "name": "Leandro Truppa",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -4442,7 +4442,7 @@
     {
         "country": "Australia",
         "nickname": "Raven",
-        "real name": "Brandon Langiano",
+        "name": "Brandon Langiano",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4450,7 +4450,7 @@
     {
         "country": "Australia",
         "nickname": "Riley Knight",
-        "real name": "Riley Knight",
+        "name": "Riley Knight",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -4458,7 +4458,7 @@
     {
         "country": "Brazil",
         "nickname": "DA3MON",
-        "real name": "Renato Silva",
+        "name": "Renato Silva",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -4466,7 +4466,7 @@
     {
         "country": "Brazil",
         "nickname": "Domitila Becker",
-        "real name": "Domitila Becker",
+        "name": "Domitila Becker",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -4474,7 +4474,7 @@
     {
         "country": "Brazil",
         "nickname": "GuizaO",
-        "real name": "Guilherme Kemen",
+        "name": "Guilherme Kemen",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "retired"
@@ -4482,7 +4482,7 @@
     {
         "country": "Brazil",
         "nickname": "Jubs",
-        "real name": "Leonardo Benisterro",
+        "name": "Leonardo Benisterro",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4490,7 +4490,7 @@
     {
         "country": "Brazil",
         "nickname": "Léo Bianchi",
-        "real name": "Léo Bianchi",
+        "name": "Léo Bianchi",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -4498,7 +4498,7 @@
     {
         "country": "Brazil",
         "nickname": "Maria Bonino",
-        "real name": "Maria Bonino",
+        "name": "Maria Bonino",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -4506,7 +4506,7 @@
     {
         "country": "Brazil",
         "nickname": "Moska1m",
-        "real name": "Jeferson Sampaio",
+        "name": "Jeferson Sampaio",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4514,7 +4514,7 @@
     {
         "country": "Brazil",
         "nickname": "Nerd Engenheiro",
-        "real name": "",
+        "name": "",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4522,7 +4522,7 @@
     {
         "country": "Brazil",
         "nickname": "Nishwegger",
-        "real name": "Enrico Nishi",
+        "name": "Enrico Nishi",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4530,7 +4530,7 @@
     {
         "country": "Brazil",
         "nickname": "PhH",
-        "real name": "Paulo Henrique Machado",
+        "name": "Pedro Henrique de Souza Machado",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4538,7 +4538,7 @@
     {
         "country": "Brazil",
         "nickname": "Yudi Tamashiro",
-        "real name": "Yudi Tamashiro",
+        "name": "Yudi Tamashiro",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4546,7 +4546,7 @@
     {
         "country": "Brazil",
         "nickname": "alezudoo",
-        "real name": "Alexandre Branco",
+        "name": "Alexandre Branco",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4554,7 +4554,7 @@
     {
         "country": "Brazil",
         "nickname": "nKiraG",
-        "real name": "David Newton",
+        "name": "David Newton",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4562,7 +4562,7 @@
     {
         "country": "Brazil",
         "nickname": "oJGz",
-        "real name": "João Gabriel",
+        "name": "João Gabriel",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4570,7 +4570,7 @@
     {
         "country": "Chile",
         "nickname": "Mcclane",
-        "real name": "Diego Lucero",
+        "name": "Diego Lucero",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4578,7 +4578,7 @@
     {
         "country": "Chile",
         "nickname": "TriicK",
-        "real name": "Ignacio Encina",
+        "name": "Ignacio Encina",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4586,7 +4586,7 @@
     {
         "country": "China",
         "nickname": "BruceZz",
-        "real name": "Zhang Jinghe",
+        "name": "Zhang Jinghe",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4594,7 +4594,7 @@
     {
         "country": "China",
         "nickname": "Deacon",
-        "real name": "Chen Xuan",
+        "name": "Chen Xuan",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4602,7 +4602,7 @@
     {
         "country": "China",
         "nickname": "Direction",
-        "real name": "Cheng Yabing",
+        "name": "Cheng Yabing",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4610,7 +4610,7 @@
     {
         "country": "China",
         "nickname": "Jeffrey",
-        "real name": "Zhao Renhan",
+        "name": "Zhao Renhan",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4618,7 +4618,7 @@
     {
         "country": "China",
         "nickname": "Lin-y033",
-        "real name": "Xue Linyuan",
+        "name": "Xue Linyuan",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4626,7 +4626,7 @@
     {
         "country": "China",
         "nickname": "RoninCat",
-        "real name": "Wang Shuchun",
+        "name": "Wang Shuchun",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4634,7 +4634,7 @@
     {
         "country": "China",
         "nickname": "XYZ",
-        "real name": "Xu Yuzhi",
+        "name": "Xu Yuzhi",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4642,7 +4642,7 @@
     {
         "country": "China",
         "nickname": "Yoming",
-        "real name": "Xu Youming",
+        "name": "Xu Youming",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4650,7 +4650,7 @@
     {
         "country": "China",
         "nickname": "乔伊奥斯托雷",
-        "real name": "Zhao Tianlei",
+        "name": "Zhao Tianlei",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4658,7 +4658,7 @@
     {
         "country": "China",
         "nickname": "叫我黑川",
-        "real name": "Fan Zichuan",
+        "name": "Fan Zichuan",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4666,7 +4666,7 @@
     {
         "country": "China",
         "nickname": "天煞幽魂",
-        "real name": "Zeng Tian",
+        "name": "Zeng Tian",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4674,7 +4674,7 @@
     {
         "country": "China",
         "nickname": "正义的伙伴阿",
-        "real name": "He Hao",
+        "name": "He Hao",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4682,7 +4682,7 @@
     {
         "country": "China",
         "nickname": "节制",
-        "real name": "He Jianlin",
+        "name": "He Jianlin",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4690,7 +4690,7 @@
     {
         "country": "Finland",
         "nickname": "L3uku",
-        "real name": "Marko Kivelä",
+        "name": "Marko Kivelä",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "retired"
@@ -4698,7 +4698,7 @@
     {
         "country": "France",
         "nickname": "Fio'",
-        "real name": "Fiorenzo Elba",
+        "name": "Fiorenzo Elba",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4706,7 +4706,7 @@
     {
         "country": "France",
         "nickname": "FuriouSG",
-        "real name": "Sébastien Guérineau",
+        "name": "Sébastien Guérineau",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4714,7 +4714,7 @@
     {
         "country": "France",
         "nickname": "FuturFax",
-        "real name": "Leo Mallet",
+        "name": "Leo Mallet",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4722,7 +4722,7 @@
     {
         "country": "France",
         "nickname": "GaelV8",
-        "real name": "Gaël Trico",
+        "name": "Gaël Trico",
         "team": "Ubisoft",
         "role": "(Admin)",
         "status": "active"
@@ -4730,7 +4730,7 @@
     {
         "country": "France",
         "nickname": "Kabylouu",
-        "real name": "Malik",
+        "name": "Malik",
         "team": "Ubisoft",
         "role": "(Talent)",
         "status": "active"
@@ -4738,7 +4738,7 @@
     {
         "country": "France",
         "nickname": "Kamiomega",
-        "real name": "Laurent Adam",
+        "name": "Laurent Adam",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4746,7 +4746,7 @@
     {
         "country": "France",
         "nickname": "Kivvi",
-        "real name": "Julien Serrier",
+        "name": "Julien Serrier",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4754,7 +4754,7 @@
     {
         "country": "France",
         "nickname": "Kozak",
-        "real name": "Tanguy Picavet",
+        "name": "Tanguy Picavet",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4762,7 +4762,7 @@
     {
         "country": "France",
         "nickname": "KrO",
-        "real name": "Guillaume Georget",
+        "name": "Guillaume Georget",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -4770,7 +4770,7 @@
     {
         "country": "France",
         "nickname": "LuKy",
-        "real name": "Killian Lefeuvre",
+        "name": "Killian Lefeuvre",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4778,7 +4778,7 @@
     {
         "country": "France",
         "nickname": "Science",
-        "real name": "Alexis Barbannaud",
+        "name": "Alexis Barbannaud",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4786,7 +4786,7 @@
     {
         "country": "France",
         "nickname": "Shookapik",
-        "real name": "Tom Raynal",
+        "name": "Tom Raynal",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -4794,7 +4794,7 @@
     {
         "country": "France",
         "nickname": "iKi",
-        "real name": "Samuel Ibert",
+        "name": "Samuel Ibert",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4802,7 +4802,7 @@
     {
         "country": "France",
         "nickname": "notFuZeAL",
-        "real name": "Antoine Letailleur",
+        "name": "Antoine Letailleur",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4810,7 +4810,7 @@
     {
         "country": "Germany",
         "nickname": "ShatterXx",
-        "real name": "Tobias Richter",
+        "name": "Tobias Richter",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4818,7 +4818,7 @@
     {
         "country": "Germany",
         "nickname": "Zander",
-        "real name": "Michael Müller",
+        "name": "Michael Müller",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4826,7 +4826,7 @@
     {
         "country": "Hungary",
         "nickname": "AdamB",
-        "real name": "Ádám Baracsi",
+        "name": "Ádám Baracsi",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4834,7 +4834,7 @@
     {
         "country": "Hungary",
         "nickname": "B3RC1",
-        "real name": "Bertalan Varga-Molnár",
+        "name": "Bertalan Varga-Molnár",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4842,7 +4842,7 @@
     {
         "country": "Hungary",
         "nickname": "LeszklareN",
-        "real name": "Gergő Maros",
+        "name": "Gergő Maros",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4850,7 +4850,7 @@
     {
         "country": "Ireland",
         "nickname": "Gibson",
-        "real name": "Darren Gibson",
+        "name": "Darren Gibson",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4858,7 +4858,7 @@
     {
         "country": "Italy",
         "nickname": "ChiNook",
-        "real name": "Jody Carraro",
+        "name": "Jody Carraro",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4866,7 +4866,7 @@
     {
         "country": "Italy",
         "nickname": "Rakki",
-        "real name": "Salvatore Lena",
+        "name": "Salvatore Lena",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4874,7 +4874,7 @@
     {
         "country": "Japan",
         "nickname": "KemicaL",
-        "real name": "Yuki Yamaga",
+        "name": "Yuki Yamaga",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4882,7 +4882,7 @@
     {
         "country": "Lebanon",
         "nickname": "Milosh",
-        "real name": "Ghassan Finge",
+        "name": "Ghassan Finge",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -4890,7 +4890,7 @@
     {
         "country": "Mexico",
         "nickname": "Alan",
-        "real name": "Alan Quintana",
+        "name": "Alan Quintana",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4898,7 +4898,7 @@
     {
         "country": "Mexico",
         "nickname": "DesertFox",
-        "real name": "Aníbal Borbón",
+        "name": "Aníbal Borbón",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4906,7 +4906,7 @@
     {
         "country": "Mexico",
         "nickname": "JosephEdgar17",
-        "real name": "José Chávez",
+        "name": "José Chávez",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4914,7 +4914,7 @@
     {
         "country": "Mexico",
         "nickname": "Rammztein57",
-        "real name": "Genaro Ceron",
+        "name": "Genaro Ceron",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4922,7 +4922,7 @@
     {
         "country": "Mexico",
         "nickname": "RocketRamy",
-        "real name": "Mapache Verde",
+        "name": "Mapache Verde",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4930,7 +4930,7 @@
     {
         "country": "Mexico",
         "nickname": "Santiago Fisher",
-        "real name": "Santiago Fisher",
+        "name": "Santiago Fisher",
         "team": "Ubisoft",
         "role": "(Talent)",
         "status": "active"
@@ -4938,7 +4938,7 @@
     {
         "country": "Mexico",
         "nickname": "Skibs",
-        "real name": "Luis Santiago",
+        "name": "Luis Santiago",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4946,7 +4946,7 @@
     {
         "country": "Mexico",
         "nickname": "SunnyGod",
-        "real name": "Carlos",
+        "name": "Carlos",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4954,7 +4954,7 @@
     {
         "country": "Mexico",
         "nickname": "Zoro",
-        "real name": "Isaias Rodriguez",
+        "name": "Isaias Rodriguez",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4962,7 +4962,7 @@
     {
         "country": "Netherlands",
         "nickname": "Anthox",
-        "real name": "Anthony Kremer",
+        "name": "Anthony Kremer",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4970,7 +4970,7 @@
     {
         "country": "Netherlands",
         "nickname": "Easy",
-        "real name": "Stephan Kemink",
+        "name": "Stephan Kemink",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -4978,7 +4978,7 @@
     {
         "country": "Netherlands",
         "nickname": "FastAnne",
-        "real name": "Anne Janssen",
+        "name": "Anne Janssen",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4986,7 +4986,7 @@
     {
         "country": "Netherlands",
         "nickname": "Hap",
-        "real name": "Stijn Hapers",
+        "name": "Stijn Hapers",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -4994,7 +4994,7 @@
     {
         "country": "Netherlands",
         "nickname": "NoaHVW9",
-        "real name": "Noah van Woudenberg",
+        "name": "Noah van Woudenberg",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5002,7 +5002,7 @@
     {
         "country": "Netherlands",
         "nickname": "Toldersma",
-        "real name": "Thiadrik Oldersma",
+        "name": "Thiadrik Oldersma",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5010,7 +5010,7 @@
     {
         "country": "Poland",
         "nickname": "Magvayer",
-        "real name": "Tomek Filipiuk",
+        "name": "Tomek Filipiuk",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5018,7 +5018,7 @@
     {
         "country": "Poland",
         "nickname": "Sebol",
-        "real name": "Maciej Majewski",
+        "name": "Maciej Majewski",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5026,7 +5026,7 @@
     {
         "country": "Russia",
         "nickname": "HLK",
-        "real name": "Ilya Rybin",
+        "name": "Ilya Rybin",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5034,7 +5034,7 @@
     {
         "country": "Russia",
         "nickname": "Vespertuss",
-        "real name": "Artyom Orlov",
+        "name": "Artyom Orlov",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5042,7 +5042,7 @@
     {
         "country": "Saudi Arabia",
         "nickname": "Nalbagame",
-        "real name": "Nawaf Albagme",
+        "name": "Nawaf Albagme",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5050,7 +5050,7 @@
     {
         "country": "South Africa",
         "nickname": "Simon Bond",
-        "real name": "Simon Bond",
+        "name": "Simon Bond",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5058,7 +5058,7 @@
     {
         "country": "South Korea",
         "nickname": "AengMuSae",
-        "real name": "Kim Hyeon-sik",
+        "name": "Kim Hyeon-sik",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5066,7 +5066,7 @@
     {
         "country": "South Korea",
         "nickname": "An Tae-hun",
-        "real name": "An Tae-hun",
+        "name": "An Tae-hun",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5074,7 +5074,7 @@
     {
         "country": "South Korea",
         "nickname": "Benezar",
-        "real name": "Park Tae-min",
+        "name": "Park Tae-min",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5082,7 +5082,7 @@
     {
         "country": "South Korea",
         "nickname": "Ddengku",
-        "real name": "Han Yun-su",
+        "name": "Han Yun-su",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5090,7 +5090,7 @@
     {
         "country": "South Korea",
         "nickname": "Fuhit",
-        "real name": "Park Jeong-jin",
+        "name": "Park Jeong-jin",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5098,7 +5098,7 @@
     {
         "country": "South Korea",
         "nickname": "HAFUM",
-        "real name": "Lee Ji-eun",
+        "name": "Lee Ji-eun",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5106,7 +5106,7 @@
     {
         "country": "South Korea",
         "nickname": "LHM344",
-        "real name": "Lee Hyun-min",
+        "name": "Lee Hyun-min",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5114,7 +5114,7 @@
     {
         "country": "South Korea",
         "nickname": "Rezina",
-        "real name": "",
+        "name": "",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5122,7 +5122,7 @@
     {
         "country": "South Korea",
         "nickname": "Shin Il",
-        "real name": "Shin Il",
+        "name": "Shin Il",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5130,7 +5130,7 @@
     {
         "country": "South Korea",
         "nickname": "SummerRain",
-        "real name": "Kim In-yeong",
+        "name": "Kim In-yeong",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5138,7 +5138,7 @@
     {
         "country": "South Korea",
         "nickname": "Tllly",
-        "real name": "Kim Tae-hui",
+        "name": "Kim Tae-hui",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5146,7 +5146,7 @@
     {
         "country": "Spain",
         "nickname": "Abichu",
-        "real name": "Alberto Torrent",
+        "name": "Alberto Torrent",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5154,7 +5154,7 @@
     {
         "country": "Spain",
         "nickname": "AlexPolo",
-        "real name": "Alejandro Polo",
+        "name": "Alejandro Polo",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5162,7 +5162,7 @@
     {
         "country": "Spain",
         "nickname": "JuK4",
-        "real name": "Francesc Illana",
+        "name": "Francesc Illana",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -5170,7 +5170,7 @@
     {
         "country": "Spain",
         "nickname": "MarcRoss",
-        "real name": "Marc Rosés",
+        "name": "Marc Rosés",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5178,7 +5178,7 @@
     {
         "country": "Spain",
         "nickname": "Meta",
-        "real name": "Alejandro Santos",
+        "name": "Alejandro Santos",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5186,7 +5186,7 @@
     {
         "country": "Spain",
         "nickname": "Reina",
-        "real name": "Luisa Cano",
+        "name": "Luisa Cano",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5194,7 +5194,7 @@
     {
         "country": "Spain",
         "nickname": "Scythe",
-        "real name": "Íñigo Gómez",
+        "name": "Íñigo Gómez",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5202,7 +5202,7 @@
     {
         "country": "Taiwan",
         "nickname": "Bigboss",
-        "real name": "Chen Yu",
+        "name": "Chen Yu",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5210,7 +5210,7 @@
     {
         "country": "Taiwan",
         "nickname": "Fish",
-        "real name": "Liu Yu-shuan",
+        "name": "Liu Yu-shuan",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5218,7 +5218,7 @@
     {
         "country": "Taiwan",
         "nickname": "Graves",
-        "real name": "Pan Chia-hao",
+        "name": "Pan Chia-hao",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5226,7 +5226,7 @@
     {
         "country": "Taiwan",
         "nickname": "KvN",
-        "real name": "",
+        "name": "",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5234,7 +5234,7 @@
     {
         "country": "Taiwan",
         "nickname": "Nia",
-        "real name": "Fu Kuan-chun",
+        "name": "Fu Kuan-chun",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5242,7 +5242,7 @@
     {
         "country": "Taiwan",
         "nickname": "Paul",
-        "real name": "Wang Bo",
+        "name": "Wang Bo",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5250,7 +5250,7 @@
     {
         "country": "Thailand",
         "nickname": "MadDuckRanger",
-        "real name": "Bovorn Bovornsombat",
+        "name": "Bovorn Bovornsombat",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5258,7 +5258,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Dean0",
-        "real name": "Eoin Deane",
+        "name": "Eoin Deane",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5266,7 +5266,7 @@
     {
         "country": "United Kingdom",
         "nickname": "EBAC",
-        "real name": "Andrew Mulhern",
+        "name": "Andrew Mulhern",
         "team": "Ubisoft",
         "role": "(Talent)",
         "status": "active"
@@ -5274,7 +5274,7 @@
     {
         "country": "United Kingdom",
         "nickname": "GraceV",
-        "real name": "Grace Vee",
+        "name": "Grace Vee",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5282,7 +5282,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Iain Chambers",
-        "real name": "Iain Chambers",
+        "name": "Iain Chambers",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -5290,7 +5290,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Shrikel",
-        "real name": "Alistair Wright",
+        "name": "Alistair Wright",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -5298,7 +5298,7 @@
     {
         "country": "United States",
         "nickname": "Adam Mulligan",
-        "real name": "Adam Mulligan",
+        "name": "Adam Mulligan",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5306,7 +5306,7 @@
     {
         "country": "United States",
         "nickname": "CarpeBonoSensum",
-        "real name": "Connor Bargeloh",
+        "name": "Connor Bargeloh",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5314,7 +5314,7 @@
     {
         "country": "United States",
         "nickname": "Cdaps",
-        "real name": "Connor D'Apollonio",
+        "name": "Connor D'Apollonio",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5322,7 +5322,7 @@
     {
         "country": "United States",
         "nickname": "CeDeCe",
-        "real name": "Drue Cralle",
+        "name": "Drue Cralle",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5330,7 +5330,7 @@
     {
         "country": "United States",
         "nickname": "Chief",
-        "real name": "Bryan Schubert",
+        "name": "Bryan Schubert",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5338,7 +5338,7 @@
     {
         "country": "United States",
         "nickname": "CookieZ",
-        "real name": "C.J. Brooks",
+        "name": "C.J. Brooks",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5346,7 +5346,7 @@
     {
         "country": "United States",
         "nickname": "Corbec",
-        "real name": "Tristan Parker",
+        "name": "Tristan Parker",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5354,7 +5354,7 @@
     {
         "country": "United States",
         "nickname": "Cyano",
-        "real name": "Ronald Fernandez",
+        "name": "Ronald Fernandez",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -5362,7 +5362,7 @@
     {
         "country": "United States",
         "nickname": "DJDextrose",
-        "real name": "Joe Navarro",
+        "name": "Joe Navarro",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5370,7 +5370,7 @@
     {
         "country": "United States",
         "nickname": "Grave",
-        "real name": "Alex Walker",
+        "name": "Alex Walker",
         "team": "Ubisoft",
         "role": "(Analyst)",
         "status": "active"
@@ -5378,7 +5378,7 @@
     {
         "country": "United States",
         "nickname": "Jazmin Benavides",
-        "real name": "Jazmin Benavides",
+        "name": "Jazmin Benavides",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5386,7 +5386,7 @@
     {
         "country": "United States",
         "nickname": "Jzwills",
-        "real name": "Jonah Zwillinger",
+        "name": "Jonah Zwillinger",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5394,7 +5394,7 @@
     {
         "country": "United States",
         "nickname": "Lynnx",
-        "real name": "Carter Hanefeld",
+        "name": "Carter Hanefeld",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5402,7 +5402,7 @@
     {
         "country": "United States",
         "nickname": "Pangolin",
-        "real name": "Elijah Anderson",
+        "name": "Elijah Anderson",
         "team": "Ubisoft",
         "role": "(Observer)",
         "status": "active"
@@ -5410,7 +5410,7 @@
     {
         "country": "United States",
         "nickname": "Santoast",
-        "real name": "Marvin Santos",
+        "name": "Marvin Santos",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5418,7 +5418,7 @@
     {
         "country": "United States",
         "nickname": "Seltzer",
-        "real name": "Rachel Quirico",
+        "name": "Rachel Quirico",
         "team": "Ubisoft",
         "role": "(Host)",
         "status": "active"
@@ -5426,7 +5426,7 @@
     {
         "country": "United States",
         "nickname": "Stickula",
-        "real name": "Reese Hambrick",
+        "name": "Reese Hambrick",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5434,7 +5434,7 @@
     {
         "country": "United States",
         "nickname": "Stoax",
-        "real name": "Samuel Stewart",
+        "name": "Samuel Stewart",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5442,7 +5442,7 @@
     {
         "country": "United States",
         "nickname": "TangoMangoDown",
-        "real name": "Preston Willis",
+        "name": "Preston Willis",
         "team": "Ubisoft",
         "role": "(Producer)",
         "status": "active"
@@ -5450,7 +5450,7 @@
     {
         "country": "United States",
         "nickname": "TimeToLight",
-        "real name": "Daniel Rodier",
+        "name": "Daniel Rodier",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5458,7 +5458,7 @@
     {
         "country": "United States",
         "nickname": "mzo",
-        "real name": "Devin Becker",
+        "name": "Devin Becker",
         "team": "Ubisoft",
         "role": "(Caster)",
         "status": "active"
@@ -5466,7 +5466,7 @@
     {
         "country": "Argentina",
         "nickname": "Syberianfps",
-        "real name": "Belen Paredes",
+        "name": "Belen Paredes",
         "team": "Valhalla Legion",
         "role": "(Manager)",
         "status": "active"
@@ -5474,7 +5474,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Dai",
-        "real name": "Ceri Edwards",
+        "name": "Ceri Edwards",
         "team": "Victus",
         "role": "(Analyst)",
         "status": "active"
@@ -5482,7 +5482,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Jakesouthster",
-        "real name": "Jacob Williams",
+        "name": "Jacob Williams",
         "team": "Victus",
         "role": "(Coach)",
         "status": "active"
@@ -5490,7 +5490,7 @@
     {
         "country": "France",
         "nickname": "Px7",
-        "real name": "Joseph Bouton",
+        "name": "Joseph Bouton",
         "team": "Viperio 86",
         "role": "(Coach)",
         "status": "active"
@@ -5498,7 +5498,7 @@
     {
         "country": "Russia",
         "nickname": "Sergey Glamazda",
-        "real name": "Sergey Glamazda",
+        "name": "Sergey Glamazda",
         "team": "Virtus.pro",
         "role": "(Manager)",
         "status": "active"
@@ -5506,7 +5506,7 @@
     {
         "country": "Russia",
         "nickname": "YaGo",
-        "real name": "Kirill Zolotov",
+        "name": "Kirill Zolotov",
         "team": "Virtus.pro",
         "role": "(Manager)",
         "status": "active"
@@ -5514,7 +5514,7 @@
     {
         "country": "Ukraine",
         "nickname": "ViKiNG",
-        "real name": "Anton Shevchenko",
+        "name": "Anton Shevchenko",
         "team": "Virtus.pro",
         "role": "(Analyst)",
         "status": "active"
@@ -5522,7 +5522,7 @@
     {
         "country": "Germany",
         "nickname": "Zeus",
-        "real name": "Joost Bliẞ",
+        "name": "Joost Bliẞ",
         "team": "WYLDE",
         "role": "(Coach)",
         "status": "active"
@@ -5530,7 +5530,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Sleepy",
-        "real name": "Josh Franks",
+        "name": "Josh Franks",
         "team": "WYLDE",
         "role": "(Analyst)",
         "status": "active"
@@ -5538,7 +5538,7 @@
     {
         "country": "Italy",
         "nickname": "DrScaP",
-        "real name": "Pierfrancesco Scala",
+        "name": "Pierfrancesco Scala",
         "team": "WnP Esports Club",
         "role": "(Manager)",
         "status": "active"
@@ -5546,7 +5546,7 @@
     {
         "country": "Canada",
         "nickname": "Helbee",
-        "real name": "Louis Bureau",
+        "name": "Louis Bureau",
         "team": "Wolves Esports",
         "role": "(Coach)",
         "status": "active"
@@ -5554,7 +5554,7 @@
     {
         "country": "France",
         "nickname": "Lyloun",
-        "real name": "Laurie Lagier",
+        "name": "Laurie Lagier",
         "team": "Wolves Esports",
         "role": "(Coach)",
         "status": "active"
@@ -5562,7 +5562,7 @@
     {
         "country": "France",
         "nickname": "Robz",
-        "real name": "Robin Planus",
+        "name": "Robin Planus",
         "team": "Wolves Esports",
         "role": "(Manager)",
         "status": "active"
@@ -5570,7 +5570,7 @@
     {
         "country": "Brazil",
         "nickname": "Budega",
-        "real name": "Matheus Araujo de Figueiredo",
+        "name": "Matheus Araujo de Figueiredo",
         "team": "XSET",
         "role": "(Coach)",
         "status": "active"
@@ -5578,7 +5578,7 @@
     {
         "country": "Brazil",
         "nickname": "PFernandes",
-        "real name": "Pedro Fernandes",
+        "name": "Pedro Fernandes",
         "team": "XSET",
         "role": "(Analyst)",
         "status": "active"
@@ -5586,7 +5586,7 @@
     {
         "country": "Brazil",
         "nickname": "Vivas",
-        "real name": "Igor Vivas",
+        "name": "Igor Vivas",
         "team": "XSET",
         "role": "(Coach)",
         "status": "active"
@@ -5594,7 +5594,7 @@
     {
         "country": "United Kingdom",
         "nickname": "DrewSpark",
-        "real name": "Drew Spark-Whitworth",
+        "name": "Drew Spark-Whitworth",
         "team": "XSET",
         "role": "(Analyst)",
         "status": "active"
@@ -5602,7 +5602,7 @@
     {
         "country": "France",
         "nickname": "Sixquatre",
-        "real name": "Benjamin Leray",
+        "name": "Benjamin Leray",
         "team": "Yunktis",
         "role": "(Coach)",
         "status": "active"
@@ -5610,7 +5610,7 @@
     {
         "country": "United Kingdom",
         "nickname": "Krux",
-        "real name": "Harry Poyzer",
+        "name": "Harry Poyzer",
         "team": "beastcoast",
         "role": "(Analyst)",
         "status": "active"
@@ -5618,7 +5618,7 @@
     {
         "country": "United States",
         "nickname": "Mark",
-        "real name": "Mark Arismendez",
+        "name": "Mark Arismendez",
         "team": "beastcoast",
         "role": "(Coach)",
         "status": "active"
@@ -5626,7 +5626,7 @@
     {
         "country": "United States",
         "nickname": "RaMz",
-        "real name": "Robert Rockhill",
+        "name": "Robert Rockhill",
         "team": "beastcoast",
         "role": "(Coach)",
         "status": "active"
@@ -5634,7 +5634,7 @@
     {
         "country": "Singapore",
         "nickname": "Moon",
-        "real name": "Moon Lim",
+        "name": "Moon Lim",
         "team": "iG.International",
         "role": "(Manager)",
         "status": "active"
@@ -5642,7 +5642,7 @@
     {
         "country": "United States",
         "nickname": "FBK",
-        "real name": "Luis Corrales",
+        "name": "Luis Corrales",
         "team": "team DeftFox",
         "role": "(Coach)",
         "status": "active"
@@ -5650,7 +5650,7 @@
     {
         "country": "Brazil",
         "nickname": "Abreu",
-        "real name": "Felipe da Silva",
+        "name": "Felipe da Silva",
         "team": "w7m esports",
         "role": "(Coach)",
         "status": "active"
@@ -5658,7 +5658,7 @@
     {
         "country": "Brazil",
         "nickname": "igoorctg",
-        "real name": "Igor dos Santos",
+        "name": "Igor dos Santos",
         "team": "w7m esports",
         "role": "(Coach)",
         "status": "active"
