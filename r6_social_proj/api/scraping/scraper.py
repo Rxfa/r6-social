@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
+logging.basicConfig()
 
 TEAM_DATA_URL = "https://liquipedia.net/rainbowsix/Portal:Teams"
 PEOPLE_DATA_URL = "https://liquipedia.net/rainbowsix/Portal:Players/All"
