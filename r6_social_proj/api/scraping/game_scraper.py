@@ -1,5 +1,6 @@
 from collections import namedtuple
 import logging
+import json
 import requests
 from bs4 import BeautifulSoup
 from myutils.util import convert_to_json
@@ -12,11 +13,15 @@ COMPETITION_URLS = [
 
 GAME = ["https://old.siege.gg/matches/7220-invitational-intl-team-empire-vs-tsm"]
 
+@convert_to_json
 def main():
     """Main function"""
     game = GameScraper(GAME[0])
-    print(game.to_json())
-    return f"games/{'-'.join(game.competition)}-{game.teams.team1}vs{game.teams.team1}", game
+    return (
+        f"games/{'_'.join(game.competition.split())}-{game.teams.team1}_{game.teams.team2}",
+        game.to_json(),
+        False
+    )
 
 
 class GameScraper:
