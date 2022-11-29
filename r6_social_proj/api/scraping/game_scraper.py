@@ -2,6 +2,7 @@ from collections import namedtuple
 import logging
 import requests
 from bs4 import BeautifulSoup
+from myutils.util import convert_to_json
 
 logger = logging.getLogger(__name__)
 
@@ -11,12 +12,12 @@ COMPETITION_URLS = [
 
 GAME = ["https://old.siege.gg/matches/7220-invitational-intl-team-empire-vs-tsm"]
 
-
+#@convert_to_json
 def main():
     """Main function"""
     game = GameScraper(GAME[0])
-    print(vars(game))
-    return
+    print(game.operator_bans)
+    return f"games/{'-'.join(game.competition)}-{game.teams.team1}vs{game.teams.team1}", game
 
 
 class GameScraper:
@@ -83,21 +84,21 @@ class GameScraper:
 
     def parse_operator_bans(self, page):
         """Gets operator bans for the whole match"""
-        played_maps = page.find_all("ol[class^='ban__ops__list']")
+        played_maps = page.find_all("ol", class_="ban__ops__list list-group list-group-flush")
+        #print(played_maps)
 
         def parse_op_bans_by_map(map):
             """Returns operator bans for each map"""
             map_bans = []
-            for ban in map:
-                result = dict(
-                    operator=ban.select_one("strong[class^='ban__op__name']").text,
-                    team=ban.select_one("span[class='ban__op__team ban__team']").text,
-                )
+            ban_by_team = map.find_all("li")
+            for ban in ban_by_team:
+                result = {}
+                result["team"] = ban.select_one("span[class^='ban__op__team']").text
+                result["operator"] = ban.select_one("strong[class^='ban__op__name']").text
                 map_bans.append(result)
             return map_bans
 
-        result = [parse_op_bans_by_map(val) for val in played_maps]
-        self.operator_bans = result
+        self.operator_bans = [parse_op_bans_by_map(val) for val in played_maps]
 
     def parse_rosters(self, page):
         """Gets rosters"""
@@ -115,7 +116,8 @@ class GameScraper:
             )
         )
         team1, *_, team2 = rosters_list  # to get rid of all duplicates
-        self.rosters = dict(team1=team1, team2=team2)
+        self.rosters = {}
+        self.rosters[self.teams.team1], self.rosters[self.teams.team2] = team1, team2
 
     def parse_stats(self, page):
         """Gets player stats for both teams"""
