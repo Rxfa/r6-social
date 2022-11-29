@@ -21,7 +21,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [Your First Code Contribution](#your-first-code-contribution)
 - [Improving The Documentation](#improving-the-documentation)
 - [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
 
 ## Code of Conduct
@@ -51,7 +50,6 @@ We will then take care of the issue as soon as possible.
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
 ### Reporting Bugs
-
 
 #### Before Submitting a Bug Report
 
@@ -108,7 +106,7 @@ Take your time to read through an issue you want to work on and try to understan
 
 > We strongly advise you to create your own branch from the dev one, and name it with the feature you're working on, and possibly, your username. if you don't know how to create a new branch take a look at [this](https://medium.com/hackernoon/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4).
 
-When you are done with your issue, submit a pull request, that will be promptly reviewed by one of the project team members that will either review and accept your PR or will guide you on what to change for it to be accepted.
+When you are done with your issue, submit a pull request, which will be promptly reviewed by one of the project team members that will either review and accept your PR or will guide you on what to change for it to be accepted.
 
 Don't forget to read about the [Style](#styleguides) used in this project, and don't be shy to reach out to the project team if you have any question(although you should always strive to find the answer by yourself).
 
@@ -126,26 +124,9 @@ Every open-source project has its own style guide: a set of conventions(sometime
 
 This project style guide is **heavily** influenced by [Airbnb Javascript Style Guide](https://airbnb.io/javascript/react) for its frontend and for the backend, which is written in python we aim to have code [PEP-8](https://www.python.org/dev/peps/pep-0008) friendly.
 
-### Rules of thumb
-
-    - Components should be organized in folders according to the feature they belong to.
-    - Functions should hardly be more than 30 lines long.
-    - Lines shouldn't be more than 80 chars long.
-    - Code should be correct, clear, concise and fast. In that order.
-    - Don't commit commented code. And you should delete it if you see it.
-    - Write tests and then develop the feature to pass those tests.
-    - YAGNI
-    - KISS
-
-### Commit Messages
-
-    - Commits are like savegames, if you don't do it enough, you are going to wish you did when something happens.
-    - Commit messages should be clear and written in the imperative form.
-    - Under no circunstance, you should include sensitive information(such as passwords) in the message.
-
 ## Join The Project Team
 
 We are always looking for help, pay a visit to our tracked issues, and follow the instructions given at [Your First Code Contribution](#your-first-code-contribution)
 
-## Attribution
+## Acknowledgements
 This guide is based on the **contributing.md**. [Make your own](https://contributing.md/)!
