@@ -1,7 +1,7 @@
+from collections import namedtuple
 import logging
 import requests
 from bs4 import BeautifulSoup
-from collections import namedtuple
 
 logger = logging.getLogger(__name__)
 
@@ -11,11 +11,13 @@ COMPETITION_URLS = [
 
 GAME = ["https://old.siege.gg/matches/7220-invitational-intl-team-empire-vs-tsm"]
 
+
 def main():
     """Main function"""
     game = GameScraper(GAME[0])
     print(vars(game))
     return
+
 
 class GameScraper:
     """
@@ -52,12 +54,12 @@ class GameScraper:
         Score = namedtuple("Score", "score1 score2")
         self.teams = Teams(
             page.select_one('.team--a span[class^="match__name"]').text,
-            page.select_one(".team--b span[class^='match__name']").text
+            page.select_one(".team--b span[class^='match__name']").text,
         )
         self.score = Score(
             page.select_one(".team--a div[class^='match__score']").text,
-            page.select_one(".team--b div[class^='match__score']").text
-            )
+            page.select_one(".team--b div[class^='match__score']").text,
+        )
         self.date = page.select_one("time[class^='meta__item']").text
         self.competition = page.select_one(".meta__competition > a").text
 
@@ -67,7 +69,9 @@ class GameScraper:
         match_logs = page.select("ol[class^='match__games'] li")
         for map in match_logs:
             map_played = (
-                map.select_one("span[class='game__text__won']").text.split("won")[-1].strip()
+                map.select_one("span[class='game__text__won']")
+                .text.split("won")[-1]
+                .strip()
             )
             team1 = map.select_one("div[class='game__score__item mr-1'] img")["alt"]
             score1 = map.select("span[class='game__score__item']")[0].text
@@ -80,29 +84,37 @@ class GameScraper:
     def parse_operator_bans(self, page):
         """Gets operator bans for the whole match"""
         played_maps = page.find_all("ol[class^='ban__ops__list']")
+
         def parse_op_bans_by_map(map):
             """Returns operator bans for each map"""
             map_bans = []
             for ban in map:
                 result = dict(
-                    operator=ban.select_one(
-                        "strong[class^='ban__op__name']"
-                    ).text,
+                    operator=ban.select_one("strong[class^='ban__op__name']").text,
                     team=ban.select_one("span[class='ban__op__team ban__team']").text,
                 )
                 map_bans.append(result)
             return map_bans
+
         result = [parse_op_bans_by_map(val) for val in played_maps]
         self.operator_bans = result
-        
+
     def parse_rosters(self, page):
         """Gets rosters"""
         rosters = page.select("div", class_="roster roster--row")
+
         def parse_team_roster(team):
-            player_profile = team.find_all("li", class_='player__username list-group-item')
+            player_profile = team.find_all(
+                "li", class_="player__username list-group-item"
+            )
             return [i.select_one("h5")["title"] for i in player_profile]
-        rosters_list = list(filter(lambda x: len(x) == 5, [parse_team_roster(roster) for roster in rosters]))
-        team1, *_, team2 = rosters_list # to get rid of all duplicates
+
+        rosters_list = list(
+            filter(
+                lambda x: len(x) == 5, [parse_team_roster(roster) for roster in rosters]
+            )
+        )
+        team1, *_, team2 = rosters_list  # to get rid of all duplicates
         self.rosters = dict(team1=team1, team2=team2)
 
     def parse_stats(self, page):
@@ -114,6 +126,7 @@ class GameScraper:
 
     def parse_team_stats(self, team):
         """Gets player stats for each team"""
+
         def player_stats(row):
             """Gets each player stats"""
             player_stats = dict(
@@ -131,6 +144,7 @@ class GameScraper:
                 defense=row.select_one("td[class^='sp__def']")["data-sort"],
             )
             return player_stats
+
         return [player_stats(val) for val in team]
 
 
