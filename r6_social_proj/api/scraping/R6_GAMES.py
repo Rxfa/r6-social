@@ -21,7 +21,6 @@ def get_game_data(url):
     page = requests.get(url, timeout=10)
     soup = BeautifulSoup(page.content, "html.parser")
     upcoming_games = soup.select("div[id^='tab-upcoming'] a")
-    game_list = [get_game(game) for game in upcoming_games]
     logger.info("Game data scraped")
     export_to_json("game_data", [get_game(game) for game in upcoming_games])
 

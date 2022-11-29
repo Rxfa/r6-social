@@ -1,9 +1,30 @@
 [
     {
-        "team": "w7m esports",
-        "country": "Brazil",
+        "date": "Friday, December 02",
+        "time": "05:00 PM",
+        "competition": "EUCL 2022",
+        "team1": "WYLDE",
+        "team2": "Dunlimited"
+    },
+    {
+        "date": "Friday, December 02",
+        "time": "08:00 PM",
+        "competition": "EUCL 2022",
+        "team1": "Acend",
+        "team2": "JLINGZ esports"
+    },
+    {
+        "date": "Saturday, December 03",
+        "time": "05:00 PM",
+        "competition": "EUCL 2022",
+        "team1": "TENSTAR",
+        "team2": "Mkers"
+    },
+    {
         "date": "Sunday, December 04",
-        "hour": "04:00 PM",
-        "tournament": "BR6 2022 Finals"
+        "time": "04:00 PM",
+        "competition": "BR6 2022 Finals",
+        "team1": "w7m esports",
+        "team2": "Team Liquid"
     }
 ]
