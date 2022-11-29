@@ -12,11 +12,10 @@ COMPETITION_URLS = [
 
 GAME = ["https://old.siege.gg/matches/7220-invitational-intl-team-empire-vs-tsm"]
 
-#@convert_to_json
 def main():
     """Main function"""
     game = GameScraper(GAME[0])
-    print(game.operator_bans)
+    print(game.to_json())
     return f"games/{'-'.join(game.competition)}-{game.teams.team1}vs{game.teams.team1}", game
 
 
@@ -32,12 +31,15 @@ class GameScraper:
         self.score = None
         self.date = None
         self.competition = None
-        self.roster = None
         self.player_stats = None
         self.operator_bans = None
         self.game_results = None
 
         self.search()
+
+    def to_json(self):
+        """Serialize to JSON"""
+        return json.dumps(self, default=lambda x: x.__dict__, indent=4)
 
     def search(self):
         """Returns target url html"""
@@ -54,8 +56,8 @@ class GameScraper:
         Teams = namedtuple("Teams", "team1 team2")
         Score = namedtuple("Score", "score1 score2")
         self.teams = Teams(
-            page.select_one('.team--a span[class^="match__name"]').text,
-            page.select_one(".team--b span[class^='match__name']").text,
+            page.select_one('.team--a span[class^="match__name"]').text.strip(),
+            page.select_one(".team--b span[class^='match__name']").text.strip(),
         )
         self.score = Score(
             page.select_one(".team--a div[class^='match__score']").text,
@@ -85,7 +87,6 @@ class GameScraper:
     def parse_operator_bans(self, page):
         """Gets operator bans for the whole match"""
         played_maps = page.find_all("ol", class_="ban__ops__list list-group list-group-flush")
-        #print(played_maps)
 
         def parse_op_bans_by_map(map):
             """Returns operator bans for each map"""
@@ -123,8 +124,8 @@ class GameScraper:
         """Gets player stats for both teams"""
         stats_table = page.find("table", class_="table--player-stats").select("tr")
         self.player_stats = dict()
-        self.player_stats["team1"] = self.parse_team_stats(stats_table[2:7])
-        self.player_stats["team2"] = self.parse_team_stats(stats_table[8:13])
+        self.player_stats[self.teams.team1] = self.parse_team_stats(stats_table[2:7])
+        self.player_stats[self.teams.team2] = self.parse_team_stats(stats_table[8:13])
 
     def parse_team_stats(self, team):
         """Gets player stats for each team"""
@@ -146,7 +147,6 @@ class GameScraper:
                 defense=row.select_one("td[class^='sp__def']")["data-sort"],
             )
             return player_stats
-
         return [player_stats(val) for val in team]
 
 
