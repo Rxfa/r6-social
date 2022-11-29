@@ -1,6 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
     "name": "Six Mexico Major 2021",
-    "dates": "August 16 – 22, 2021",
+    "dates": "August 16 \u2013 22, 2021",
     "location": "Mexico City",
     "participants": [
         "Team oNe Esports",
@@ -27,7 +28,7 @@
             "defense": "Wamai"
         }
     },
-    "player stats": [
+    "player_stats": [
         {
             "team": "Team Liquid",
             "player": "Paluh",
@@ -1473,7 +1474,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Consulate",
             "plays": "14",

@@ -26,7 +26,7 @@ def main():
 
 class GameScraper:
     """
-    For scraping game results and stats
+    Scrapes game results and stats
     """
 
     def __init__(self, url):
@@ -47,7 +47,7 @@ class GameScraper:
         return json.dumps(self, default=lambda x: x.__dict__, indent=4)
 
     def search(self):
-        """Returns target url html"""
+        """Gets target page html"""
         search_result = requests.get(self.url, timeout=10)
         soup = BeautifulSoup(search_result.content, "lxml")
         self.parse_overview(soup)
