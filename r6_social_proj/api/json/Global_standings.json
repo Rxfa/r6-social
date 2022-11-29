@@ -1,1118 +1,1121 @@
-[
-    {
-        "place": "1",
-        "subregion": "Brasileirão",
-        "team": "w7m esports",
-        "points": "1060+",
-        "max_points": "1385",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "225"
+{
+    "url": "https://liquipedia.net/rainbowsix/Six_Invitational/2023/Global_Standings",
+    "standings": [
+        {
+            "place": "1",
+            "subregion": "Brasileirão",
+            "team": "w7m esports",
+            "points": "1240",
+            "max_points": "1240",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "105",
+                "august": "230",
+                "november": "230"
+            }
         },
-        "major": {
-            "february": "105",
-            "august": "230",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "2",
-        "subregion": "North American League",
-        "team": "DarkZero Esports",
-        "points": "1050",
-        "max_points": "1050",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "2",
+            "subregion": "European League",
+            "team": "Team BDS",
+            "points": "1170",
+            "max_points": "1170",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "180",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "165",
+                "august": 0,
+                "november": "375"
+            }
         },
-        "major": {
-            "february": "375",
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "3",
-        "subregion": "European League",
-        "team": "Wolves Esports",
-        "points": "995+",
-        "max_points": "1320",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "3",
+            "subregion": "European League",
+            "team": "Wolves Esports",
+            "points": "1110",
+            "max_points": "1110",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "105",
+                "august": "165",
+                "november": "165"
+            }
         },
-        "major": {
-            "february": "105",
-            "august": "165",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "4",
-        "subregion": "North American League",
-        "team": "Astralis",
-        "points": "980",
-        "max_points": "980",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "180"
+        {
+            "place": "4",
+            "subregion": "North American League",
+            "team": "DarkZero Esports",
+            "points": "1050",
+            "max_points": "1050",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "375",
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": "300",
-            "august": "50",
-            "november": 0
-        }
-    },
-    {
-        "place": "5",
-        "subregion": "European League",
-        "team": "Rogue",
-        "points": "960",
-        "max_points": "960",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "180",
-            "stage_2": "225",
-            "stage_3": "180"
+        {
+            "place": "5",
+            "subregion": "Brasileirão",
+            "team": "Team Liquid",
+            "points": "980",
+            "max_points": "980",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "230",
+                "august": 0,
+                "november": "300"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "375",
-            "november": 0
-        }
-    },
-    {
-        "place": "5",
-        "subregion": "North American League",
-        "team": "XSET",
-        "points": "960",
-        "max_points": "960",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "115"
+        {
+            "place": "5",
+            "subregion": "North American League",
+            "team": "Astralis",
+            "points": "980",
+            "max_points": "980",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "180"
+            },
+            "major": {
+                "february": "300",
+                "august": "50",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "165",
-            "august": "230",
-            "november": 0
-        }
-    },
-    {
-        "place": "7",
-        "subregion": "North American League",
-        "team": "Oxygen Esports",
-        "points": "925",
-        "max_points": "925",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "140"
+        {
+            "place": "7",
+            "subregion": "European League",
+            "team": "Rogue",
+            "points": "960",
+            "max_points": "960",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "180",
+                "stage_2": "225",
+                "stage_3": "180"
+            },
+            "major": {
+                "february": 0,
+                "august": "375",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "230",
-            "august": "105",
-            "november": 0
-        }
-    },
-    {
-        "place": "8",
-        "subregion": "European League",
-        "team": "G2 Esports",
-        "points": "920",
-        "max_points": "920",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "140"
+        {
+            "place": "7",
+            "subregion": "North American League",
+            "team": "XSET",
+            "points": "960",
+            "max_points": "960",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "115"
+            },
+            "major": {
+                "february": "165",
+                "august": "230",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "165",
-            "august": "165",
-            "november": 0
-        }
-    },
-    {
-        "place": "9",
-        "subregion": "European League",
-        "team": "Team BDS",
-        "points": "845+",
-        "max_points": "1170",
-        "status": "Qualified to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "180",
-            "stage_3": "225"
+        {
+            "place": "9",
+            "subregion": "North American League",
+            "team": "Oxygen Esports",
+            "points": "925",
+            "max_points": "925",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "140"
+            },
+            "major": {
+                "february": "230",
+                "august": "105",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "165",
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "10",
-        "subregion": "European League",
-        "team": "MNM Gaming",
-        "points": "830+",
-        "max_points": "1155",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "10",
+            "subregion": "European League",
+            "team": "G2 Esports",
+            "points": "920",
+            "max_points": "920",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "140"
+            },
+            "major": {
+                "february": "165",
+                "august": "165",
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "105",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "11",
-        "subregion": "Brasileirão",
-        "team": "FaZe Clan",
-        "points": "800+",
-        "max_points": "1125",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "11",
+            "subregion": "Brasileirão",
+            "team": "FaZe Clan",
+            "points": "915",
+            "max_points": "915",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": "300",
+                "november": "165"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "300",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "11",
-        "subregion": "APAC League South Division",
-        "team": "Elevate",
-        "points": "800",
-        "max_points": "800",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "215",
-            "stage_3": "145"
+        {
+            "place": "12",
+            "subregion": "North American League",
+            "team": "Soniqs",
+            "points": "845",
+            "max_points": "845",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "115",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": "50",
+                "november": "230"
+            }
         },
-        "major": {
-            "february": "50",
-            "august": "165",
-            "november": 0
-        }
-    },
-    {
-        "place": "13",
-        "subregion": "European League",
-        "team": "Heroic",
-        "points": "775+",
-        "max_points": "1100",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "13",
+            "subregion": "European League",
+            "team": "Heroic",
+            "points": "830",
+            "max_points": "830",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": "50",
+                "august": 0,
+                "november": "105"
+            }
         },
-        "major": {
-            "february": "50",
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "14",
-        "subregion": "APAC League North Division",
-        "team": "CYCLOPS athlete gaming",
-        "points": "745+",
-        "max_points": "1070",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "205",
-            "stage_3": "215"
+        {
+            "place": "13",
+            "subregion": "European League",
+            "team": "MNM Gaming",
+            "points": "830",
+            "max_points": "830",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": "105",
+                "november": "50"
+            }
         },
-        "major": {
-            "february": "50",
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "15",
-        "subregion": "Brasileirão",
-        "team": "Team Liquid",
-        "points": "730+",
-        "max_points": "1055",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": "225"
+        {
+            "place": "15",
+            "subregion": "APAC League South Division",
+            "team": "Elevate",
+            "points": "800",
+            "max_points": "800",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "215",
+                "stage_3": "145"
+            },
+            "major": {
+                "february": "50",
+                "august": "165",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "230",
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "16",
-        "subregion": "Brasileirão",
-        "team": "FURIA Esports",
-        "points": "720",
-        "max_points": "720",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": "225",
-            "stage_3": 0
+        {
+            "place": "15",
+            "subregion": "APAC League North Division",
+            "team": "CYCLOPS athlete gaming",
+            "points": "800",
+            "max_points": "800",
+            "status": "Qualified to Six Invitational",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "205",
+                "stage_3": "215"
+            },
+            "major": {
+                "february": "50",
+                "august": 0,
+                "november": "105"
+            }
         },
-        "major": {
-            "february": "105",
-            "august": "165",
-            "november": 0
-        }
-    },
-    {
-        "place": "17",
-        "subregion": "APAC League North Division",
-        "team": "SANDBOX Gaming",
-        "points": "700+",
-        "max_points": "1025",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "115",
-            "stage_2": "215",
-            "stage_3": "215"
+        {
+            "place": "17",
+            "subregion": "Brasileirão",
+            "team": "FURIA Esports",
+            "points": "720",
+            "max_points": "720",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": "225",
+                "stage_3": 0
+            },
+            "major": {
+                "february": "105",
+                "august": "165",
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "105",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "18",
-        "subregion": "North American League",
-        "team": "Soniqs",
-        "points": "665+",
-        "max_points": "990",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "115",
-            "stage_2": "225",
-            "stage_3": "225"
+        {
+            "place": "18",
+            "subregion": "APAC League North Division",
+            "team": "SANDBOX Gaming",
+            "points": "700",
+            "max_points": "700",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "115",
+                "stage_2": "215",
+                "stage_3": "215"
+            },
+            "major": {
+                "february": 0,
+                "august": "105",
+                "november": "50"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "50",
-            "november": "50+"
-        }
-    },
-    {
-        "place": "19",
-        "subregion": "APAC League South Division",
-        "team": "Dire Wolves",
-        "points": "595+",
-        "max_points": "920",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": "215"
+        {
+            "place": "19",
+            "subregion": "APAC League South Division",
+            "team": "Dire Wolves",
+            "points": "650",
+            "max_points": "650",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": "215"
+            },
+            "major": {
+                "february": "105",
+                "august": 0,
+                "november": "105"
+            }
         },
-        "major": {
-            "february": "105",
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "20",
-        "subregion": "APAC League North Division",
-        "team": "DAMWON Gaming",
-        "points": "590",
-        "max_points": "590",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "180",
-            "stage_2": "215",
-            "stage_3": "145"
+        {
+            "place": "20",
+            "subregion": "APAC League North Division",
+            "team": "DAMWON Gaming",
+            "points": "590",
+            "max_points": "590",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "180",
+                "stage_2": "215",
+                "stage_3": "145"
+            },
+            "major": {
+                "february": 0,
+                "august": "50",
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "50",
-            "november": 0
-        }
-    },
-    {
-        "place": "21",
-        "subregion": "Campeonato Mexicano",
-        "team": "Six Karma",
-        "points": "520",
-        "max_points": "520",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "115",
-            "stage_2": "180",
-            "stage_3": "225"
+        {
+            "place": "21",
+            "subregion": "North American League",
+            "team": "Spacestation Gaming",
+            "points": "555",
+            "max_points": "555",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": "105"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "22",
-        "subregion": "North American League",
-        "team": "Spacestation Gaming",
-        "points": "500+",
-        "max_points": "825",
-        "status": "Can qualify to Six Invitational",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": "225"
+        {
+            "place": "22",
+            "subregion": "Campeonato Mexicano",
+            "team": "Six Karma",
+            "points": "520",
+            "max_points": "520",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "115",
+                "stage_2": "180",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "23",
-        "subregion": "European League",
-        "team": "Natus Vincere",
-        "points": "480",
-        "max_points": "480",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "115",
-            "stage_2": "140",
-            "stage_3": "225"
+        {
+            "place": "23",
+            "subregion": "North American League",
+            "team": "TSM",
+            "points": "505",
+            "max_points": "505",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "115",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": "165"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "24",
-        "subregion": "APAC League South Division",
-        "team": "Gaimin Gladiators",
-        "points": "470",
-        "max_points": "470",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "215",
-            "stage_3": "205"
+        {
+            "place": "24",
+            "subregion": "European League",
+            "team": "Natus Vincere",
+            "points": "480",
+            "max_points": "480",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "115",
+                "stage_2": "140",
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "50",
-            "november": 0
-        }
-    },
-    {
-        "place": "25",
-        "subregion": "Brasileirão",
-        "team": "Team oNe eSports",
-        "points": "390",
-        "max_points": "390",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "25",
+            "subregion": "APAC League South Division",
+            "team": "Gaimin Gladiators",
+            "points": "470",
+            "max_points": "470",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "215",
+                "stage_3": "205"
+            },
+            "major": {
+                "february": 0,
+                "august": "50",
+                "november": 0
+            }
         },
-        "major": {
-            "february": "165",
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "25",
-        "subregion": "North American League",
-        "team": "TSM",
-        "points": "390+",
-        "max_points": "715",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "115",
-            "stage_3": "225"
+        {
+            "place": "26",
+            "subregion": "Brasileirão",
+            "team": "Black Dragons e-Sports",
+            "points": "390",
+            "max_points": "390",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": "165"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "27",
-        "subregion": "European League",
-        "team": "Outsiders (EUL)",
-        "points": "370",
-        "max_points": "370",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "140",
-            "stage_2": "115",
-            "stage_3": "115"
+        {
+            "place": "26",
+            "subregion": "Brasileirão",
+            "team": "Team oNe eSports",
+            "points": "390",
+            "max_points": "390",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": "165",
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "28",
-        "subregion": "APAC League South Division",
-        "team": "Knights",
-        "points": "345",
-        "max_points": "345",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "140",
-            "stage_2": "205",
-            "stage_3": 0
+        {
+            "place": "28",
+            "subregion": "European League",
+            "team": "Outsiders (EUL)",
+            "points": "370",
+            "max_points": "370",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "140",
+                "stage_2": "115",
+                "stage_3": "115"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "29",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Pampas",
-        "points": "340",
-        "max_points": "340",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": "115"
+        {
+            "place": "29",
+            "subregion": "APAC League South Division",
+            "team": "Knights",
+            "points": "345",
+            "max_points": "345",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "140",
+                "stage_2": "205",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "30",
-        "subregion": "Brasileirão",
-        "team": "Ninjas in Pyjamas",
-        "points": "330",
-        "max_points": "330",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "225",
-            "stage_3": 0
+        {
+            "place": "30",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Pampas",
+            "points": "340",
+            "max_points": "340",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": "115"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": "105",
-            "november": 0
-        }
-    },
-    {
-        "place": "31",
-        "subregion": "North American League",
-        "team": "beastcoast",
-        "points": "320",
-        "max_points": "320",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "180",
-            "stage_2": "140",
-            "stage_3": 0
+        {
+            "place": "31",
+            "subregion": "Brasileirão",
+            "team": "Ninjas in Pyjamas",
+            "points": "330",
+            "max_points": "330",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "225",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": "105",
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "31",
-        "subregion": "North American League",
-        "team": "Parabellum Esports",
-        "points": "320",
-        "max_points": "320",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "140",
-            "stage_2": "180",
-            "stage_3": 0
+        {
+            "place": "32",
+            "subregion": "North American League",
+            "team": "beastcoast",
+            "points": "320",
+            "max_points": "320",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "180",
+                "stage_2": "140",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "31",
-        "subregion": "Campeonato Mexicano",
-        "team": "ALPHA Team",
-        "points": "320",
-        "max_points": "320",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "140",
-            "stage_2": 0,
-            "stage_3": "180"
+        {
+            "place": "32",
+            "subregion": "North American League",
+            "team": "Parabellum Esports",
+            "points": "320",
+            "max_points": "320",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "140",
+                "stage_2": "180",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "31",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Furious Gaming",
-        "points": "320",
-        "max_points": "320",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "180",
-            "stage_2": "140",
-            "stage_3": 0
+        {
+            "place": "32",
+            "subregion": "Campeonato Mexicano",
+            "team": "ALPHA Team",
+            "points": "320",
+            "max_points": "320",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "140",
+                "stage_2": 0,
+                "stage_3": "180"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "35",
-        "subregion": "North American League",
-        "team": "Mirage",
-        "points": "275+",
-        "max_points": "600",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": "225"
+        {
+            "place": "32",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Furious Gaming",
+            "points": "320",
+            "max_points": "320",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "180",
+                "stage_2": "140",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "35",
-        "subregion": "APAC League South Division",
-        "team": "Chiefs Esports Club",
-        "points": "275",
-        "max_points": "275",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "36",
+            "subregion": "APAC League South Division",
+            "team": "Chiefs Esports Club",
+            "points": "275",
+            "max_points": "275",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": "50",
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": "50",
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "35",
-        "subregion": "Brasileirão",
-        "team": "Black Dragons e-Sports",
-        "points": "275+",
-        "max_points": "600",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": "225"
+        {
+            "place": "36",
+            "subregion": "North American League",
+            "team": "Mirage",
+            "points": "275",
+            "max_points": "275",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": "225"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": "50"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "38",
-        "subregion": "APAC League South Division",
-        "team": "FURY",
-        "points": "265+",
-        "max_points": "590",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": "215"
+        {
+            "place": "38",
+            "subregion": "APAC League South Division",
+            "team": "FURY",
+            "points": "265",
+            "max_points": "265",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": "215"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": "50"
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": "50+"
-        }
-    },
-    {
-        "place": "39",
-        "subregion": "APAC League North Division",
-        "team": "Talon Esports",
-        "points": "225",
-        "max_points": "225",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": "225",
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "39",
+            "subregion": "APAC League North Division",
+            "team": "Talon Esports",
+            "points": "225",
+            "max_points": "225",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": "225",
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "39",
-        "subregion": "Campeonato Mexicano",
-        "team": "Team Cruelty",
-        "points": "225",
-        "max_points": "225",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "225",
-            "stage_3": 0
+        {
+            "place": "39",
+            "subregion": "Campeonato Mexicano",
+            "team": "Team Cruelty",
+            "points": "225",
+            "max_points": "225",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "225",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "41",
-        "subregion": "APAC League North Division",
-        "team": "REJECT",
-        "points": "205",
-        "max_points": "205",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": "205"
+        {
+            "place": "41",
+            "subregion": "APAC League North Division",
+            "team": "REJECT",
+            "points": "205",
+            "max_points": "205",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": "205"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "42",
-        "subregion": "APAC League North Division",
-        "team": "Fnatic",
-        "points": "145",
-        "max_points": "145",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "145",
-            "stage_3": 0
+        {
+            "place": "42",
+            "subregion": "APAC League South Division",
+            "team": "Tyde",
+            "points": "145",
+            "max_points": "145",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "145",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "42",
-        "subregion": "APAC League South Division",
-        "team": "Tyde",
-        "points": "145",
-        "max_points": "145",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "145",
-            "stage_3": 0
+        {
+            "place": "42",
+            "subregion": "APAC League North Division",
+            "team": "Fnatic",
+            "points": "145",
+            "max_points": "145",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "145",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "44",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Malvinas Gaming",
-        "points": "140",
-        "max_points": "140",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": "140"
+        {
+            "place": "44",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Malvinas Gaming",
+            "points": "140",
+            "max_points": "140",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": "140"
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "45",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Isurus",
-        "points": "115",
-        "max_points": "115",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": "115",
-            "stage_3": 0
+        {
+            "place": "45",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Isurus",
+            "points": "115",
+            "max_points": "115",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": "115",
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Brasileirão",
-        "team": "MIBR",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "APAC League North Division",
+            "team": "Spear Gaming",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "APAC League North Division",
-        "team": "Spear Gaming",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "APAC League North Division",
+            "team": "FAV gaming",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Brasileirão",
-        "team": "INTZ",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Mexicano",
+            "team": "OverKnight",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "APAC League North Division",
-        "team": "FAV gaming",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Brasileirão",
+            "team": "MIBR",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "APAC League South Division",
-        "team": "Wildcard Gaming",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Mexicano",
+            "team": "Reven Esports",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Newstar",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Brasileirão",
+            "team": "INTZ",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Mexicano",
-        "team": "PÊEK Gaming",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Mexicano",
+            "team": "Fenix Esports",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "European League",
-        "team": "TT9 Esports",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "European League",
+            "team": "TT9 Esports",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Mexicano",
-        "team": "Reven Esports",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "APAC League South Division",
+            "team": "Wildcard Gaming",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Mexicano",
-        "team": "OverKnight",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Hawks",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Mexicano",
-        "team": "Skull Cracker",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Leviatán",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "European League",
-        "team": "Team Secret",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Mexicano",
+            "team": "PÊEK Gaming",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Leviatán",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Maycam Evolve",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Mexicano",
-        "team": "Fenix Esports",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Mexicano",
+            "team": "Skull Cracker",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Maycam Evolve",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "Campeonato Sudamericano",
+            "team": "Newstar",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    },
-    {
-        "place": "46",
-        "subregion": "Campeonato Sudamericano",
-        "team": "Hawks",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
+        {
+            "place": "46",
+            "subregion": "European League",
+            "team": "Team Secret",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
+        {
+            "place": "46",
+            "subregion": "Brasileirão",
+            "team": "00 Nation",
+            "points": "0",
+            "max_points": "0",
+            "status": "Cannot qualify via points",
+            "league": {
+                "stage_1": 0,
+                "stage_2": 0,
+                "stage_3": 0
+            },
+            "major": {
+                "february": 0,
+                "august": 0,
+                "november": 0
+            }
         }
-    },
-    {
-        "place": "46",
-        "subregion": "Brasileirão",
-        "team": "00 Nation",
-        "points": "0",
-        "max_points": "0",
-        "status": "Cannot qualify via points",
-        "league": {
-            "stage_1": 0,
-            "stage_2": 0,
-            "stage_3": 0
-        },
-        "major": {
-            "february": 0,
-            "august": 0,
-            "november": 0
-        }
-    }
-]
+    ]
+}

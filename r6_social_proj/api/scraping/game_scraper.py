@@ -20,7 +20,7 @@ def main():
     return (
         f"games/{'_'.join(game.competition.split())}-{game.teams.team1}_{game.teams.team2}",
         game.to_json(),
-        False
+        True
     )
 
 

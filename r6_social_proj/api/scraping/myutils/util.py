@@ -12,7 +12,7 @@ def convert_to_json(function):
         logger.info("Converting %s to JSON file.", filename)
         with open(f"../json/{filename}.json", "w+", encoding="utf-8") as file:
             file.write(
-                json.dumps(data, ensure_ascii=False, indent=4) if is_json else data
+                data if is_json else json.dumps(data, ensure_ascii=False, indent=4)
                 )
         logger.info("%s converted to json/%s.json successfully!", *filename)
     return export

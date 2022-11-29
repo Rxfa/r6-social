@@ -24,7 +24,7 @@ def main():
     return (
         f"competitions/{'_'.join(competition.name.split())}",
         competition.to_json(),
-        False
+        True
         )
 
 
@@ -47,7 +47,7 @@ class CompetitionScraper:
 
     def to_json(self):
         """Serialize to JSON"""
-        return json.dumps(self, default=lambda x: x.__dict__, indent=4)
+        return json.dumps(self, ensure_ascii=False, default=lambda x: x.__dict__, indent=4)
 
     def search(self):
         """Gets target page html"""
