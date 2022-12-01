@@ -13,6 +13,7 @@ staff_list = []
 player_list = []
 
 def main():
+    """Main function"""
     get_birthdays(BIRTHDAY_LIST_URL)
     get_people_data(PEOPLE_DATA_URL)
 
