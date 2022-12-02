@@ -1,0 +1,168 @@
+{
+    "url": "https://old.siege.gg/competitions/363-brasileirao-serie-b-2021-finals?tab=results&stats=full-stats",
+    "name": "Brasileirão Série B 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Guidance Gaming",
+        "SuperNova eSports",
+        "Golden Kids",
+        "TrapBoyz"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "43%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "50%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "25%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "58%",
+                    "rounds": "24"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "25%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "48%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "30%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "20%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "100%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

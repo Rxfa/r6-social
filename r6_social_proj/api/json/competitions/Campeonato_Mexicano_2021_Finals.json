@@ -1,0 +1,178 @@
+{
+    "url": "https://old.siege.gg/competitions/374-campeonato-mexicano-2021-finals?tab=results&stats=full-stats",
+    "name": "Campeonato Mexicano 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Atheris Esports",
+        "Fenix Esports",
+        "MeT",
+        "Six Karma"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "48%",
+                    "rounds": "23"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "43%",
+                    "rounds": "7"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "38%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "29%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "43%",
+                    "rounds": "7"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "30%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "0%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "url": "https://old.siege.gg/competitions/357-pg-nationals-winter-2021?tab=results&stats=full-stats",
+    "name": "PG Nationals Winter 2021",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Totem Esports",
+        "Nubbles",
+        "MACKO Esports",
+        "Outplayed",
+        "Mkers",
+        "Axolotl Esports",
+        "IGP",
+        "Hmble"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Villa",
+            "plays": "12",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "128"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "55%",
+                    "rounds": "60"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "51%",
+                    "rounds": "45"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "71%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "0%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "12",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "141"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "71%",
+                    "rounds": "55"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "51%",
+                    "rounds": "43"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "55%",
+                    "rounds": "42"
+                },
+                {
+                    "site": "Bar/Stock",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "11",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "54%",
+                    "rounds": "123"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "61%",
+                    "rounds": "56"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "47%",
+                    "rounds": "51"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "33%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "71%",
+                    "rounds": "7"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "8",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "78"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "69%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "52%",
+                    "rounds": "27"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "44%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "8",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "49%",
+                    "rounds": "89"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "50%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "64%",
+                    "rounds": "28"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "33%",
+                    "rounds": "27"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "47"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "56%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "57%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "100%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        }
+    ]
+}

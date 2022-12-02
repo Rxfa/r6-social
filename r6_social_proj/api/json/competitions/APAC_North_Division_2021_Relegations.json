@@ -1,0 +1,205 @@
+{
+    "url": "https://old.siege.gg/competitions/385-apac-north-division-2021-relegations?tab=results&stats=full-stats",
+    "name": "APAC North Division 2021 Relegations",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Sengoku",
+        "REJECT",
+        "T1",
+        "FAV Gaming",
+        "RECON Esports",
+        "Team Viper"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "61%",
+                    "rounds": "38"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "56%",
+                    "rounds": "16"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "68%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "81%",
+                    "rounds": "16"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "82%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "25%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "36%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "0%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "60%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "0%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "25%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "20%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "0%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

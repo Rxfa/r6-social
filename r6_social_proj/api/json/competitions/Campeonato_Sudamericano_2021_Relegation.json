@@ -1,0 +1,171 @@
+{
+    "url": "https://old.siege.gg/competitions/371-campeonato-sudamericano-2021-relegation?tab=results&stats=full-stats",
+    "name": "Campeonato Sudamericano 2021 Relegation",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Leviatán Esports",
+        "Valhalla Legion"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "50%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "100%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "67%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "87%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "100%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "42%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "33%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

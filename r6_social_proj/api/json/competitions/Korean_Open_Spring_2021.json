@@ -1,0 +1,222 @@
+{
+    "url": "https://old.siege.gg/competitions/299-korean-open-spring-2021?tab=results&stats=full-stats",
+    "name": "Korean Open Spring 2021",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "DWG KIA",
+        "StarRise",
+        "Cloud9",
+        "Faust",
+        "T1",
+        "Team Viper",
+        "Talon Esports",
+        "SGA eSPORTS"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Villa",
+            "plays": "14",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "63%",
+                    "rounds": "139"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "56%",
+                    "rounds": "61"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "68%",
+                    "rounds": "41"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "69%",
+                    "rounds": "36"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "13",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "124"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "65%",
+                    "rounds": "54"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "58%",
+                    "rounds": "52"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "54%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "60%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "12",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "51%",
+                    "rounds": "124"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "45%",
+                    "rounds": "53"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "60%",
+                    "rounds": "45"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "46%",
+                    "rounds": "26"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "8",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "51%",
+                    "rounds": "82"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "50%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "57%",
+                    "rounds": "30"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "45%",
+                    "rounds": "20"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "40%",
+                    "rounds": "42"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "47%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "29%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "38%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Consulate",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "66%",
+                    "rounds": "35"
+                },
+                {
+                    "site": "Garage/Cafeteria",
+                    "winrate": "67%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Lobby/Piano",
+                    "winrate": "70%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "CEO/Meeting",
+                    "winrate": "50%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "75%",
+                    "rounds": "4"
+                }
+            ]
+        }
+    ]
+}

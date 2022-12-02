@@ -78,20 +78,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-  ```sh
-  npm install npm@latest -g
-  ```
+## Getting Started`
 
 ### Installation
 
@@ -105,14 +92,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Extract, clean and organize data on players, staff, teams and competitions.
-- [ ] Write all the extracted data to the database.
+- [ ] Extract, clean and write data on players, staff, teams and competitions to the database.
 - [ ] Users can create, edit and delete their accounts.
-- [ ] Mods can suspend Users.
-- [ ] Create fake currency for betting system.
+- [ ] Set additional permissions for users with the Admin role.
 - [ ] Create betting system.
 - [ ] App displays **as much data as possible** in an intuitive and good looking way.
-- [ ] Prediction analytics. (maybe)
 
 See the [open issues](https://github.com/rxfa/r6-social/issues) for a full list of proposed features (and known issues).
 
