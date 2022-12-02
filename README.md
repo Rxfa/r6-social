@@ -21,7 +21,7 @@
 <div align="center">
 <h3 align="center">R6 Social</h3>
   <p align="center">
-    Place your bets on R6 games
+    Place your ~~bets~~ predictions on Rainbow Six Siege pro games
     <br />
     <a href="https://github.com/rxfa/r6-social"><strong>Explore the docs »</strong></a>
     <br />
@@ -96,7 +96,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Extract, clean and write data to the database.
 - [ ] Users can create, edit and delete their accounts.
-- [ ] Create betting system.
+- [ ] Create ~~betting~~ prediction system.
 - [ ] App displays **as much data as possible** in an intuitive and good looking way.
 
 See the [open issues](https://github.com/rxfa/r6-social/issues) for a full list of proposed features (and known issues).
