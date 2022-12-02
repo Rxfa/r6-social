@@ -73,7 +73,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 [![React][React.js]][React-url]
 [![Django][Django]][Django-url]
 [![Python][Python]][Python-url]
-[![Material-ui][Material-ui]][Material-ui-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,9 +91,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Extract, clean and write data on players, staff, teams and competitions to the database.
+- [ ] Extract, clean and write data to the database.
 - [ ] Users can create, edit and delete their accounts.
-- [ ] Set additional permissions for users with the Admin role.
 - [ ] Create betting system.
 - [ ] App displays **as much data as possible** in an intuitive and good looking way.
 
