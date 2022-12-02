@@ -7,18 +7,6 @@ from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
 
-COMPETITION_URLS = {
-    "global": [
-        "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/365-six-sweden-major-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/404-six-charlotte-major-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/418-six-berlin-major-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/297-six-invitational-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
-    ],
-    "regional": ["https://old.siege.gg/competitions/406-brasileirao-2022-stage-2?tab=results&stats=full-stats"],
-}
-
 @convert_to_json
 def main():
     """Main function"""
@@ -28,7 +16,6 @@ def main():
         competition.to_json(),
         True
         )
-
 
 class LevelsOfCompetition(Enum):
     """Levels of competition"""
@@ -45,8 +32,6 @@ class CompetitionScraper:
         self.url = url
         self.name = None
         self.level_of_competition = getattr(LevelsOfCompetition, level_of_competition.upper()).name
-        self.dates = None
-        self.location = None
         self.participants = None
         self.standings = None
         self.mvp = None
@@ -56,9 +41,9 @@ class CompetitionScraper:
 
     def to_json(self):
         """Serialize to JSON"""
-        if self.level_of_competition == LevelsOfCompetition.GLOBAL.name:
+        if self.level_of_competition in (LevelsOfCompetition.GLOBAL.name, LevelsOfCompetition.REGIONAL.name):
             output_file = json.dumps(self, ensure_ascii=False, default=lambda x: x.__dict__, indent=4)
-        elif self.level_of_competition in (LevelsOfCompetition.REGIONAL.name, LevelsOfCompetition.LOCAL.name):
+        elif self.level_of_competition == LevelsOfCompetition.LOCAL.name:
             output_file = json.dumps(self, ensure_ascii=False, default=lambda x: x.__dict__, indent=4)
         return output_file
 
@@ -78,33 +63,16 @@ class CompetitionScraper:
 
     def get_competition_overview(self, page):
         """
-        Returns competition name, location and start and end dates.
+        Returns competition name
         """
 
         def get_name(overview_card):
             return overview_card.select_one("h1[class='pg-title impact__title']").text.strip()
-        
-        def get_dates(overview_card):
-            if self.level_of_competition == LevelsOfCompetition.GLOBAL:
-                return overview_card.select_one("small > time").text
-        
-        def get_location(overview_card):
-            if self.level_of_competition == LevelsOfCompetition.GLOBAL:
-                result = overview_card.select_one(
-                "div[class^='card card-body'] ul > li:nth-child(4) > span:last-child > span"
-            ).text
-            else:
-                result =overview_card.select_one(
-                "div[class^='card card-body'] ul > li:nth-child(3) > span:last-child > span"
-            ).text
-            return result
 
         overview_card = page.select_one("#overview > div > div")
         overview_card.small.extract()
 
         self.name = get_name(overview_card)
-        self.dates = get_dates(overview_card)
-        self.location = get_location(overview_card)
 
     def get_competition_participants(self, page):
         """
