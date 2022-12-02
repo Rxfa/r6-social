@@ -1,7 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/365-six-sweden-major-2021?tab=results&stats=full-stats",
     "name": "Six Sweden Major 2021",
-    "dates": "November 8 – 14, 2021",
-    "location": "Gävle",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Ninjas In Pyjamas",
         "FaZe Clan",
@@ -20,6 +20,7 @@
         "DarkZero Esports",
         "Team Vitality"
     ],
+    "standings": null,
     "mvp": {
         "player": "Cyber",
         "rating": "    Cyber ",
@@ -28,7 +29,7 @@
             "defense": "Mozzie"
         }
     },
-    "player stats": [
+    "player_stats": [
         {
             "team": "DWG KIA",
             "player": "yass",
@@ -1550,7 +1551,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Bank",
             "plays": "15",

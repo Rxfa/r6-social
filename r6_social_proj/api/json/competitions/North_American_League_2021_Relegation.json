@@ -1,0 +1,141 @@
+{
+    "url": "https://old.siege.gg/competitions/378-north-american-league-2021-relegation?tab=results&stats=full-stats",
+    "name": "North American League 2021 Relegation",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "XSET",
+        "Parabellum Esports"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "47%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "50%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "0%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "50%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "42%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "25%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

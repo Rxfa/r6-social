@@ -1,7 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/404-six-charlotte-major-2022?tab=results&stats=full-stats",
     "name": "Six Charlotte Major 2022",
-    "dates": "May 16 – 22, 2022",
-    "location": "Charlotte",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Oxygen Esports",
         "Team oNe Esports",
@@ -19,6 +19,7 @@
         "Wolves Esports",
         "Chiefs Esports Club"
     ],
+    "standings": null,
     "mvp": {
         "player": "Panbazou",
         "rating": "    Panbazou ",
@@ -27,7 +28,7 @@
             "defense": "Jäger"
         }
     },
-    "player stats": [
+    "player_stats": [
         {
             "team": "Team BDS",
             "player": "Shaiiko",
@@ -1454,7 +1455,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Oregon",
             "plays": "10",

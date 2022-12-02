@@ -1,0 +1,581 @@
+{
+    "url": "https://old.siege.gg/competitions/375-north-american-league-2021-finals?tab=results&stats=full-stats",
+    "name": "North American League 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
+    "participants": [
+        "DarkZero Esports",
+        "Soniqs",
+        "Oxygen Esports",
+        "Spacestation Gaming"
+    ],
+    "standings": null,
+    "mvp": {
+        "player": "Gryxr",
+        "rating": "    Gryxr ",
+        "operators": {
+            "attack": "Iana",
+            "defense": "Maestro"
+        }
+    },
+    "player_stats": [
+        {
+            "team": "Soniqs",
+            "player": "Gryxr",
+            "rating": "1.26",
+            "kd": "63-41 (+22)",
+            "entry": "13-7 (+6)",
+            "maps_played": "5",
+            "kost": "72%",
+            "kpr": "0.93",
+            "srv": "40%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "38%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MAESTRO"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Panbazou",
+            "rating": "1.19",
+            "kd": "56-39 (+17)",
+            "entry": "11-9 (+2)",
+            "maps_played": "5",
+            "kost": "73%",
+            "kpr": "0.88",
+            "srv": "39%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "63%",
+            "operators": {
+                "attack": "TWITCH",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "FoxA",
+            "rating": "1.09",
+            "kd": "31-26 (+5)",
+            "entry": "3-6 (-3)",
+            "maps_played": "3",
+            "kost": "61%",
+            "kpr": "0.76",
+            "srv": "37%",
+            "clutches": "2",
+            "plants": "3",
+            "disables": "1",
+            "hs_ratio": "37%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MOZZIE"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Hyper",
+            "rating": "1.09",
+            "kd": "52-46 (+6)",
+            "entry": "10-6 (+4)",
+            "maps_played": "5",
+            "kost": "73%",
+            "kpr": "0.81",
+            "srv": "28%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "65%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Bosco",
+            "rating": "1.07",
+            "kd": "29-24 (+5)",
+            "entry": "3-6 (-3)",
+            "maps_played": "3",
+            "kost": "65%",
+            "kpr": "0.78",
+            "srv": "35%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "50%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Hotancold",
+            "rating": "1.06",
+            "kd": "30-28 (+2)",
+            "entry": "4-2 (+2)",
+            "maps_played": "3",
+            "kost": "70%",
+            "kpr": "0.81",
+            "srv": "24%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "41%",
+            "operators": {
+                "attack": "FLORES",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Rexen",
+            "rating": "1.05",
+            "kd": "52-46 (+6)",
+            "entry": "7-3 (+4)",
+            "maps_played": "5",
+            "kost": "68%",
+            "kpr": "0.76",
+            "srv": "32%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "44%",
+            "operators": {
+                "attack": "ACE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Kanzen",
+            "rating": "1.01",
+            "kd": "50-50 (+0)",
+            "entry": "10-4 (+6)",
+            "maps_played": "5",
+            "kost": "68%",
+            "kpr": "0.74",
+            "srv": "26%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "71%",
+            "operators": {
+                "attack": "BUCK",
+                "defense": "KAID"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "Yoggah",
+            "rating": "1.01",
+            "kd": "29-28 (+1)",
+            "entry": "5-7 (-2)",
+            "maps_played": "3",
+            "kost": "59%",
+            "kpr": "0.71",
+            "srv": "32%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "39%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Canadian",
+            "rating": "0.99",
+            "kd": "43-42 (+1)",
+            "entry": "9-4 (+5)",
+            "maps_played": "5",
+            "kost": "64%",
+            "kpr": "0.67",
+            "srv": "34%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "44%",
+            "operators": {
+                "attack": "FLORES",
+                "defense": "KAID"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "njr",
+            "rating": "0.97",
+            "kd": "42-39 (+3)",
+            "entry": "5-3 (+2)",
+            "maps_played": "5",
+            "kost": "61%",
+            "kpr": "0.66",
+            "srv": "39%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Ecl9pse",
+            "rating": "0.96",
+            "kd": "38-43 (-5)",
+            "entry": "3-4 (-1)",
+            "maps_played": "5",
+            "kost": "64%",
+            "kpr": "0.59",
+            "srv": "33%",
+            "clutches": "2",
+            "plants": "3",
+            "disables": "1",
+            "hs_ratio": "71%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Skys",
+            "rating": "0.96",
+            "kd": "22-26 (-4)",
+            "entry": "1-3 (-2)",
+            "maps_played": "3",
+            "kost": "62%",
+            "kpr": "0.59",
+            "srv": "30%",
+            "clutches": "1",
+            "plants": "6",
+            "disables": "0",
+            "hs_ratio": "41%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Yeti",
+            "rating": "0.95",
+            "kd": "43-44 (-1)",
+            "entry": "8-12 (-4)",
+            "maps_played": "5",
+            "kost": "63%",
+            "kpr": "0.63",
+            "srv": "35%",
+            "clutches": "0",
+            "plants": "4",
+            "disables": "0",
+            "hs_ratio": "67%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "Kyno",
+            "rating": "0.92",
+            "kd": "26-30 (-4)",
+            "entry": "2-4 (-2)",
+            "maps_played": "3",
+            "kost": "66%",
+            "kpr": "0.63",
+            "srv": "27%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "50%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Rampy",
+            "rating": "0.85",
+            "kd": "22-32 (-10)",
+            "entry": "2-4 (-2)",
+            "maps_played": "3",
+            "kost": "62%",
+            "kpr": "0.59",
+            "srv": "14%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "67%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "VertcL",
+            "rating": "0.85",
+            "kd": "26-31 (-5)",
+            "entry": "5-4 (+1)",
+            "maps_played": "3",
+            "kost": "54%",
+            "kpr": "0.63",
+            "srv": "24%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "42%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Supr",
+            "rating": "0.83",
+            "kd": "29-44 (-15)",
+            "entry": "0-4 (-4)",
+            "maps_played": "5",
+            "kost": "65%",
+            "kpr": "0.43",
+            "srv": "35%",
+            "clutches": "2",
+            "plants": "4",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "LaXInG",
+            "rating": "0.77",
+            "kd": "22-33 (-11)",
+            "entry": "2-3 (-1)",
+            "maps_played": "3",
+            "kost": "56%",
+            "kpr": "0.54",
+            "srv": "20%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Fultz",
+            "rating": "0.62",
+            "kd": "17-31 (-14)",
+            "entry": "2-10 (-8)",
+            "maps_played": "3",
+            "kost": "46%",
+            "kpr": "0.46",
+            "srv": "16%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "65%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MUTE"
+            }
+        }
+    ],
+    "map_picks": [
+        {
+            "name": "Club House",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "44%",
+                    "rounds": "41"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "43%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "46%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "38%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "27%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "13%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "20%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "0%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "58%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "73%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

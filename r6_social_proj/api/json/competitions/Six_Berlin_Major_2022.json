@@ -1,7 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/418-six-berlin-major-2022?tab=results&stats=full-stats",
     "name": "Six Berlin Major 2022",
-    "dates": "August 15 – 21, 2022",
-    "location": "Berlin",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Rogue",
         "XSET",
@@ -20,8 +20,16 @@
         "Astralis",
         "MNM Gaming"
     ],
-    "mvp": null,
-    "player stats": [
+    "standings": null,
+    "mvp": {
+        "player": "SPOIT",
+        "rating": "    SPOIT ",
+        "operators": {
+            "attack": "Finka",
+            "defense": "Oryx"
+        }
+    },
+    "player_stats": [
         {
             "team": "G2 Esports",
             "player": "CTZN",
@@ -1543,7 +1551,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Oregon",
             "plays": "16",

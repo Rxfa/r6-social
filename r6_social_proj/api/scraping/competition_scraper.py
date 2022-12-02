@@ -4,62 +4,69 @@ import json
 import requests
 from myutils.util import convert_to_json
 from bs4 import BeautifulSoup
+import competitions
 
+logging.basicConfig(filename="competition_scraper.log", encoding="utf-8", level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 @convert_to_json
-def main():
+def main(competition, system):
     """Main function"""
-    competition = CompetitionScraper(url=COMPETITION_URLS["regional"][0], level_of_competition="regional")
+    scraped_competition = CompetitionScraper(url=competition, system_of_competition=system)
+    logger.info(f"Scraped {scraped_competition.name} successfully!")
     return (
-        f"competitions/{'_'.join(competition.name.split())}",
-        competition.to_json(),
+        f"competitions/{'_'.join(scraped_competition.name.split())}",
+        scraped_competition.to_json(),
         True
         )
 
-class LevelsOfCompetition(Enum):
-    """Levels of competition"""
-    GLOBAL = auto()
-    REGIONAL = auto()
-    LOCAL = auto()
+class SystemsOfCompetition(Enum):
+    """Systems of competition"""
+    CUP_SYSTEM_WITH_PLAYER_PRIZES = auto()
+    CUP_SYSTEM_WITH_NO_PLAYER_PRIZES = auto()
+    LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES = auto()
 
 class CompetitionScraper:
     """
     Extracts data about a given competition.
     """
 
-    def __init__(self, url, level_of_competition):
+    def __init__(self, url, system_of_competition):
         self.url = url
         self.name = None
-        self.level_of_competition = getattr(LevelsOfCompetition, level_of_competition.upper()).name
+        self.system_of_competition = getattr(SystemsOfCompetition, system_of_competition.upper()).name
         self.participants = None
         self.standings = None
         self.mvp = None
         self.player_stats = None
         self.map_picks = None
+        logger.info(f"Starting to scrape {self.url}...")
         self.search()
 
     def to_json(self):
         """Serialize to JSON"""
-        if self.level_of_competition in (LevelsOfCompetition.GLOBAL.name, LevelsOfCompetition.REGIONAL.name):
+        if self.system_of_competition in (SystemsOfCompetition.CUP_SYSTEM_WITH_PLAYER_PRIZES.name, SystemsOfCompetition.LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES.name):
             output_file = json.dumps(self, ensure_ascii=False, default=lambda x: x.__dict__, indent=4)
-        elif self.level_of_competition == LevelsOfCompetition.LOCAL.name:
+        elif self.system_of_competition == SystemsOfCompetition.CUP_SYSTEM_WITH_NO_PLAYER_PRIZES.name:
             output_file = json.dumps(self, ensure_ascii=False, default=lambda x: x.__dict__, indent=4)
         return output_file
 
     def search(self):
         """Gets competition page html"""
         page = requests.get(self.url, timeout=10)
+        logger.debug(f"Making GET request to {self.url}...")
         soup = BeautifulSoup(page.content, "lxml")
         self.get_competition_overview(soup)
         self.get_competition_participants(soup)
         self.get_player_stats(soup)
         self.get_map_picks(soup)
 
-        if self.level_of_competition == LevelsOfCompetition.GLOBAL.name:
+        if self.system_of_competition == SystemsOfCompetition.CUP_SYSTEM_WITH_PLAYER_PRIZES.name:
             self.get_competition_mvp(soup)
-        elif self.level_of_competition == LevelsOfCompetition.REGIONAL.name:
+        elif self.system_of_competition == SystemsOfCompetition.LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES.name:
             self.get_competition_standings(soup)
+        elif self.system_of_competition == SystemsOfCompetition.CUP_SYSTEM_WITH_NO_PLAYER_PRIZES.name:
+            pass
 
     def get_competition_overview(self, page):
         """
@@ -123,7 +130,7 @@ class CompetitionScraper:
         """
         Returns every player statistics for competition.
         """
-        stats_table = page.select("div[id='playertable'] table tbody tr")
+        stats_table = page.select("div[id='playertable'] table tbody tr[role]")
         def get_row_stats(row):
             """
             Returns player stats in given row
@@ -174,4 +181,12 @@ class CompetitionScraper:
 
 
 if __name__ == "__main__":
-    main()
+    # CUP_SYSTEMS_WITH_PLAYER_PRIZES is a list unlike the others.
+    #for e in competitions.CUP_SYSTEMS_WITH_PLAYER_PRIZES:
+    #    main(e, "CUP_SYSTEM_WITH_PLAYER_PRIZES")
+    for region in competitions.CUP_SYSTEMS_WITH_NO_PLAYER_PRIZES.values():
+        for e in region:
+            main(e, "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES")
+    for region in competitions.LEAGUE_SYSTEMS_WITH_NO_PLAYER_PRIZES.values():
+        for e in region:
+            main(e, "LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES")

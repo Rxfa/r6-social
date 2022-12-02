@@ -1,0 +1,596 @@
+{
+    "url": "https://old.siege.gg/competitions/376-european-league-2021-finals?tab=results&stats=full-stats",
+    "name": "European League 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
+    "participants": [
+        "Team BDS",
+        "Team Empire",
+        "G2 Esports",
+        "Natus Vincere"
+    ],
+    "standings": null,
+    "mvp": {
+        "player": "Shaiiko",
+        "rating": "    Shaiiko ",
+        "operators": {
+            "attack": "Iana",
+            "defense": "Jäger"
+        }
+    },
+    "player_stats": [
+        {
+            "team": "G2 Esports",
+            "player": "CTZN",
+            "rating": "1.43",
+            "kd": "79-44 (+35)",
+            "entry": "14-4 (+10)",
+            "maps_played": "6",
+            "kost": "72%",
+            "kpr": "1.22",
+            "srv": "32%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "60%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Shaiiko",
+            "rating": "1.27",
+            "kd": "62-44 (+18)",
+            "entry": "4-5 (-1)",
+            "maps_played": "6",
+            "kost": "65%",
+            "kpr": "1.00",
+            "srv": "29%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "2",
+            "hs_ratio": "59%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Scyther",
+            "rating": "1.21",
+            "kd": "40-28 (+12)",
+            "entry": "6-6 (+0)",
+            "maps_played": "5",
+            "kost": "73%",
+            "kpr": "0.91",
+            "srv": "36%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "64%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "BriD",
+            "rating": "1.13",
+            "kd": "42-38 (+4)",
+            "entry": "2-5 (-3)",
+            "maps_played": "6",
+            "kost": "77%",
+            "kpr": "0.68",
+            "srv": "39%",
+            "clutches": "1",
+            "plants": "10",
+            "disables": "0",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Renshiro",
+            "rating": "1.08",
+            "kd": "45-39 (+6)",
+            "entry": "11-3 (+8)",
+            "maps_played": "6",
+            "kost": "69%",
+            "kpr": "0.73",
+            "srv": "37%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "ORYX"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Saves",
+            "rating": "1.02",
+            "kd": "35-30 (+5)",
+            "entry": "1-2 (-1)",
+            "maps_played": "5",
+            "kost": "68%",
+            "kpr": "0.74",
+            "srv": "36%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "44%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "G2 Esports",
+            "player": "Jonka",
+            "rating": "1.01",
+            "kd": "46-49 (-3)",
+            "entry": "4-8 (-4)",
+            "maps_played": "6",
+            "kost": "74%",
+            "kpr": "0.71",
+            "srv": "25%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "34%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Dan",
+            "rating": "1.00",
+            "kd": "33-32 (+1)",
+            "entry": "4-3 (+1)",
+            "maps_played": "5",
+            "kost": "61%",
+            "kpr": "0.75",
+            "srv": "27%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "61%",
+            "operators": {
+                "attack": "TWITCH",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Blurr",
+            "rating": "1.00",
+            "kd": "37-35 (+2)",
+            "entry": "4-4 (+0)",
+            "maps_played": "5",
+            "kost": "68%",
+            "kpr": "0.79",
+            "srv": "26%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "42%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "RaFaLe",
+            "rating": "0.99",
+            "kd": "37-40 (-3)",
+            "entry": "4-3 (+1)",
+            "maps_played": "6",
+            "kost": "66%",
+            "kpr": "0.60",
+            "srv": "35%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "28%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "JoyStiCK",
+            "rating": "0.97",
+            "kd": "33-31 (+2)",
+            "entry": "3-7 (-4)",
+            "maps_played": "5",
+            "kost": "57%",
+            "kpr": "0.75",
+            "srv": "30%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "61%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Secretly",
+            "rating": "0.96",
+            "kd": "31-34 (-3)",
+            "entry": "6-4 (+2)",
+            "maps_played": "5",
+            "kost": "60%",
+            "kpr": "0.66",
+            "srv": "28%",
+            "clutches": "0",
+            "plants": "3",
+            "disables": "0",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "CASTLE"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Always",
+            "rating": "0.95",
+            "kd": "28-32 (-4)",
+            "entry": "8-0 (+8)",
+            "maps_played": "5",
+            "kost": "61%",
+            "kpr": "0.64",
+            "srv": "27%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Elemzje",
+            "rating": "0.94",
+            "kd": "48-50 (-2)",
+            "entry": "14-11 (+3)",
+            "maps_played": "6",
+            "kost": "58%",
+            "kpr": "0.77",
+            "srv": "19%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "61%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "ALIBI"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Doki",
+            "rating": "0.92",
+            "kd": "35-37 (-2)",
+            "entry": "11-9 (+2)",
+            "maps_played": "5",
+            "kost": "62%",
+            "kpr": "0.74",
+            "srv": "21%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "G2 Esports",
+            "player": "Virtue",
+            "rating": "0.90",
+            "kd": "44-50 (-6)",
+            "entry": "6-9 (-3)",
+            "maps_played": "6",
+            "kost": "58%",
+            "kpr": "0.68",
+            "srv": "23%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Nathan",
+            "rating": "0.86",
+            "kd": "25-35 (-10)",
+            "entry": "2-4 (-2)",
+            "maps_played": "5",
+            "kost": "60%",
+            "kpr": "0.53",
+            "srv": "26%",
+            "clutches": "1",
+            "plants": "3",
+            "disables": "1",
+            "hs_ratio": "64%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "ShepparD",
+            "rating": "0.85",
+            "kd": "22-33 (-11)",
+            "entry": "1-6 (-5)",
+            "maps_played": "5",
+            "kost": "70%",
+            "kpr": "0.50",
+            "srv": "25%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "32%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "G2 Esports",
+            "player": "Hungry",
+            "rating": "0.85",
+            "kd": "36-46 (-10)",
+            "entry": "3-6 (-3)",
+            "maps_played": "6",
+            "kost": "62%",
+            "kpr": "0.55",
+            "srv": "29%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "G2 Esports",
+            "player": "Kayak",
+            "rating": "0.66",
+            "kd": "21-53 (-32)",
+            "entry": "1-10 (-9)",
+            "maps_played": "6",
+            "kost": "57%",
+            "kpr": "0.32",
+            "srv": "18%",
+            "clutches": "0",
+            "plants": "7",
+            "disables": "0",
+            "hs_ratio": "33%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "CASTLE"
+            }
+        }
+    ],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "25"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "47%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "44%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "78%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

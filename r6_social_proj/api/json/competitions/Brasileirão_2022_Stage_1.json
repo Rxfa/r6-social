@@ -1,0 +1,367 @@
+{
+    "url": "https://old.siege.gg/competitions/391-brasileirao-2022-stage-1?tab=results&stats=full-stats",
+    "name": "Brasileirão 2022 Stage 1",
+    "system_of_competition": "LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "FaZe Clan",
+        "Team Liquid",
+        "INTZ",
+        "w7m esports",
+        "00 Nation",
+        "MIBR",
+        "Black Dragons",
+        "Team oNe Esports",
+        "FURIA Esports",
+        "Ninjas In Pyjamas"
+    ],
+    "standings": [
+        {
+            "position": "1",
+            "team": "  w7m esports ",
+            "points": "24",
+            "w_ow_ol_l": "7-1-1-0",
+            "round_difference": "+29"
+        },
+        {
+            "position": "2",
+            "team": "  Team Liquid ",
+            "points": "19",
+            "w_ow_ol_l": "4-3-1-1",
+            "round_difference": "+12"
+        },
+        {
+            "position": "3",
+            "team": "  Team oNe Esports ",
+            "points": "16",
+            "w_ow_ol_l": "4-2-0-3",
+            "round_difference": "+7"
+        },
+        {
+            "position": "4",
+            "team": "  FURIA Esports ",
+            "points": "14",
+            "w_ow_ol_l": "3-2-1-3",
+            "round_difference": "+6"
+        },
+        {
+            "position": "5",
+            "team": "  Black Dragons ",
+            "points": "14",
+            "w_ow_ol_l": "4-1-0-4",
+            "round_difference": "+5"
+        },
+        {
+            "position": "6",
+            "team": "  FaZe Clan ",
+            "points": "13",
+            "w_ow_ol_l": "4-0-1-4",
+            "round_difference": "-2"
+        },
+        {
+            "position": "7",
+            "team": "  MIBR ",
+            "points": "13",
+            "w_ow_ol_l": "4-0-1-4",
+            "round_difference": "-3"
+        },
+        {
+            "position": "8",
+            "team": "  INTZ ",
+            "points": "9",
+            "w_ow_ol_l": "1-2-2-4",
+            "round_difference": "-15"
+        },
+        {
+            "position": "9",
+            "team": "  00 Nation ",
+            "points": "8",
+            "w_ow_ol_l": "1-1-3-4",
+            "round_difference": "-16"
+        },
+        {
+            "position": "10",
+            "team": "  Ninjas In Pyjamas ",
+            "points": "5",
+            "w_ow_ol_l": "1-0-2-6",
+            "round_difference": "-23"
+        }
+    ],
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Skyscraper",
+            "plays": "7",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "86"
+                },
+                {
+                    "site": "Tea/Karaoke",
+                    "winrate": "62%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Office/Exhibition",
+                    "winrate": "52%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Kitchen/BBQ",
+                    "winrate": "44%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Master/Bathroom",
+                    "winrate": "60%",
+                    "rounds": "10"
+                }
+            ]
+        },
+        {
+            "name": "Border",
+            "plays": "7",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "83"
+                },
+                {
+                    "site": "Archives/Armory",
+                    "winrate": "61%",
+                    "rounds": "28"
+                },
+                {
+                    "site": "Tellers/Bathroom",
+                    "winrate": "41%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Ventilation/Workshop",
+                    "winrate": "61%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Supply/Customs",
+                    "winrate": "60%",
+                    "rounds": "15"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "6",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "68"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "48%",
+                    "rounds": "33"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "55%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "50%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "47%",
+                    "rounds": "58"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "43%",
+                    "rounds": "23"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "50%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "47%",
+                    "rounds": "17"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "46%",
+                    "rounds": "56"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "45%",
+                    "rounds": "29"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "46%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "54%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "59%",
+                    "rounds": "51"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "53%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "71%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "38%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "78%",
+                    "rounds": "9"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "46%",
+                    "rounds": "61"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "39%",
+                    "rounds": "28"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "35%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "62%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "100%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "46%",
+                    "rounds": "46"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "44%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "50%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "20%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Theme Park",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Bunk/Day",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Armory/Throne",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Lab/Storage",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Initiation",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        }
+    ]
+}

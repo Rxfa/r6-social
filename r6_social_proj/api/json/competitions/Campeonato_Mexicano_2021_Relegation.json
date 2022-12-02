@@ -1,0 +1,146 @@
+{
+    "url": "https://old.siege.gg/competitions/370-campeonato-mexicano-2021-relegation?tab=results&stats=full-stats",
+    "name": "Campeonato Mexicano 2021 Relegation",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Chivas esports",
+        "Team Cruelty"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "50%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "36%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "33%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "67%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

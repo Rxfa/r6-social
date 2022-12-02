@@ -1,7 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/297-six-invitational-2021?tab=results&stats=full-stats",
     "name": "Six Invitational 2021",
-    "dates": "May 11 – 23, 2021",
-    "location": "Paris",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Ninjas In Pyjamas",
         "Team Liquid",
@@ -22,6 +22,7 @@
         "Giants Gaming",
         "CYCLOPS athlete gaming"
     ],
+    "standings": null,
     "mvp": {
         "player": "Paluh",
         "rating": "    Paluh ",
@@ -30,7 +31,7 @@
             "defense": "Melusi"
         }
     },
-    "player stats": [
+    "player_stats": [
         {
             "team": "Team Liquid",
             "player": "Paluh",
@@ -1742,7 +1743,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Oregon",
             "plays": "21",

@@ -1,17 +1,20 @@
+"""
+List of past competitions, starting from 2021.
+122 url's as of December 2nd 2022.
+"""
 
 CUP_SYSTEMS_WITH_PLAYER_PRIZES = [
-        "https://old.siege.gg/competitions/297-six-invitational-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/365-six-sweden-major-2021?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/404-six-charlotte-major-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/418-six-berlin-major-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/431-six-jonkoping-major-2022?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/376-european-league-2021-finals?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/375-north-american-league-2021-finals?tab=results&stats=full-stats",
-        "https://old.siege.gg/competitions/373-brasileirao-2021-finals?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/297-six-invitational-2021?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/365-six-sweden-major-2021?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/404-six-charlotte-major-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/418-six-berlin-major-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/431-six-jonkoping-major-2022?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/376-european-league-2021-finals?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/375-north-american-league-2021-finals?tab=results&stats=full-stats",
+    "https://old.siege.gg/competitions/373-brasileirao-2021-finals?tab=results&stats=full-stats",
 ]
-
 
 LEAGUE_SYSTEMS_WITH_NO_PLAYER_PRIZES = {
     "EUROPE": [
@@ -67,7 +70,7 @@ LEAGUE_SYSTEMS_WITH_NO_PLAYER_PRIZES = {
         "https://old.siege.gg/competitions/410-apac-south-division-2022-stage-2?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/426-apac-north-division-2022-stage-3?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/427-apac-south-division-2022-stage-3?tab=results&stats=full-stats",
-    ]
+    ],
 }
 
 CUP_SYSTEMS_WITH_NO_PLAYER_PRIZES = {
@@ -118,7 +121,6 @@ CUP_SYSTEMS_WITH_NO_PLAYER_PRIZES = {
         "https://old.siege.gg/competitions/393-campeonato-sudamericano-2022-stage-1?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/382-six-invitational-2022-latin-america-qualifier?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/437-brasileirao-serie-b-2022-finals?tab=results&stats=full-stats",
-            
     ],
     "NA": [
         "https://old.siege.gg/competitions/308-north-american-challenger-league-2021-stage-1?tab=results&stats=full-stats",
@@ -154,5 +156,5 @@ CUP_SYSTEMS_WITH_NO_PLAYER_PRIZES = {
         "https://old.siege.gg/competitions/413-japan-league-2022-season-2?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/417-japan-league-2022-season-2-playoffs?tab=results&stats=full-stats",
         "https://old.siege.gg/competitions/428-japan-league-2022-season-3?tab=results&stats=full-stats",
-    ]
+    ],
 }

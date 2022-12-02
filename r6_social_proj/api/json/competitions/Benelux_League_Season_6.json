@@ -1,0 +1,279 @@
+{
+    "url": "https://old.siege.gg/competitions/309-benelux-league-season-6?tab=results&stats=full-stats",
+    "name": "Benelux League Season 6",
+    "system_of_competition": "LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "GAMMA GAMING",
+        "Red Falcons",
+        "Game Fist",
+        "4 Elements",
+        "KV Mechelen Esports",
+        "Clutch Rayn eSport",
+        "Team 7AM",
+        "Activit-E Esports"
+    ],
+    "standings": [
+        {
+            "position": "1",
+            "team": "  GAMMA GAMING ",
+            "points": "37",
+            "w_ow_ol_l": "11-1-2-0",
+            "round_difference": "+52"
+        },
+        {
+            "position": "2",
+            "team": "  KV Mechelen Esports ",
+            "points": "31",
+            "w_ow_ol_l": "7-5-0-2",
+            "round_difference": "+33"
+        },
+        {
+            "position": "3",
+            "team": "  4 Elements ",
+            "points": "27",
+            "w_ow_ol_l": "7-2-2-3",
+            "round_difference": "+11"
+        },
+        {
+            "position": "4",
+            "team": "  Activit-E Esports ",
+            "points": "22",
+            "w_ow_ol_l": "7-0-1-6",
+            "round_difference": "+6"
+        },
+        {
+            "position": "5",
+            "team": "  Game Fist ",
+            "points": "18",
+            "w_ow_ol_l": "5-1-1-7",
+            "round_difference": "-10"
+        },
+        {
+            "position": "6",
+            "team": "  Clutch Rayn eSport ",
+            "points": "17",
+            "w_ow_ol_l": "4-2-1-7",
+            "round_difference": "-12"
+        },
+        {
+            "position": "7",
+            "team": "  Team 7AM ",
+            "points": "11",
+            "w_ow_ol_l": "3-0-2-9",
+            "round_difference": "-41"
+        },
+        {
+            "position": "8",
+            "team": "  Red Falcons ",
+            "points": "5",
+            "w_ow_ol_l": "0-1-3-10",
+            "round_difference": "-39"
+        }
+    ],
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Club House",
+            "plays": "10",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "52%",
+                    "rounds": "109"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "56%",
+                    "rounds": "43"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "48%",
+                    "rounds": "42"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "54%",
+                    "rounds": "24"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "9",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "91"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "56%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "45%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "67%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "58%",
+                    "rounds": "6"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "9",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "62%",
+                    "rounds": "97"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "52%",
+                    "rounds": "44"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "75%",
+                    "rounds": "36"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "53%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "9",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "47%",
+                    "rounds": "102"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "31%",
+                    "rounds": "36"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "53%",
+                    "rounds": "34"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "75%",
+                    "rounds": "12"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "8",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "57%",
+                    "rounds": "90"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "70%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "53%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "38%",
+                    "rounds": "21"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "6",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "45%",
+                    "rounds": "62"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "48%",
+                    "rounds": "27"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "50%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "31%",
+                    "rounds": "13"
+                }
+            ]
+        },
+        {
+            "name": "Consulate",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "44"
+                },
+                {
+                    "site": "Garage/Cafeteria",
+                    "winrate": "56%",
+                    "rounds": "16"
+                },
+                {
+                    "site": "Lobby/Piano",
+                    "winrate": "54%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "CEO/Meeting",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "17%",
+                    "rounds": "6"
+                }
+            ]
+        }
+    ]
+}

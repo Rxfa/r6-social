@@ -1,7 +1,7 @@
 {
+    "url": "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
     "name": "Six Invitational 2022",
-    "dates": "February 8 – 20, 2022",
-    "location": "Stockholm",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Team Empire",
         "TSM",
@@ -24,6 +24,7 @@
         "Team BDS",
         "Team oNe Esports"
     ],
+    "standings": null,
     "mvp": {
         "player": "Merc",
         "rating": "    Merc ",
@@ -32,7 +33,7 @@
             "defense": "Jäger"
         }
     },
-    "player stats": [
+    "player_stats": [
         {
             "team": "Soniqs",
             "player": "Gryxr",
@@ -1953,7 +1954,7 @@
             }
         }
     ],
-    "map picks": [
+    "map_picks": [
         {
             "name": "Kafe",
             "plays": "28",

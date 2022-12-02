@@ -1,8 +1,7 @@
 {
     "url": "https://old.siege.gg/competitions/342-six-mexico-major-2021?tab=results&stats=full-stats",
     "name": "Six Mexico Major 2021",
-    "dates": "August 16 \u2013 22, 2021",
-    "location": "Mexico City",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
     "participants": [
         "Team oNe Esports",
         "Team Empire",
@@ -20,6 +19,7 @@
         "G2 Esports",
         "TSM"
     ],
+    "standings": null,
     "mvp": {
         "player": "Levy",
         "rating": "    Levy ",
