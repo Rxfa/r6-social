@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rxfa`, `r6-social`, `rxfa__1`, `R6 Social`, `project_description`
+Soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,10 +79,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started`
 
+Soon...
 ### Installation
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+Soon...
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -117,9 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rxfa - [@rxfa__1](https://twitter.com/rxfa__1)
-
-Project Link - [https://github.com/rxfa/r6-social](https://github.com/rxfa/r6-social)
+Rxfa - [Rxfa#9148](https://discordapp.com/users/675532924417867787)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
