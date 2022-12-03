@@ -1,0 +1,5666 @@
+[
+    {
+        "country": "Argentina",
+        "nickname": "Asterix",
+        "name": "Alvaro Pagliaricci",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Kanserix",
+        "name": "Jorge Azubel",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Microkw",
+        "name": "Rodrigo Maza",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Nhepheria",
+        "name": "Pablo Geneyro",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Novag3x",
+        "name": "Nahuel Taier",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "UnProPlayer",
+        "name": "Gonza Santillán",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "AmFlea",
+        "name": "Simon Davis",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Australia",
+        "nickname": "DK",
+        "name": "Danny Kim",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Derpeh",
+        "name": "Brendan Carr",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Devmarta",
+        "name": "James Stewart",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Elfishguy",
+        "name": "Jordan Mays",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Fluxx",
+        "name": "Bharath Sukesh",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Guzz",
+        "name": "Michael Gurrie",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "ItBeStyle",
+        "name": "Jayden Franken",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Jess",
+        "name": "Jessica Bolden",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "MC",
+        "name": "Michael Campagna",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Manic",
+        "name": "Robert Munday",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Monkeyfist",
+        "name": "Sam Royals",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Nuttery",
+        "name": "Ethan Christie",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Proto",
+        "name": "Kai Brookes",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Sinnix",
+        "name": "Emrys Clegg",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Skye",
+        "name": "Alex McCallum",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Vast",
+        "name": "Isaiah Patterson",
+        "team": "",
+        "role": "Analyst",
+        "status": "retired"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Zenox",
+        "name": "Jake Venditti",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "pikniq",
+        "name": "Jed Dixon",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Australia",
+        "nickname": "syliX",
+        "name": "Vinnie Tam",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Austria",
+        "nickname": "S1lenty_",
+        "name": "Nico Schwingenschrot",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Belarus",
+        "nickname": "N1ghtEnd",
+        "name": "Yaroslav Klochko",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "Belgium",
+        "nickname": "Slump3r",
+        "name": "Pierre-Anthony Hubert",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Alpha",
+        "name": "Victor Passarin",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ar7hur",
+        "name": "Arthur Schubert",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Carrelzinha",
+        "name": "Izabelly Carrel",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Doc",
+        "name": "Gabriel Amato",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Dryx",
+        "name": "Marcos Vinícios",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Duda",
+        "name": "Maria Eduarda Avella",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Fernandes",
+        "name": "Renan Fernandes",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "GC Gamer",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Gabrilos",
+        "name": "Gabriel Calixto",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Galdo",
+        "name": "Mathias Galdi",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Guilherme Sarda",
+        "name": "Guilherme Sarda",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Hit",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "IqueGMK",
+        "name": "Luiz Monclar",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Izabelly Carrel",
+        "name": "Izabelly Carrel",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "JP",
+        "name": "João Teixeira",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ju Póca",
+        "name": "Juliane Póca",
+        "team": "",
+        "role": "Manager",
+        "status": "inactive"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Konstantino",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "LGS",
+        "name": "Lucca Santucci",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Lansamisio",
+        "name": "",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Lend4",
+        "name": "Daniel Ferreira",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "LukeeR",
+        "name": "Luke Ramires",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "M00DY",
+        "name": "Daniel Oliveira",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Machadinho",
+        "name": "Gabriel Machado",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Mathias Galdi",
+        "name": "Mathias Galdi",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Meligeni",
+        "name": "André Santos",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Mirelle Moschella",
+        "name": "Mirelle Moschella",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Mity",
+        "name": "Dyjair Soares",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Mohamad",
+        "name": "Lucas Mohamad",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Nyvi Estephan",
+        "name": "Nyvi Estephan",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "O.Gabss",
+        "name": "Gabriel Carvalho",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Palamidas",
+        "name": "Daniel Palamidese",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ramon Venter",
+        "name": "Ramon Venter",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Retalha",
+        "name": "Otávio Rodrigues Ceschi",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Rovida",
+        "name": "Bruno Rovida",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "SePz",
+        "name": "Pedro Rodrigues",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Shoiti Ono",
+        "name": "Shoiti Ono",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Silence",
+        "name": "Adenauer Alvarenga",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "SunshineM18",
+        "name": "Mohana Lopes",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Thico",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Tonello",
+        "name": "Felipe Souza",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Viic",
+        "name": "Victória Rodrigues",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Yankkz",
+        "name": "Thiago Quélhas",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "qeP",
+        "name": "Ricardo Fugi",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "rFont4",
+        "name": "Rodrigo Fontanella",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "sSeiiya",
+        "name": "Henrique Sanchez",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Brimstone",
+        "name": "James Flynn",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Chill",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Fermay",
+        "name": "Peter Nightingales",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Flynn",
+        "name": "Rob Flynn",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Forceful",
+        "name": "Tanner McHattie",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Gioo",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Interro",
+        "name": "Parker Mackay",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Jarvis",
+        "name": "Sam Jarvis",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Jesse Chick",
+        "name": "Jesse Chick",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "KenZ",
+        "name": "Trevor D. Kenzie",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Canada",
+        "nickname": "The Evil Waffle",
+        "name": "Jeffrey Haworth",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "Cinnacup",
+        "name": "Claudio Vigouroux",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "Joe Pino",
+        "name": "Diego Chaer",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "Ppiippeee",
+        "name": "Felipe Guerra",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "WikS",
+        "name": "Jorge Weeks",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "孤独的小锤子",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "China",
+        "nickname": "飞雪再临恍若隔世",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Croatia",
+        "nickname": "med1cz",
+        "name": "Ante Medić",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Egypt",
+        "nickname": "Unseen",
+        "name": "Yahya Mokhtar",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Finland",
+        "nickname": "ProtaX",
+        "name": "Mikko Mutanen",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Finland",
+        "nickname": "Vapo",
+        "name": "Petri Laiho",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Finland",
+        "nickname": "r0usty",
+        "name": "Wille Turunen",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Alive",
+        "name": "Nathan Donday",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "AlphaX",
+        "name": "Thomas Martinez",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "BiOs",
+        "name": "Arnaud Billaudel",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "DineroJD",
+        "name": "Jérémy Devaux",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Fabien",
+        "name": "Fabien Bacquet",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Frenchi",
+        "name": "Paul Droal",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Heaavens",
+        "name": "Raphaël Trinel",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Hell",
+        "name": "Baptiste Adiasse",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Joghurtzz",
+        "name": "Nolan Crouzery",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Lanf3ust",
+        "name": "Philippe Rivain",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Salzem",
+        "name": "Salem Haddad",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Scok",
+        "name": "Guillaume Beck",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Swish",
+        "name": "Nicolas Bouhier",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "TORTANK",
+        "name": "Clément Windecker",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "TPEX",
+        "name": "Alexandre Koenig",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "France",
+        "nickname": "Tapis",
+        "name": "Armand Haye",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "fiskeR",
+        "name": "Tony Geoffroy",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "jahk",
+        "name": "Cyril Renoud",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "spokeN",
+        "name": "Jonathan Nolasco",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "AgOnY",
+        "name": "Lucian Kohn",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "AmA",
+        "name": "Tim Dahmann",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Centus",
+        "name": "Antoni Lagemann",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Der Fox",
+        "name": "Markus Schwenn",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "DocYen",
+        "name": "Thorben Henger",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Dryike",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Harris",
+        "name": "Ihno Kampen",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Hektor",
+        "name": "Maximilian Spring",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Lazzo",
+        "name": "Lasse Klie",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "MilliTheKid",
+        "name": "Milan Nowakowski",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Mori",
+        "name": "Maurice Lange",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "NeTfLeX",
+        "name": "Nico Zimmer",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Reaper",
+        "name": "Eric Nohl",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Silver219",
+        "name": "Riccardo Minuto",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Sua",
+        "name": "Kevin Stahnke",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "ThoreBnB",
+        "name": "Thore Lehmann",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Verdipwnz",
+        "name": "Marius Lauer",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "morxzas",
+        "name": "Julian Miculcy",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Germany",
+        "nickname": "nOose",
+        "name": "Alex Rennemann",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Hungary",
+        "nickname": "Graff",
+        "name": "Barnabás Greff",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Aleanboy",
+        "name": "Shariq Rana",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "BabaGusta",
+        "name": "Yaksha Malagatti",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "BlackJack",
+        "name": "Anuresh Chakraborty",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Darkside",
+        "name": "Vinayak Goswami",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Dr Dang",
+        "name": "Kanav Dang",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Eizen",
+        "name": "Soham Roy Chowdhury",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Foxtrot",
+        "name": "Het Vora",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Mr Reborn",
+        "name": "Anirudh Bommina",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Overseer",
+        "name": "Sai Raj Mambeti",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Sedulous",
+        "name": "Rishab Goyal",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Teck",
+        "name": "Gitansh Arora",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "iMajorNova",
+        "name": "Priyank Patel",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Indonesia",
+        "nickname": "Evou",
+        "name": "Dyaz Caesar",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Iran",
+        "nickname": "K1",
+        "name": "Keyvan Ataei",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Ireland",
+        "nickname": "Whippet",
+        "name": "Dylan Maguire",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Eddie",
+        "name": "Edoardo Cianciosi",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Etrurian",
+        "name": "Filippo Burresi",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Hybrid",
+        "name": "Riccardo Massimino Font",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "JustRyuk",
+        "name": "Mauro Barone",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "LiFe",
+        "name": "Francesco Caforio",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "Italy",
+        "nickname": "LordChanka",
+        "name": "Valentino Allegri",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "MrBox",
+        "name": "Michele Scattola",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Police",
+        "name": "Alessandro Selmo",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "Italy",
+        "nickname": "RedLike",
+        "name": "Pietro Girardo",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Simo01",
+        "name": "Simone",
+        "team": "",
+        "role": "Admin",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Torok",
+        "name": "Matteo Bellotti",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "sNakj",
+        "name": "Giovanni Murabito",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "CAN4D3",
+        "name": "",
+        "team": "",
+        "role": "Analyst",
+        "status": "inactive"
+    },
+    {
+        "country": "Japan",
+        "nickname": "ChloroForM",
+        "name": "Takuya Kurosu",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Frieda",
+        "name": "Toshiaki Kubota",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Hono ice",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Joghurt",
+        "name": "Tomohiro Ito",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Laughingfox",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Nonomiya Mika",
+        "name": "Mika Nonomiya",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Norio",
+        "name": "Kazunori Sakamoto",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "OUDON",
+        "name": "",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Okamoto",
+        "name": "Shu Okamoto",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Okayama",
+        "name": "Kazuya Okayama",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "P3Ril",
+        "name": "Ryo Nakabayashi",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Pep",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Pimen",
+        "name": "Yuka Sawaura",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Tomozoh",
+        "name": "Tomohisa Yamano",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Urameshi",
+        "name": "Yusuke Horie",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "XQQ",
+        "name": "Hibiki Motoyama",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Japan",
+        "nickname": "prototype_1z",
+        "name": "Shinya Nishiwaki",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "seven",
+        "name": "",
+        "team": "",
+        "role": "Analyst",
+        "status": "inactive"
+    },
+    {
+        "country": "Kazakhstan",
+        "nickname": "Toda",
+        "name": "Kerim Musaev",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Malaysia",
+        "nickname": "SerSparta",
+        "name": "Munir Ghazali",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "ACE AcT ilsE",
+        "name": "Ilse Zaldivar",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "BRAVE",
+        "name": "Luis Flores",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Demonweasel",
+        "name": "Diego Quiñónez",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Edward Crush",
+        "name": "Eduardo Jimenez",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "EzPz",
+        "name": "Alfonso Ruiz",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Foxtrot",
+        "name": "Rafael Jacques",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "GamingOhs",
+        "name": "Juan Luqueño",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "HeyBell",
+        "name": "Paola Becerri",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Linkin Pick",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Lord",
+        "name": "Angel Rodríguez",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Lord Angel",
+        "name": "Angel Rodríguez",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Mapache Verde",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Maple Games",
+        "name": "Gabriel Sintora",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Muebleitor",
+        "name": "Gustavo Gomez",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Pausalins",
+        "name": "Paulina Salinas",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Romeo",
+        "name": "Alejandro Déleon Pajón",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Ronny",
+        "name": "Ronaldo Rodríguez",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Royon",
+        "name": "Rodrigo Suarez",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Skyshock",
+        "name": "",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Tyrone",
+        "name": "Abdiel Tyrone",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Morocco",
+        "nickname": "KidQuix",
+        "name": "Hatim",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Anthony",
+        "name": "Anthony L.",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Okidokie98",
+        "name": "Brandon de Baat",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "TeamSix",
+        "name": "Sebastiaan Kissing",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "oVie",
+        "name": "Michiel van Dartel",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "New Zealand",
+        "nickname": "Bluepanda",
+        "name": "Billy Brereton",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "New Zealand",
+        "nickname": "LAN",
+        "name": "Ian Seaton",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "New Zealand",
+        "nickname": "WarTurtle",
+        "name": "Patrick Gleeson",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Norway",
+        "nickname": "Snurreleif",
+        "name": "Thomas Johan Brorstad Rønningen",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Oman",
+        "nickname": "Pisty",
+        "name": "Ahmed Al-Maimani",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Philippines",
+        "nickname": "BlackenBlue",
+        "name": "Nico Gayoso",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Alban",
+        "name": "Karol Pakosz",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Jakub",
+        "name": "Jakub Szmyt",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Laz4rz",
+        "name": "Mikołaj Boroński",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Marciu",
+        "name": "Marcin Prusinowski",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Sjerra",
+        "name": "Jacek Wachowiak",
+        "team": "",
+        "role": "Observer",
+        "status": "retired"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Stick!",
+        "name": "Patryk Szuszkiewicz",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Yden",
+        "name": "Daniel Zegar",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "k1kS",
+        "name": "Patryk Cieszyński",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Puerto Rico",
+        "nickname": "SmiTaSous",
+        "name": "Elim Rivera-Valle",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Amedalook",
+        "name": "Vadim Laptev",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Braun",
+        "name": "Egor Braun",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Cthulhu",
+        "name": "Konstantin Nuridzhanyan",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "FasterTL",
+        "name": "Georgij Gagiev",
+        "team": "",
+        "role": "Caster",
+        "status": "inactive"
+    },
+    {
+        "country": "Russia",
+        "nickname": "KaMa",
+        "name": "Alexander Chernyshov",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Korben",
+        "name": "Anton Tulbu",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "MeDVeD",
+        "name": "Alexander Kozlov",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Rhyzzy",
+        "name": "Ilya Rhys-Mayers",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "STARBOY",
+        "name": "Maxim Fomin",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Starosvitskiy",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Wh1te",
+        "name": "Alexandr Sokolov",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Zheka",
+        "name": "Eugene Bokhanov",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "flaers0",
+        "name": "Alexander Kroshkin",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Saudi Arabia",
+        "nickname": "Agent47",
+        "name": "AbdulRahman",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Saudi Arabia",
+        "nickname": "Fancy",
+        "name": "Abdulaziz Alrasheed",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "Saudi Arabia",
+        "nickname": "SKoRRSA",
+        "name": "Maged Al Anzi",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Scotland",
+        "nickname": "Kairo",
+        "name": "Kieran Tulloch",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "CDMeister",
+        "name": "Kai Yueh-chang",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "InfianEwok",
+        "name": "Shikhar Gupta",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "quikz",
+        "name": "Eugene Tay",
+        "team": "",
+        "role": "Manager",
+        "status": "inactive"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Choi Jung-yoon",
+        "name": "Choi Jung-yoon",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "EroSA",
+        "name": "Kim Ha-neul",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Gemi Teacher",
+        "name": "Choi Yoon-ho",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Howard",
+        "name": "Jeong Hyun-woo",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Kim Do-geun",
+        "name": "Kim Do-geun",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "MarTen",
+        "name": "Youn Ji-hun",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "OCN",
+        "name": "Park Hyun",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Park Dong-min",
+        "name": "Park Dong-min",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Park Ha-neol",
+        "name": "Park Ha-neol",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "RechoTZ",
+        "name": "Seo Min-jae",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Revi",
+        "name": "Shin Jun-young",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Roy Mikelate",
+        "name": "Ryu Seung-hyeon",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Sia",
+        "name": "Chun Si-a",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Steve",
+        "name": "Yoon Seo-ha",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Sunbi",
+        "name": "Jang Eun",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "zelgadiss",
+        "name": "Lee Si-woo",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Adonai",
+        "name": "Ignacio Ballesteros",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Spain",
+        "nickname": "ByTommy",
+        "name": "Tomás Moreno",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Fabs",
+        "name": "Fabián Cierco",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "JU4MP4",
+        "name": "Juan Valdivia",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Noel",
+        "name": "Noel Garberi",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Spain",
+        "nickname": "SiLenCe",
+        "name": "Chevy Bullido",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Tellorista",
+        "name": "Roberto Urresti",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Vetel",
+        "name": "Pablo Sanz",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Sweden",
+        "nickname": "BikiniBodhi",
+        "name": "Tobias André",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Sweden",
+        "nickname": "Hyperino",
+        "name": "Galdim Dani",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Sweden",
+        "nickname": "Syred",
+        "name": "Victor Andersson",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Switzerland",
+        "nickname": "EarlyBird",
+        "name": "Christoph Earle",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Aimb0t",
+        "name": "Kao Yin-hung",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Ratio",
+        "name": "Jhuang Shao-An",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "YongFa",
+        "name": "",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "CTkz-Sama",
+        "name": "Burapa Tainsakuldej",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "CheckmATE",
+        "name": "Pongtanuth Taipakpongsakun",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "ChrislareN",
+        "name": "Patsada Chinphanich",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Dejavu",
+        "name": "Ponprom Saeoueng",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Dr.Bestsiaer",
+        "name": "Nattakan Prachanban",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "FluffyBoiz",
+        "name": "Vorraphat Watthanet",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "GG Newii",
+        "name": "Pongsirawit Sataman",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Meijin",
+        "name": "Chatchaphong Thipphayaworn",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "NINEFACE9",
+        "name": "Runnaphat Siriwatthanarat",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Tanler",
+        "name": "Saharuch Manosamut",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Zylnazter",
+        "name": "Natthan Thumjarern",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "nanoKidz",
+        "name": "Suphawit Kasemsirisopha",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Ukraine",
+        "nickname": "Caff",
+        "name": "Igor Sydorenko",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "AceOfPyrite",
+        "name": "Tim Leaver",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Affy",
+        "name": "Aaftab Mohmed",
+        "team": "",
+        "role": "Analyst",
+        "status": "inactive"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Barney Banks",
+        "name": "",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Brycer",
+        "name": "Bryce Hauver-Reeves",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Bugs",
+        "name": "Declan McWilliams",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "COPPET",
+        "name": "",
+        "team": "",
+        "role": "Admin",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "CaptainFluke",
+        "name": "Emi Donaldson",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Chunks",
+        "name": "Liam Desposito",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Demo",
+        "name": "Harry Dempster",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Dezachu",
+        "name": "Derry Holt",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Feedmachine",
+        "name": "Ciaran Williams",
+        "team": "",
+        "role": "Observer",
+        "status": "retired"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Frazer Scully",
+        "name": "Frazer Scully",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Fresh",
+        "name": "Jack Thomas Allen",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Geo",
+        "name": "Geo Collins",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "GerryTheMusicMan",
+        "name": "Gerry Brazell",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Ghostie",
+        "name": "Jennifer Stanford",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "GoluMolu",
+        "name": "Benedict Lux",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Grissom",
+        "name": "Luke Halliburton",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Haffy",
+        "name": "Josh Parvin",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Harpr",
+        "name": "Harper Kayser",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Jacky",
+        "name": "Jack Peters",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Lethal",
+        "name": "Harry Thomas",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Matt Andrews",
+        "name": "Matt Andrews",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Muhcreedy",
+        "name": "Adam Maskrey",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Novicaine",
+        "name": "Morgan Palmer",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Omerta",
+        "name": "Stefan Saltalamacchia",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Panky",
+        "name": "Christopher Pankhurst",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Peakalicious",
+        "name": "Bradley Beal",
+        "team": "",
+        "role": "Talent",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "RRGeneral",
+        "name": "Alex Granatowicz",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Reece Fowler",
+        "name": "Reece Fowler",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Rideoo",
+        "name": "Josh Riding",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Shas[O]Udas",
+        "name": "Thomas Lee",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Sparxo",
+        "name": "Jack Wright",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Sternab",
+        "name": "James Parkinson",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Sways",
+        "name": "Louis Graham",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Tru3Ta1ent",
+        "name": "Aaron Erliz",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "XRTROIKA",
+        "name": "Ollie Hatton",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Yosh",
+        "name": "Joshua Ingles",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "rcuth",
+        "name": "Ramiz Cuthbert",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Anna Prosser",
+        "name": "Anna Prosser",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "BKN",
+        "name": "Jordan Soojian",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "BLU",
+        "name": "John Mullen",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Bagel",
+        "name": "Colby Smith",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "United States",
+        "nickname": "BennyAu",
+        "name": "Benjamin Au",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "BloodBath",
+        "name": "Sean Rosenbaum",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "CaliberJacob",
+        "name": "Jacob Anderson",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Cassanova",
+        "name": "Jared Boyd",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Crow",
+        "name": "Harrison Broder",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Dauntless",
+        "name": "",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Devpetm",
+        "name": "Devin Petmecky",
+        "team": "",
+        "role": "Analyst",
+        "status": "inactive"
+    },
+    {
+        "country": "United States",
+        "nickname": "DoA",
+        "name": "Erik Lonnquist",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Fellow",
+        "name": "Jonathan Szuch",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Goldenboy",
+        "name": "Alex Mendez",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Henru",
+        "name": "",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Infernosis",
+        "name": "Scott Hurley",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jacki Jing",
+        "name": "Jacki Jing",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jazzman",
+        "name": "Adam Jasim",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jess Brohard",
+        "name": "Jessica Brohard",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Keglunneq",
+        "name": "Max Tompkins",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "KiXSTAr",
+        "name": "Michael Stockley",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Klimpse",
+        "name": "Mason Best",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "KraTyr",
+        "name": "Devin Hoot",
+        "team": "",
+        "role": "Producer",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Lisa Malambri",
+        "name": "Lisa Malambri",
+        "team": "",
+        "role": "Host",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Literose",
+        "name": "Vee Kohler",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Loaf",
+        "name": "Jessica Byrd",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Lonnie Lightning",
+        "name": "",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "MonteCristo",
+        "name": "Christopher Mykles",
+        "team": "",
+        "role": "Host",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Nebsy",
+        "name": "Kaden Kingery",
+        "team": "",
+        "role": "Analyst",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Neverswimalone",
+        "name": "",
+        "team": "",
+        "role": "Analyst",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Ocho",
+        "name": "Logan Enxel",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Peter",
+        "name": "Peter Chau",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Pubstomper",
+        "name": "Austin Jones",
+        "team": "",
+        "role": "Manager",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Punjistick",
+        "name": "Derek Mallon",
+        "team": "",
+        "role": "Caster",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Ranger",
+        "name": "Tristan Pehrson",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Razorz",
+        "name": "Dan Trittler",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Slayzilla",
+        "name": "Christopher Doubleday",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Thumperr",
+        "name": "Christpher Segura",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Tifa",
+        "name": "Tiffany Chiu",
+        "team": "",
+        "role": "Manager",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Tiie",
+        "name": "Alberto Chavez Benitez",
+        "team": "",
+        "role": "Observer",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Uzumaki",
+        "name": "Christopher Valdez",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Velly",
+        "name": "Loviel Cardwell",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "ViiRuS",
+        "name": "Anthony Ybarra",
+        "team": "",
+        "role": "Coach",
+        "status": "inactive"
+    },
+    {
+        "country": "United States",
+        "nickname": "XecratioN",
+        "name": "Jacob Campbell",
+        "team": "",
+        "role": "Coach",
+        "status": "retired"
+    },
+    {
+        "country": "United States",
+        "nickname": "Yurii",
+        "name": "Patrick Ray",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Venezuela",
+        "nickname": "GOKU",
+        "name": "Emerich Lozano",
+        "team": "",
+        "role": "Coach",
+        "status": "active"
+    },
+    {
+        "country": "Venezuela",
+        "nickname": "Naigal7",
+        "name": "Jose Rodríguez",
+        "team": "",
+        "role": "Caster",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Kohn",
+        "name": "Gabriel Kohn",
+        "team": "00 Nation",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "RafadeLL",
+        "name": "Rafael de Oliveira",
+        "team": "00 Nation",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "TchubZ",
+        "name": "Arthur Figueira",
+        "team": "00 Nation",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Okward1HP",
+        "name": "Matthew Smedley",
+        "team": "1HP",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Gallo",
+        "name": "Alex Sánchez",
+        "team": "ALPHA Team",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Oskar",
+        "name": "Oscar Montero",
+        "team": "ALPHA Team",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Akany",
+        "name": "Lucas Petit",
+        "team": "Acend",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Belgium",
+        "nickname": "Crapelle",
+        "name": "Laurent Patriarche",
+        "team": "Activit-E",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Aerial",
+        "name": "Ben Paulsen",
+        "team": "Arial Arise",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Read",
+        "name": "Read Adams",
+        "team": "Arial Arise",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Mango",
+        "name": "Adam Pazner",
+        "team": "Astralis",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Shocks",
+        "name": "Maximilian Wagner",
+        "team": "Axolotl Esports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Cloud",
+        "name": "Seo Seong-min",
+        "team": "Beyond Stratos Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "MinGoran",
+        "name": "Kim Min-geun",
+        "team": "Beyond Stratos Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Cherrygumms",
+        "name": "Nicolle Merhy",
+        "team": "Black Dragons e-Sports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "freezao",
+        "name": "Igor Silva",
+        "team": "Black Dragons e-Sports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "thug",
+        "name": "Bruno Ferreira",
+        "team": "Black Dragons e-Sports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "copaS",
+        "name": "Ruryan Vigiani",
+        "team": "Black Dragons e-Sports Female",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Fuji3",
+        "name": "Fumiya Fujisaki",
+        "team": "CYCLOPS athlete gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "KYON",
+        "name": "Kyouhei Nishio",
+        "team": "CYCLOPS athlete gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "L4ZinG",
+        "name": "Franco D´Arino",
+        "team": "Coscu Army",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Taka",
+        "name": "",
+        "team": "Crest Gaming Lst",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "VAshizuku",
+        "name": "",
+        "team": "Crest Gaming Lst",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "HoundBird",
+        "name": "Jang Gwon-jae",
+        "team": "DAMWON Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "PJH",
+        "name": "Park Jae-hyun",
+        "team": "DAMWON Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Denmark",
+        "nickname": "Pengu",
+        "name": "Niclas Mouritzen",
+        "team": "DarkZero Esports",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "BC",
+        "name": "Brandon Carr",
+        "team": "DarkZero Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Grant",
+        "name": "Grant Tripple",
+        "team": "DarkZero Esports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Mint",
+        "name": "Kyle Lander",
+        "team": "DarkZero Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "KS",
+        "name": "Niklas Massierer",
+        "team": "Delta Project",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Ferral",
+        "name": "Daniel Rotheram",
+        "team": "Delta Project",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Daling",
+        "name": "Zhang Yingmei",
+        "team": "Dire Wolves",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Odin",
+        "name": "Odin Hempel",
+        "team": "Dire Wolves",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Spruce",
+        "name": "James Feaver",
+        "team": "Dynasty",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Need Tiger",
+        "name": "Julien Lelong-Robin",
+        "team": "ESIX",
+        "role": "(Talent)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Daughter",
+        "name": "Mandy Powers",
+        "team": "ESL",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Marshall",
+        "name": "Michael Wong",
+        "team": "ESL",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "JhonsonTV",
+        "name": "Giulio Gungui",
+        "team": "ESL",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Baifern",
+        "name": "",
+        "team": "Elevate",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "LaXInG",
+        "name": "Gabriel Mirelez",
+        "team": "Elevate",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "BK-201",
+        "name": "Jan Moerland",
+        "team": "FACEIT",
+        "role": "(Talent)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Nata",
+        "name": "Naoki Murase",
+        "team": "FAV gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "OdeNMiso",
+        "name": "Kaito Yonezu",
+        "team": "FAV gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Tatsukin",
+        "name": "Tatsuki Kitagawa",
+        "team": "FAV gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "An4rchy",
+        "name": "",
+        "team": "FIRST Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Dann",
+        "name": "Daniel Mattos",
+        "team": "FURIA Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Kizi",
+        "name": "Luiz Carlos",
+        "team": "FURIA Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Crenux",
+        "name": "",
+        "team": "FURY",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "DomeDominic",
+        "name": "Apichat Thuengngento",
+        "team": "FURY",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Koiju",
+        "name": "",
+        "team": "FURY",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Portela",
+        "name": "Leandro Portela",
+        "team": "FaZe Clan",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ramalho",
+        "name": "Matheus Ramalho Gonçalves",
+        "team": "FaZe Clan",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Hemwer",
+        "name": "",
+        "team": "Fenix Esports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Ruivoz",
+        "name": "Luiz Felipe",
+        "team": "Fenix Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Chaquet",
+        "name": "Carlos Pedrero",
+        "team": "Fenix Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "trak",
+        "name": "James Leme",
+        "team": "Fenix Esports Female",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Dizzle",
+        "name": "Jayden Saunders",
+        "team": "Fnatic",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Phenomene",
+        "name": "Théo Hentgen",
+        "team": "Fnatic",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Nahu",
+        "name": "Nahuel Cobas",
+        "team": "Furious Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Croatia",
+        "nickname": "m4niac",
+        "name": "Luka Matijević",
+        "team": "G2 Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Finland",
+        "nickname": "Mayne",
+        "name": "Julius Ylänne",
+        "team": "G2 Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Sweden",
+        "nickname": "Fabian",
+        "name": "Fabian Hällsten",
+        "team": "G2 Esports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Indonesia",
+        "nickname": "Sunan",
+        "name": "Ilham Surya",
+        "team": "Gaimin Gladiators",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "ech0",
+        "name": "Hong Wei Teo",
+        "team": "Gaimin Gladiators",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Titan",
+        "name": "William Antonio Davie",
+        "team": "Gaimin Gladiators",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Deox",
+        "name": "Stijn de Rooij",
+        "team": "Game Fist",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Iraq",
+        "nickname": "ElConTeH",
+        "name": "Ragheed",
+        "team": "Geekay Esports",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Iraq",
+        "nickname": "Munrix",
+        "name": "Muntather Ghazy",
+        "team": "Geekay Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "MaXD",
+        "name": "Max Bacon",
+        "team": "Goblins Athlete Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Hungary",
+        "nickname": "davil",
+        "name": "David Csaba Tóth",
+        "team": "Heroic",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Norway",
+        "nickname": "Mrofficer88",
+        "name": "Murat Motevalli",
+        "team": "Heroic",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Anarchic",
+        "name": "Ralph Coates",
+        "team": "Heroic",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Hellraiser",
+        "name": "Luiggi Ianelli",
+        "team": "INTZ",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Atypickl",
+        "name": "Lucas Maidana",
+        "team": "Infamous Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Peru",
+        "nickname": "OneTap",
+        "name": "Paul Arana",
+        "team": "Infamous Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Peru",
+        "nickname": "ZambO",
+        "name": "Guillermo Luna",
+        "team": "Infamous Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "ProphetKing",
+        "name": "Aaron Kennedy",
+        "team": "JLingz Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Fraser",
+        "name": "Fraser Johnstone",
+        "team": "KV Mechelen Esports",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Max1mus",
+        "name": "Christian Vargas",
+        "team": "Kingdom Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "KataVACE",
+        "name": "Sam Neale",
+        "team": "Knights",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Sketchy",
+        "name": "Mitchell Whitten",
+        "team": "Knights",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "Lunarmetal",
+        "name": "Glen Suryasaputra",
+        "team": "Knights",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "Fluorezent",
+        "name": "Punsita Bualert",
+        "team": "Kraken Esports Club",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Izze",
+        "name": "Juan Ignacio Magariño",
+        "team": "Leviatán",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "RICK",
+        "name": "Ricardo Leiva",
+        "team": "Leviatán",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Tiseis",
+        "name": "Moisés Oliveira",
+        "team": "Luminosity Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Costa Rica",
+        "nickname": "Waiffer",
+        "name": "Waiffer Sibaja",
+        "team": "Luminosity Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "RRock",
+        "name": "Luca Salvatore Allocca",
+        "team": "MACKO Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Mefisto",
+        "name": "Adam Duma",
+        "team": "MACKO Esports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Colombia",
+        "nickname": "Snowy",
+        "name": "Juan Corredor",
+        "team": "MET REVEN",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Jvv",
+        "name": "Javier Rodriguez",
+        "team": "MET REVEN",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Dxrk",
+        "name": "Cesar Adriano",
+        "team": "MIBR",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Guille",
+        "name": "Guilherme Scalfi",
+        "team": "MIBR",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Eden",
+        "name": "Loïc Sennepin",
+        "team": "MNM Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Ukraine",
+        "nickname": "ArcherOmix",
+        "name": "Rostyslav Holoshchuk",
+        "team": "MNM Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Javelin",
+        "name": "Daniel Chung",
+        "team": "MNM Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "KalKal",
+        "name": "Kalvin Chung",
+        "team": "MNM Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "KlaudeX",
+        "name": "",
+        "team": "Malvinas Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "RuleS",
+        "name": "Lucas Thiago Perez",
+        "team": "Malvinas Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Gko",
+        "name": "Emanuel Gaggero",
+        "team": "Maycam Evolve",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Bigode",
+        "name": "",
+        "team": "Maycam Evolve",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "DnA",
+        "name": "David Thomas",
+        "team": "Mirage",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Guerra",
+        "name": "Cristian Guerra",
+        "team": "Mirage",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Justin",
+        "name": "Justin Ponce de Leon",
+        "team": "Mirage",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "ATK",
+        "name": "Andrea Maso",
+        "team": "Mkers",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "Hulky",
+        "name": "Uddhav Shishodia",
+        "team": "Monkey Hunters",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "India",
+        "nickname": "leoxard",
+        "name": "Neil Pais",
+        "team": "Monkey Hunters",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Denmark",
+        "nickname": "z1ronic",
+        "name": "Alex Dalgaard-Hansen",
+        "team": "Natus Vincere",
+        "role": "(Caster)",
+        "status": "retired"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Jak2oO",
+        "name": "Oleg Porotnikov",
+        "team": "Natus Vincere",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Alo",
+        "name": "Alonso Díez",
+        "team": "Natus Vincere",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "M4G0",
+        "name": "",
+        "team": "Newstar",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "BOB",
+        "name": "Andre Cardoso",
+        "team": "Ninjas in Pyjamas",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Sneepy",
+        "name": "Marcus Matos",
+        "team": "Ninjas in Pyjamas",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Seech",
+        "name": "Brian Colthirst",
+        "team": "Nokturns",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "HYDRIDK",
+        "name": "",
+        "team": "Northeption",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "amenbo",
+        "name": "Wakabayashi Ryota",
+        "team": "Northeption",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Bolt",
+        "name": "Maxime Nourrigat",
+        "team": "OkaCorp",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "OkaShiiro",
+        "name": "Loup Samain",
+        "team": "OkaCorp",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Clicke",
+        "name": "Santiago Larrarte",
+        "team": "OverKnight",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "HOP3Z",
+        "name": "Anthony Nizzardo",
+        "team": "Oxygen Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Redeemer",
+        "name": "Taylor Mayeur",
+        "team": "Oxygen Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "GlowMe",
+        "name": "Lee Seung-woo",
+        "team": "PANTHERA",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "kizoku",
+        "name": "Yasuhiro Nishi",
+        "team": "PET Nora-Rengo",
+        "role": "(Coach)",
+        "status": "inactive"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "L1m0n4d4",
+        "name": "Julian Gonzalez",
+        "team": "Pampas",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Mugusto",
+        "name": "Murilo Augusto",
+        "team": "Pampas",
+        "role": "(Coach)",
+        "status": "retired"
+    },
+    {
+        "country": "India",
+        "nickname": "VBM",
+        "name": "Varun Bir Mohindra",
+        "team": "Parabellum Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "ReyDelAfter",
+        "name": "Diego Escobar",
+        "team": "PÊEK Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Squ4d",
+        "name": "Bang Woo-sik",
+        "team": "Quintette Shizuoka",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Belgium",
+        "nickname": "Phantom2ification",
+        "name": "David Stynen",
+        "team": "R6CON",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "BozeMax",
+        "name": "Max Hendriks",
+        "team": "R6CON",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "Blueno4ronandes",
+        "name": "Shota Aono",
+        "team": "REJECT",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "DraZ",
+        "name": "Razig Abida",
+        "team": "Real Betis",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Fettuccine",
+        "name": "",
+        "team": "Reality TV",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Killhungry",
+        "name": "",
+        "team": "Reality TV",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "WaZo",
+        "name": "Óscar Llano",
+        "team": "Rebels Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Oasis",
+        "name": "Tyler McLean",
+        "team": "RentFree",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "leacharls",
+        "name": "Léa Charles",
+        "team": "Rogue",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Bernie",
+        "name": "Bernadette Ramaker",
+        "team": "Rogue",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Saethus",
+        "name": "Tristan Savage",
+        "team": "Rogue",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "meepeY",
+        "name": "Matthew Sharples",
+        "team": "Rogue",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Fanxy",
+        "name": "Lim Jun-hyuk",
+        "team": "SANDBOX Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Nova",
+        "name": "Lee Si-hun",
+        "team": "SANDBOX Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "TAKA",
+        "name": "",
+        "team": "SCARZ",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "depresso",
+        "name": "Renan Ribeiro",
+        "team": "Santos e-Sports",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Olimpo",
+        "name": "Gerardo Gamez",
+        "team": "Six Karma",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Physicz",
+        "name": "Rodrigo Flores",
+        "team": "Six Karma",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Tribizzle",
+        "name": "Darren Moore",
+        "team": "Soniqs",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Goddess",
+        "name": "Lauren Williams",
+        "team": "Soniqs",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jobro",
+        "name": "Joe Reyes",
+        "team": "Soniqs",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Unit",
+        "name": "Shawn Pellerin",
+        "team": "Spacestation Gaming",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Luke",
+        "name": "Luke Slota",
+        "team": "Spacestation Gaming",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Lycan",
+        "name": "Justin Woods",
+        "team": "Spacestation Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Sov",
+        "name": "Zachary Sites",
+        "team": "Spacestation Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "WATB",
+        "name": "Lee Jae-deok",
+        "team": "Spear Gaming",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Hurdes",
+        "name": "",
+        "team": "TENSTAR",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Pojoman",
+        "name": "Owen Mitura",
+        "team": "TSM",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Daeda",
+        "name": "Jacob Hale",
+        "team": "TSM",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "TheRealestRussian",
+        "name": "Igor Obukhov",
+        "team": "TT9 Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "DongUk",
+        "name": "Kim Dong-uk",
+        "team": "Talon Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "LabyRinth",
+        "name": "Do You-hyeon",
+        "team": "Talon Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Israel",
+        "nickname": "GunnY",
+        "name": "Tomer Hesed",
+        "team": "Team Alpha",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Catwo",
+        "name": "Alexia Chapus",
+        "team": "Team BDS",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "eaglemees",
+        "name": "Mees van der Arend",
+        "team": "Team BDS",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Nikoh",
+        "name": "Erik Ahrenfeld",
+        "team": "Team Bliss",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "South Africa",
+        "nickname": "Golden",
+        "name": "",
+        "team": "Team Bliss",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Pzzg0d",
+        "name": "Maximiliano Arreola",
+        "team": "Team Cruelty",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Royz",
+        "name": "Francisco Guillén",
+        "team": "Team Cruelty",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "RayzerGM",
+        "name": "Oleg Kuchin",
+        "team": "Team Empire",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "JPM",
+        "name": "Jean-Paul Moolenaar",
+        "team": "Team LFO",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Rafa",
+        "name": "Rafael Queiroz",
+        "team": "Team Liquid",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Sensi",
+        "name": "André Kaneyasu",
+        "team": "Team Liquid",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "hugzord",
+        "name": "Vitor Hugo",
+        "team": "Team Liquid",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "mcunha",
+        "name": "Marcelo Cunha",
+        "team": "Team Liquid",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Twister",
+        "name": "Marlon Mello",
+        "team": "Team Secret",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "SamE",
+        "name": "Sam Ellis",
+        "team": "Team Secret",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "IntacT",
+        "name": "Vitor Janz",
+        "team": "Team oNe eSports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Fame",
+        "name": "Antonio Nardi",
+        "team": "The Favelas",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Luk3",
+        "name": "Luke Hiorns-Boddington",
+        "team": "The Favelas",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "GiG",
+        "name": "Ellis Hindle",
+        "team": "Tyde",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Simplemente Marcos",
+        "name": "Marcos Sanchez Urbanek",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "XGerard",
+        "name": "Gerardo Scollo",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "ipaP",
+        "name": "Leandro Truppa",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Raven",
+        "name": "Brandon Langiano",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Australia",
+        "nickname": "Riley Knight",
+        "name": "Riley Knight",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "DA3MON",
+        "name": "Renato Silva",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Domitila Becker",
+        "name": "Domitila Becker",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "GuizaO",
+        "name": "Guilherme Kemen",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "retired"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Jubs",
+        "name": "Leonardo Benisterro",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Léo Bianchi",
+        "name": "Léo Bianchi",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Maria Bonino",
+        "name": "Maria Bonino",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Moska1m",
+        "name": "Jeferson Sampaio",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Nerd Engenheiro",
+        "name": "",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Nishwegger",
+        "name": "Enrico Nishi",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "PhH",
+        "name": "Pedro Henrique de Souza Machado",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Yudi Tamashiro",
+        "name": "Yudi Tamashiro",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "alezudoo",
+        "name": "Alexandre Branco",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "nKiraG",
+        "name": "David Newton",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "oJGz",
+        "name": "João Gabriel",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "Mcclane",
+        "name": "Diego Lucero",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Chile",
+        "nickname": "TriicK",
+        "name": "Ignacio Encina",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "BruceZz",
+        "name": "Zhang Jinghe",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Deacon",
+        "name": "Chen Xuan",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Direction",
+        "name": "Cheng Yabing",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Jeffrey",
+        "name": "Zhao Renhan",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Lin-y033",
+        "name": "Xue Linyuan",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "RoninCat",
+        "name": "Wang Shuchun",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "XYZ",
+        "name": "Xu Yuzhi",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "Yoming",
+        "name": "Xu Youming",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "乔伊奥斯托雷",
+        "name": "Zhao Tianlei",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "叫我黑川",
+        "name": "Fan Zichuan",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "天煞幽魂",
+        "name": "Zeng Tian",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "正义的伙伴阿",
+        "name": "He Hao",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "China",
+        "nickname": "节制",
+        "name": "He Jianlin",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Finland",
+        "nickname": "L3uku",
+        "name": "Marko Kivelä",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "retired"
+    },
+    {
+        "country": "France",
+        "nickname": "Fio'",
+        "name": "Fiorenzo Elba",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "FuriouSG",
+        "name": "Sébastien Guérineau",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "FuturFax",
+        "name": "Leo Mallet",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "GaelV8",
+        "name": "Gaël Trico",
+        "team": "Ubisoft",
+        "role": "(Admin)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Kabylouu",
+        "name": "Malik",
+        "team": "Ubisoft",
+        "role": "(Talent)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Kamiomega",
+        "name": "Laurent Adam",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Kivvi",
+        "name": "Julien Serrier",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Kozak",
+        "name": "Tanguy Picavet",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "KrO",
+        "name": "Guillaume Georget",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "LuKy",
+        "name": "Killian Lefeuvre",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Science",
+        "name": "Alexis Barbannaud",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Shookapik",
+        "name": "Tom Raynal",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "iKi",
+        "name": "Samuel Ibert",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "notFuZeAL",
+        "name": "Antoine Letailleur",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "ShatterXx",
+        "name": "Tobias Richter",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Zander",
+        "name": "Michael Müller",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Hungary",
+        "nickname": "AdamB",
+        "name": "Ádám Baracsi",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Hungary",
+        "nickname": "B3RC1",
+        "name": "Bertalan Varga-Molnár",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Hungary",
+        "nickname": "LeszklareN",
+        "name": "Gergő Maros",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Ireland",
+        "nickname": "Gibson",
+        "name": "Darren Gibson",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "ChiNook",
+        "name": "Jody Carraro",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "Rakki",
+        "name": "Salvatore Lena",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Japan",
+        "nickname": "KemicaL",
+        "name": "Yuki Yamaga",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Lebanon",
+        "nickname": "Milosh",
+        "name": "Ghassan Finge",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Alan",
+        "name": "Alan Quintana",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "DesertFox",
+        "name": "Aníbal Borbón",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "JosephEdgar17",
+        "name": "José Chávez",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Rammztein57",
+        "name": "Genaro Ceron",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "RocketRamy",
+        "name": "Mapache Verde",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Santiago Fisher",
+        "name": "Santiago Fisher",
+        "team": "Ubisoft",
+        "role": "(Talent)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Skibs",
+        "name": "Luis Santiago",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "SunnyGod",
+        "name": "Carlos",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Mexico",
+        "nickname": "Zoro",
+        "name": "Isaias Rodriguez",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Anthox",
+        "name": "Anthony Kremer",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Easy",
+        "name": "Stephan Kemink",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "FastAnne",
+        "name": "Anne Janssen",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Hap",
+        "name": "Stijn Hapers",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "NoaHVW9",
+        "name": "Noah van Woudenberg",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "Netherlands",
+        "nickname": "Toldersma",
+        "name": "Thiadrik Oldersma",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Magvayer",
+        "name": "Tomek Filipiuk",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Poland",
+        "nickname": "Sebol",
+        "name": "Maciej Majewski",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "HLK",
+        "name": "Ilya Rybin",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Vespertuss",
+        "name": "Artyom Orlov",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Saudi Arabia",
+        "nickname": "Nalbagame",
+        "name": "Nawaf Albagme",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "South Africa",
+        "nickname": "Simon Bond",
+        "name": "Simon Bond",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "AengMuSae",
+        "name": "Kim Hyeon-sik",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "An Tae-hun",
+        "name": "An Tae-hun",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Benezar",
+        "name": "Park Tae-min",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Ddengku",
+        "name": "Han Yun-su",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Fuhit",
+        "name": "Park Jeong-jin",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "HAFUM",
+        "name": "Lee Ji-eun",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "LHM344",
+        "name": "Lee Hyun-min",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Rezina",
+        "name": "",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Shin Il",
+        "name": "Shin Il",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "SummerRain",
+        "name": "Kim In-yeong",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "South Korea",
+        "nickname": "Tllly",
+        "name": "Kim Tae-hui",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Abichu",
+        "name": "Alberto Torrent",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "AlexPolo",
+        "name": "Alejandro Polo",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "JuK4",
+        "name": "Francesc Illana",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "MarcRoss",
+        "name": "Marc Rosés",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Meta",
+        "name": "Alejandro Santos",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Reina",
+        "name": "Luisa Cano",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Spain",
+        "nickname": "Scythe",
+        "name": "Íñigo Gómez",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Bigboss",
+        "name": "Chen Yu",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Fish",
+        "name": "Liu Yu-shuan",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Graves",
+        "name": "Pan Chia-hao",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "KvN",
+        "name": "",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Nia",
+        "name": "Fu Kuan-chun",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Taiwan",
+        "nickname": "Paul",
+        "name": "Wang Bo",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Thailand",
+        "nickname": "MadDuckRanger",
+        "name": "Bovorn Bovornsombat",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Dean0",
+        "name": "Eoin Deane",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "EBAC",
+        "name": "Andrew Mulhern",
+        "team": "Ubisoft",
+        "role": "(Talent)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "GraceV",
+        "name": "Grace Vee",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Iain Chambers",
+        "name": "Iain Chambers",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Shrikel",
+        "name": "Alistair Wright",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Adam Mulligan",
+        "name": "Adam Mulligan",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "CarpeBonoSensum",
+        "name": "Connor Bargeloh",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Cdaps",
+        "name": "Connor D'Apollonio",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "CeDeCe",
+        "name": "Drue Cralle",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Chief",
+        "name": "Bryan Schubert",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "CookieZ",
+        "name": "C.J. Brooks",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Corbec",
+        "name": "Tristan Parker",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Cyano",
+        "name": "Ronald Fernandez",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "DJDextrose",
+        "name": "Joe Navarro",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Grave",
+        "name": "Alex Walker",
+        "team": "Ubisoft",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jazmin Benavides",
+        "name": "Jazmin Benavides",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Jzwills",
+        "name": "Jonah Zwillinger",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Lynnx",
+        "name": "Carter Hanefeld",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Pangolin",
+        "name": "Elijah Anderson",
+        "team": "Ubisoft",
+        "role": "(Observer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Santoast",
+        "name": "Marvin Santos",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Seltzer",
+        "name": "Rachel Quirico",
+        "team": "Ubisoft",
+        "role": "(Host)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Stickula",
+        "name": "Reese Hambrick",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Stoax",
+        "name": "Samuel Stewart",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "TangoMangoDown",
+        "name": "Preston Willis",
+        "team": "Ubisoft",
+        "role": "(Producer)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "TimeToLight",
+        "name": "Daniel Rodier",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "mzo",
+        "name": "Devin Becker",
+        "team": "Ubisoft",
+        "role": "(Caster)",
+        "status": "active"
+    },
+    {
+        "country": "Argentina",
+        "nickname": "Syberianfps",
+        "name": "Belen Paredes",
+        "team": "Valhalla Legion",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Dai",
+        "name": "Ceri Edwards",
+        "team": "Victus",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Jakesouthster",
+        "name": "Jacob Williams",
+        "team": "Victus",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Px7",
+        "name": "Joseph Bouton",
+        "team": "Viperio 86",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "Sergey Glamazda",
+        "name": "Sergey Glamazda",
+        "team": "Virtus.pro",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Russia",
+        "nickname": "YaGo",
+        "name": "Kirill Zolotov",
+        "team": "Virtus.pro",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Ukraine",
+        "nickname": "ViKiNG",
+        "name": "Anton Shevchenko",
+        "team": "Virtus.pro",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Germany",
+        "nickname": "Zeus",
+        "name": "Joost Bliẞ",
+        "team": "WYLDE",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Sleepy",
+        "name": "Josh Franks",
+        "team": "WYLDE",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Italy",
+        "nickname": "DrScaP",
+        "name": "Pierfrancesco Scala",
+        "team": "WnP Esports Club",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Canada",
+        "nickname": "Helbee",
+        "name": "Louis Bureau",
+        "team": "Wolves Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Lyloun",
+        "name": "Laurie Lagier",
+        "team": "Wolves Esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Robz",
+        "name": "Robin Planus",
+        "team": "Wolves Esports",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Budega",
+        "name": "Matheus Araujo de Figueiredo",
+        "team": "XSET",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "PFernandes",
+        "name": "Pedro Fernandes",
+        "team": "XSET",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Vivas",
+        "name": "Igor Vivas",
+        "team": "XSET",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "DrewSpark",
+        "name": "Drew Spark-Whitworth",
+        "team": "XSET",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "France",
+        "nickname": "Sixquatre",
+        "name": "Benjamin Leray",
+        "team": "Yunktis",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United Kingdom",
+        "nickname": "Krux",
+        "name": "Harry Poyzer",
+        "team": "beastcoast",
+        "role": "(Analyst)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "Mark",
+        "name": "Mark Arismendez",
+        "team": "beastcoast",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "RaMz",
+        "name": "Robert Rockhill",
+        "team": "beastcoast",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Singapore",
+        "nickname": "Moon",
+        "name": "Moon Lim",
+        "team": "iG.International",
+        "role": "(Manager)",
+        "status": "active"
+    },
+    {
+        "country": "United States",
+        "nickname": "FBK",
+        "name": "Luis Corrales",
+        "team": "team DeftFox",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "Abreu",
+        "name": "Felipe da Silva",
+        "team": "w7m esports",
+        "role": "(Coach)",
+        "status": "active"
+    },
+    {
+        "country": "Brazil",
+        "nickname": "igoorctg",
+        "name": "Igor dos Santos",
+        "team": "w7m esports",
+        "role": "(Coach)",
+        "status": "active"
+    }
+]

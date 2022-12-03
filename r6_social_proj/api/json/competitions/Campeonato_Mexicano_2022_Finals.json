@@ -1,0 +1,215 @@
+{
+    "url": "https://old.siege.gg/competitions/435-campeonato-mexicano-2022-finals?tab=results&stats=full-stats",
+    "name": "Campeonato Mexicano 2022 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Six Karma",
+        "ALPHA Team",
+        "Team Cruelty",
+        "MET REVEN"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "33"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "71%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "58%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "33%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Theme Park",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Armory/Throne",
+                    "winrate": "71%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Bunk/Day",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Lab/Storage",
+                    "winrate": "20%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Initiation",
+                    "winrate": "100%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "27%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "33%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "0%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "75%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "50%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Skyscraper",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Border",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "url": "https://old.siege.gg/competitions/437-brasileirao-serie-b-2022-finals?tab=results&stats=full-stats",
+    "name": "Brasileirão Série B 2022 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Electrify Steel Gaming",
+        "Magic Squad",
+        "Dromedalho",
+        "SuperNova eSports"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "70%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "71%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "83%",
+                    "rounds": "6"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "58%",
+                    "rounds": "24"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "67%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "100%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "75%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Skyscraper",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Theme Park",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Border",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

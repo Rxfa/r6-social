@@ -1,0 +1,212 @@
+{
+    "url": "https://old.siege.gg/competitions/386-apac-south-division-2021-relegations?tab=results&stats=full-stats",
+    "name": "APAC South Division 2021 Relegations",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Wildcard Gaming",
+        "ROFLCOPTER GG",
+        "ORDER",
+        "The Last Dance SEA",
+        "Sharper Esport",
+        "Team Bliss",
+        "KIRA E-Sports",
+        "Monkey Hunters"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Chalet",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "38%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "38%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "20%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "38%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "80%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "61%",
+                    "rounds": "23"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "88%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "33%",
+                    "rounds": "6"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "63%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "100%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "60%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "63%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "80%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "48%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "38%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "80%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "80%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "75%",
+                    "rounds": "4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "url": "https://old.siege.gg/competitions/372-campeonato-sudamericano-2021-finals?tab=results&stats=full-stats",
+    "name": "Campeonato Sudamericano 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "Newstar",
+        "Furious Gaming",
+        "9z Team",
+        "Malvinas Gaming"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Villa",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "67%",
+                    "rounds": "36"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "79%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "50%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "0%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "40%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "25%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "58%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "0%",
+                    "rounds": "1"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "url": "https://old.siege.gg/competitions/313-korean-open-spring-2021-finals?tab=results&stats=full-stats",
+    "name": "Korean Open Spring 2021 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "SGA eSPORTS",
+        "DWG KIA",
+        "Cloud9",
+        "Talon Esports",
+        "Faust",
+        "T1"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "4",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "45"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "50%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "75%",
+                    "rounds": "16"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "78%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "73%",
+                    "rounds": "40"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "71%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "79%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "9"
+                }
+            ]
+        },
+        {
+            "name": "Consulate",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "62%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Garage/Cafeteria",
+                    "winrate": "65%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Lobby/Piano",
+                    "winrate": "67%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "CEO/Meeting",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "50%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "52%",
+                    "rounds": "25"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "40%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "63%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "57%",
+                    "rounds": "7"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "100%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

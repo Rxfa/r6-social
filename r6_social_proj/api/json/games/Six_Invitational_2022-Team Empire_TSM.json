@@ -1,0 +1,239 @@
+{
+    "url": "https://old.siege.gg/matches/7220-invitational-intl-team-empire-vs-tsm",
+    "teams": [
+        "Team Empire",
+        "TSM"
+    ],
+    "rosters": {
+        "Team Empire": [
+            "ShepparD",
+            "JoyStiCK",
+            "Scyther",
+            "Dan",
+            "Always"
+        ],
+        "TSM": [
+            "Achieved",
+            "Beaulo",
+            "Merc",
+            "Geo",
+            "Chala"
+        ]
+    },
+    "score": [
+        " 1 ",
+        " 3 "
+    ],
+    "date": " Sunday, Feb 20 2022, 18:30 UTC ",
+    "competition": "Six Invitational 2022",
+    "player_stats": {
+        "Team Empire": [
+            {
+                "name": "Achieved",
+                "rating": "1.25",
+                "kd": "52-31 (+21)",
+                "entry": "4-6 (-2)",
+                "kost": "74%",
+                "kpr": "0.96",
+                "srv": "43%",
+                "clutches": "1",
+                "plants": "0",
+                "hs_percent": "47%",
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            },
+            {
+                "name": "Beaulo",
+                "rating": "0.80",
+                "kd": "31-44 (-13)",
+                "entry": "11-9 (+2)",
+                "kost": "56%",
+                "kpr": "0.57",
+                "srv": "19%",
+                "clutches": "0",
+                "plants": "0",
+                "hs_percent": "54%",
+                "attack": "FINKA",
+                "defense": "JAGER"
+            },
+            {
+                "name": "Dan",
+                "rating": "0.87",
+                "kd": "35-39 (-4)",
+                "entry": "6-11 (-5)",
+                "kost": "54%",
+                "kpr": "0.65",
+                "srv": "28%",
+                "clutches": "0",
+                "plants": "0",
+                "hs_percent": "50%",
+                "attack": "FINKA",
+                "defense": "WAMAI"
+            },
+            {
+                "name": "ShepparD",
+                "rating": "1.00",
+                "kd": "34-37 (-3)",
+                "entry": "1-2 (-1)",
+                "kost": "74%",
+                "kpr": "0.63",
+                "srv": "31%",
+                "clutches": "2",
+                "plants": "2",
+                "hs_percent": "60%",
+                "attack": "MAVERICK",
+                "defense": "SMOKE"
+            },
+            {
+                "name": "JoyStiCK",
+                "rating": "0.78",
+                "kd": "31-42 (-11)",
+                "entry": "7-8 (-1)",
+                "kost": "50%",
+                "kpr": "0.57",
+                "srv": "22%",
+                "clutches": "1",
+                "plants": "1",
+                "hs_percent": "39%",
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        ],
+        "TSM": [
+            {
+                "name": "Scyther",
+                "rating": "1.07",
+                "kd": "44-40 (+4)",
+                "entry": "7-4 (+3)",
+                "kost": "67%",
+                "kpr": "0.81",
+                "srv": "26%",
+                "clutches": "1",
+                "plants": "0",
+                "hs_percent": "52%",
+                "attack": "ZOFIA",
+                "defense": "JAGER"
+            },
+            {
+                "name": "Chala",
+                "rating": "0.99",
+                "kd": "32-32 (+0)",
+                "entry": "2-2 (+0)",
+                "kost": "65%",
+                "kpr": "0.59",
+                "srv": "41%",
+                "clutches": "0",
+                "plants": "3",
+                "hs_percent": "39%",
+                "attack": "MAVERICK",
+                "defense": "SMOKE"
+            },
+            {
+                "name": "Merc",
+                "rating": "1.22",
+                "kd": "53-38 (+15)",
+                "entry": "10-6 (+4)",
+                "kost": "72%",
+                "kpr": "0.98",
+                "srv": "30%",
+                "clutches": "0",
+                "plants": "0",
+                "hs_percent": "55%",
+                "attack": "IANA",
+                "defense": "WAMAI"
+            }
+        ]
+    },
+    "operator_bans": [
+        [
+            {
+                "team": "TSM",
+                "operator": "Thatcher"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Hibana"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Valkyrie"
+            },
+            {
+                "team": "TSM",
+                "operator": "Mira"
+            }
+        ],
+        [
+            {
+                "team": "Team Empire",
+                "operator": "Ying"
+            },
+            {
+                "team": "TSM",
+                "operator": "Thatcher"
+            },
+            {
+                "team": "TSM",
+                "operator": "Wamai"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Mira"
+            }
+        ],
+        [
+            {
+                "team": "TSM",
+                "operator": "Ying"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Thatcher"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Valkyrie"
+            },
+            {
+                "team": "TSM",
+                "operator": "Mira"
+            }
+        ],
+        [
+            {
+                "team": "Team Empire",
+                "operator": "Thatcher"
+            },
+            {
+                "team": "TSM",
+                "operator": "Flores"
+            },
+            {
+                "team": "TSM",
+                "operator": "Kaid"
+            },
+            {
+                "team": "Team Empire",
+                "operator": "Valkyrie"
+            }
+        ]
+    ],
+    "game_results": [
+        {
+            "name": "Club House",
+            "result": "EMPR  6 - 8  TSM"
+        },
+        {
+            "name": "Kafe",
+            "result": "EMPR  3 - 7  TSM"
+        },
+        {
+            "name": "Oregon",
+            "result": "EMPR  8 - 6  TSM"
+        },
+        {
+            "name": "Villa",
+            "result": "EMPR  7 - 9  TSM"
+        }
+    ]
+}

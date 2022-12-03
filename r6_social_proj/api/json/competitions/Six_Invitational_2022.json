@@ -1,0 +1,2176 @@
+{
+    "url": "https://old.siege.gg/competitions/387-six-invitational-2022?tab=results&stats=full-stats",
+    "name": "Six Invitational 2022",
+    "system_of_competition": "CUP_SYSTEM_WITH_PLAYER_PRIZES",
+    "participants": [
+        "Team Empire",
+        "TSM",
+        "FaZe Clan",
+        "MIBR",
+        "Soniqs",
+        "Team Liquid",
+        "DarkZero Esports",
+        "Oxygen Esports",
+        "FURIA Esports",
+        "Elevate",
+        "DWG KIA",
+        "Spacestation Gaming",
+        "Natus Vincere",
+        "Rogue",
+        "MNM Gaming",
+        "Ninjas In Pyjamas",
+        "CYCLOPS athlete gaming",
+        "SANDBOX Gaming",
+        "Team BDS",
+        "Team oNe Esports"
+    ],
+    "standings": null,
+    "mvp": {
+        "player": "Merc",
+        "rating": "    Merc ",
+        "operators": {
+            "attack": "Zofia",
+            "defense": "Jäger"
+        }
+    },
+    "player_stats": [
+        {
+            "team": "Soniqs",
+            "player": "Gryxr",
+            "rating": "1.31",
+            "kd": "238-148 (+90)",
+            "entry": "34-17 (+17)",
+            "maps_played": "19",
+            "kost": "71%",
+            "kpr": "1.07",
+            "srv": "33%",
+            "clutches": "4",
+            "plants": "3",
+            "disables": "1",
+            "hs_ratio": "45%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MIRA"
+            }
+        },
+        {
+            "team": "Team Liquid",
+            "player": "Paluh",
+            "rating": "1.23",
+            "kd": "167-113 (+54)",
+            "entry": "22-14 (+8)",
+            "maps_played": "15",
+            "kost": "76%",
+            "kpr": "0.92",
+            "srv": "38%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "57%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "VIGIL"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "njr",
+            "rating": "1.17",
+            "kd": "183-139 (+44)",
+            "entry": "31-22 (+9)",
+            "maps_played": "18",
+            "kost": "70%",
+            "kpr": "0.87",
+            "srv": "34%",
+            "clutches": "4",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "56%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "00 Nation",
+            "player": "Alem4o",
+            "rating": "1.15",
+            "kd": "100-76 (+24)",
+            "entry": "20-7 (+13)",
+            "maps_played": "10",
+            "kost": "67%",
+            "kpr": "0.88",
+            "srv": "33%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "BUCK",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "BriD",
+            "rating": "1.15",
+            "kd": "86-71 (+15)",
+            "entry": "2-2 (+0)",
+            "maps_played": "10",
+            "kost": "74%",
+            "kpr": "0.76",
+            "srv": "37%",
+            "clutches": "3",
+            "plants": "14",
+            "disables": "0",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "TSM",
+            "player": "Achieved",
+            "rating": "1.15",
+            "kd": "245-182 (+63)",
+            "entry": "29-26 (+3)",
+            "maps_played": "25",
+            "kost": "71%",
+            "kpr": "0.84",
+            "srv": "37%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "TSM",
+            "player": "Merc",
+            "rating": "1.15",
+            "kd": "271-218 (+53)",
+            "entry": "62-30 (+32)",
+            "maps_played": "25",
+            "kost": "67%",
+            "kpr": "0.93",
+            "srv": "25%",
+            "clutches": "4",
+            "plants": "1",
+            "disables": "2",
+            "hs_ratio": "55%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team Liquid",
+            "player": "NESKWGA",
+            "rating": "1.15",
+            "kd": "150-108 (+42)",
+            "entry": "29-18 (+11)",
+            "maps_played": "15",
+            "kost": "69%",
+            "kpr": "0.83",
+            "srv": "40%",
+            "clutches": "4",
+            "plants": "2",
+            "disables": "2",
+            "hs_ratio": "55%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Rexen",
+            "rating": "1.14",
+            "kd": "191-151 (+40)",
+            "entry": "33-23 (+10)",
+            "maps_played": "19",
+            "kost": "69%",
+            "kpr": "0.86",
+            "srv": "32%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "46%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "DWG KIA",
+            "player": "Woogiman",
+            "rating": "1.13",
+            "kd": "137-104 (+33)",
+            "entry": "13-15 (-2)",
+            "maps_played": "14",
+            "kost": "65%",
+            "kpr": "0.82",
+            "srv": "38%",
+            "clutches": "6",
+            "plants": "7",
+            "disables": "1",
+            "hs_ratio": "63%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Panbazou",
+            "rating": "1.10",
+            "kd": "178-148 (+30)",
+            "entry": "34-18 (+16)",
+            "maps_played": "18",
+            "kost": "69%",
+            "kpr": "0.84",
+            "srv": "30%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "TSM",
+            "player": "Beaulo",
+            "rating": "1.09",
+            "kd": "246-209 (+37)",
+            "entry": "54-44 (+10)",
+            "maps_played": "25",
+            "kost": "64%",
+            "kpr": "0.85",
+            "srv": "28%",
+            "clutches": "2",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Ninjas In Pyjamas",
+            "player": "pino",
+            "rating": "1.09",
+            "kd": "118-97 (+21)",
+            "entry": "21-20 (+1)",
+            "maps_played": "13",
+            "kost": "63%",
+            "kpr": "0.81",
+            "srv": "33%",
+            "clutches": "2",
+            "plants": "3",
+            "disables": "0",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "MIBR",
+            "player": "LuKid",
+            "rating": "1.08",
+            "kd": "182-157 (+25)",
+            "entry": "28-24 (+4)",
+            "maps_played": "21",
+            "kost": "72%",
+            "kpr": "0.76",
+            "srv": "34%",
+            "clutches": "4",
+            "plants": "4",
+            "disables": "2",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "00 Nation",
+            "player": "KDS",
+            "rating": "1.08",
+            "kd": "96-80 (+16)",
+            "entry": "17-12 (+5)",
+            "maps_played": "10",
+            "kost": "65%",
+            "kpr": "0.85",
+            "srv": "29%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "63%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Hotancold",
+            "rating": "1.08",
+            "kd": "160-145 (+15)",
+            "entry": "28-18 (+10)",
+            "maps_played": "17",
+            "kost": "68%",
+            "kpr": "0.79",
+            "srv": "29%",
+            "clutches": "2",
+            "plants": "6",
+            "disables": "1",
+            "hs_ratio": "58%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MIRA"
+            }
+        },
+        {
+            "team": "FaZe Clan",
+            "player": "Astro",
+            "rating": "1.08",
+            "kd": "214-181 (+33)",
+            "entry": "25-27 (-2)",
+            "maps_played": "25",
+            "kost": "66%",
+            "kpr": "0.78",
+            "srv": "34%",
+            "clutches": "5",
+            "plants": "7",
+            "disables": "1",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "ACE",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "MIBR",
+            "player": "reduct",
+            "rating": "1.07",
+            "kd": "186-176 (+10)",
+            "entry": "28-27 (+1)",
+            "maps_played": "21",
+            "kost": "70%",
+            "kpr": "0.78",
+            "srv": "26%",
+            "clutches": "4",
+            "plants": "2",
+            "disables": "2",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "THATCHER",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "CYCLOPS athlete gaming",
+            "player": "BlackRay",
+            "rating": "1.07",
+            "kd": "98-81 (+17)",
+            "entry": "8-9 (-1)",
+            "maps_played": "10",
+            "kost": "58%",
+            "kpr": "0.87",
+            "srv": "28%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "62%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "ALIBI"
+            }
+        },
+        {
+            "team": "MIBR",
+            "player": "FelipoX",
+            "rating": "1.07",
+            "kd": "184-170 (+14)",
+            "entry": "31-23 (+8)",
+            "maps_played": "21",
+            "kost": "69%",
+            "kpr": "0.77",
+            "srv": "29%",
+            "clutches": "3",
+            "plants": "5",
+            "disables": "2",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Rampy",
+            "rating": "1.07",
+            "kd": "159-142 (+17)",
+            "entry": "22-26 (-4)",
+            "maps_played": "17",
+            "kost": "66%",
+            "kpr": "0.78",
+            "srv": "30%",
+            "clutches": "5",
+            "plants": "4",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "FaZe Clan",
+            "player": "Cyber",
+            "rating": "1.06",
+            "kd": "217-200 (+17)",
+            "entry": "36-27 (+9)",
+            "maps_played": "25",
+            "kost": "66%",
+            "kpr": "0.79",
+            "srv": "27%",
+            "clutches": "4",
+            "plants": "4",
+            "disables": "0",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "TWITCH",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "FaZe Clan",
+            "player": "soulz1",
+            "rating": "1.06",
+            "kd": "186-173 (+13)",
+            "entry": "14-26 (-12)",
+            "maps_played": "25",
+            "kost": "69%",
+            "kpr": "0.68",
+            "srv": "37%",
+            "clutches": "4",
+            "plants": "26",
+            "disables": "0",
+            "hs_ratio": "57%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "FURIA Esports",
+            "player": "Fntzy",
+            "rating": "1.06",
+            "kd": "148-137 (+11)",
+            "entry": "34-41 (-7)",
+            "maps_played": "14",
+            "kost": "63%",
+            "kpr": "0.91",
+            "srv": "16%",
+            "clutches": "2",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "59%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Elevate",
+            "player": "sprOnigiri",
+            "rating": "1.05",
+            "kd": "167-147 (+20)",
+            "entry": "25-42 (-17)",
+            "maps_played": "17",
+            "kost": "63%",
+            "kpr": "0.84",
+            "srv": "26%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "59%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "Team Liquid",
+            "player": "resetz",
+            "rating": "1.05",
+            "kd": "129-119 (+10)",
+            "entry": "18-10 (+8)",
+            "maps_played": "15",
+            "kost": "71%",
+            "kpr": "0.71",
+            "srv": "34%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "2",
+            "hs_ratio": "65%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "Yoggah",
+            "rating": "1.05",
+            "kd": "154-151 (+3)",
+            "entry": "37-27 (+10)",
+            "maps_played": "19",
+            "kost": "67%",
+            "kpr": "0.74",
+            "srv": "27%",
+            "clutches": "2",
+            "plants": "10",
+            "disables": "2",
+            "hs_ratio": "62%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "LaXInG",
+            "rating": "1.05",
+            "kd": "155-136 (+19)",
+            "entry": "17-8 (+9)",
+            "maps_played": "19",
+            "kost": "68%",
+            "kpr": "0.75",
+            "srv": "34%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "38%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "FURIA Esports",
+            "player": "Miracle",
+            "rating": "1.05",
+            "kd": "115-105 (+10)",
+            "entry": "10-11 (-1)",
+            "maps_played": "14",
+            "kost": "70%",
+            "kpr": "0.71",
+            "srv": "36%",
+            "clutches": "4",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "FaZe Clan",
+            "player": "Bullet1",
+            "rating": "1.05",
+            "kd": "218-191 (+27)",
+            "entry": "29-29 (+0)",
+            "maps_played": "25",
+            "kost": "65%",
+            "kpr": "0.80",
+            "srv": "30%",
+            "clutches": "2",
+            "plants": "3",
+            "disables": "3",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Always",
+            "rating": "1.04",
+            "kd": "168-152 (+16)",
+            "entry": "15-12 (+3)",
+            "maps_played": "21",
+            "kost": "69%",
+            "kpr": "0.71",
+            "srv": "36%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "2",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "ShepparD",
+            "rating": "1.04",
+            "kd": "156-148 (+8)",
+            "entry": "6-14 (-8)",
+            "maps_played": "21",
+            "kost": "71%",
+            "kpr": "0.66",
+            "srv": "38%",
+            "clutches": "4",
+            "plants": "18",
+            "disables": "1",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "JoyStiCK",
+            "rating": "1.04",
+            "kd": "183-163 (+20)",
+            "entry": "40-38 (+2)",
+            "maps_played": "21",
+            "kost": "63%",
+            "kpr": "0.77",
+            "srv": "32%",
+            "clutches": "3",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "53%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Ecl9pse",
+            "rating": "1.04",
+            "kd": "140-142 (-2)",
+            "entry": "11-13 (-2)",
+            "maps_played": "18",
+            "kost": "66%",
+            "kpr": "0.66",
+            "srv": "33%",
+            "clutches": "5",
+            "plants": "23",
+            "disables": "4",
+            "hs_ratio": "62%",
+            "operators": {
+                "attack": "ACE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "MIBR",
+            "player": "Rappz",
+            "rating": "1.03",
+            "kd": "180-167 (+13)",
+            "entry": "23-28 (-5)",
+            "maps_played": "21",
+            "kost": "64%",
+            "kpr": "0.75",
+            "srv": "30%",
+            "clutches": "2",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "53%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "MNM Gaming",
+            "player": "Solotov",
+            "rating": "1.03",
+            "kd": "88-80 (+8)",
+            "entry": "18-15 (+3)",
+            "maps_played": "10",
+            "kost": "63%",
+            "kpr": "0.81",
+            "srv": "26%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "60%",
+            "operators": {
+                "attack": "TWITCH",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Fultz",
+            "rating": "1.02",
+            "kd": "155-149 (+6)",
+            "entry": "35-20 (+15)",
+            "maps_played": "17",
+            "kost": "64%",
+            "kpr": "0.76",
+            "srv": "27%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MAESTRO"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "FoxA",
+            "rating": "1.02",
+            "kd": "142-142 (+0)",
+            "entry": "19-16 (+3)",
+            "maps_played": "19",
+            "kost": "68%",
+            "kpr": "0.69",
+            "srv": "31%",
+            "clutches": "2",
+            "plants": "15",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "MNM Gaming",
+            "player": "Yuzus",
+            "rating": "1.01",
+            "kd": "78-72 (+6)",
+            "entry": "10-8 (+2)",
+            "maps_played": "10",
+            "kost": "68%",
+            "kpr": "0.72",
+            "srv": "33%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "56%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Hyper",
+            "rating": "1.01",
+            "kd": "151-148 (+3)",
+            "entry": "21-19 (+2)",
+            "maps_played": "18",
+            "kost": "67%",
+            "kpr": "0.72",
+            "srv": "30%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "56%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Dan",
+            "rating": "1.01",
+            "kd": "179-166 (+13)",
+            "entry": "36-36 (+0)",
+            "maps_played": "21",
+            "kost": "61%",
+            "kpr": "0.75",
+            "srv": "30%",
+            "clutches": "3",
+            "plants": "3",
+            "disables": "1",
+            "hs_ratio": "45%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Team Empire",
+            "player": "Scyther",
+            "rating": "1.01",
+            "kd": "168-165 (+3)",
+            "entry": "21-19 (+2)",
+            "maps_played": "21",
+            "kost": "67%",
+            "kpr": "0.71",
+            "srv": "31%",
+            "clutches": "2",
+            "plants": "2",
+            "disables": "2",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "DWG KIA",
+            "player": "yass",
+            "rating": "1.00",
+            "kd": "123-119 (+4)",
+            "entry": "23-24 (-1)",
+            "maps_played": "14",
+            "kost": "62%",
+            "kpr": "0.73",
+            "srv": "29%",
+            "clutches": "2",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "FURIA Esports",
+            "player": "Highs",
+            "rating": "1.00",
+            "kd": "108-100 (+8)",
+            "entry": "17-5 (+12)",
+            "maps_played": "14",
+            "kost": "65%",
+            "kpr": "0.66",
+            "srv": "39%",
+            "clutches": "2",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team Liquid",
+            "player": "AsK",
+            "rating": "0.99",
+            "kd": "121-128 (-7)",
+            "entry": "18-24 (-6)",
+            "maps_played": "15",
+            "kost": "62%",
+            "kpr": "0.67",
+            "srv": "29%",
+            "clutches": "1",
+            "plants": "21",
+            "disables": "0",
+            "hs_ratio": "39%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Elevate",
+            "player": "Nerix",
+            "rating": "0.99",
+            "kd": "141-140 (+1)",
+            "entry": "18-15 (+3)",
+            "maps_played": "17",
+            "kost": "63%",
+            "kpr": "0.71",
+            "srv": "30%",
+            "clutches": "2",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "50%",
+            "operators": {
+                "attack": "JACKAL",
+                "defense": "MIRA"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Doki",
+            "rating": "0.99",
+            "kd": "148-144 (+4)",
+            "entry": "30-34 (-4)",
+            "maps_played": "16",
+            "kost": "59%",
+            "kpr": "0.81",
+            "srv": "21%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "57%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Saves",
+            "rating": "0.99",
+            "kd": "122-116 (+6)",
+            "entry": "8-20 (-12)",
+            "maps_played": "16",
+            "kost": "63%",
+            "kpr": "0.67",
+            "srv": "36%",
+            "clutches": "4",
+            "plants": "1",
+            "disables": "2",
+            "hs_ratio": "41%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Ninjas In Pyjamas",
+            "player": "Muzi",
+            "rating": "0.98",
+            "kd": "103-104 (-1)",
+            "entry": "13-15 (-2)",
+            "maps_played": "13",
+            "kost": "64%",
+            "kpr": "0.71",
+            "srv": "28%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "71%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "Kyno",
+            "rating": "0.98",
+            "kd": "155-158 (-3)",
+            "entry": "19-21 (-2)",
+            "maps_played": "19",
+            "kost": "64%",
+            "kpr": "0.75",
+            "srv": "24%",
+            "clutches": "0",
+            "plants": "7",
+            "disables": "1",
+            "hs_ratio": "55%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "DWG KIA",
+            "player": "coted",
+            "rating": "0.98",
+            "kd": "111-123 (-12)",
+            "entry": "11-15 (-4)",
+            "maps_played": "14",
+            "kost": "66%",
+            "kpr": "0.66",
+            "srv": "27%",
+            "clutches": "1",
+            "plants": "18",
+            "disables": "0",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "00 Nation",
+            "player": "Levy",
+            "rating": "0.98",
+            "kd": "78-75 (+3)",
+            "entry": "8-14 (-6)",
+            "maps_played": "10",
+            "kost": "64%",
+            "kpr": "0.69",
+            "srv": "34%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "61%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "MIBR",
+            "player": "Faallz",
+            "rating": "0.97",
+            "kd": "143-150 (-7)",
+            "entry": "6-19 (-13)",
+            "maps_played": "21",
+            "kost": "68%",
+            "kpr": "0.60",
+            "srv": "37%",
+            "clutches": "4",
+            "plants": "14",
+            "disables": "3",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Rogue",
+            "player": "AceeZ",
+            "rating": "0.97",
+            "kd": "89-93 (-4)",
+            "entry": "16-16 (+0)",
+            "maps_played": "11",
+            "kost": "65%",
+            "kpr": "0.72",
+            "srv": "25%",
+            "clutches": "2",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "65%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Kanzen",
+            "rating": "0.97",
+            "kd": "134-150 (-16)",
+            "entry": "20-21 (-1)",
+            "maps_played": "19",
+            "kost": "63%",
+            "kpr": "0.60",
+            "srv": "32%",
+            "clutches": "5",
+            "plants": "5",
+            "disables": "3",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "KAID"
+            }
+        },
+        {
+            "team": "FURIA Esports",
+            "player": "R4re",
+            "rating": "0.97",
+            "kd": "102-108 (-6)",
+            "entry": "5-11 (-6)",
+            "maps_played": "14",
+            "kost": "67%",
+            "kpr": "0.63",
+            "srv": "34%",
+            "clutches": "0",
+            "plants": "10",
+            "disables": "1",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "MNM Gaming",
+            "player": "neLo",
+            "rating": "0.97",
+            "kd": "69-74 (-5)",
+            "entry": "10-11 (-1)",
+            "maps_played": "10",
+            "kost": "61%",
+            "kpr": "0.64",
+            "srv": "31%",
+            "clutches": "3",
+            "plants": "8",
+            "disables": "0",
+            "hs_ratio": "55%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "FURIA Esports",
+            "player": "Lenda",
+            "rating": "0.96",
+            "kd": "106-119 (-13)",
+            "entry": "10-19 (-9)",
+            "maps_played": "14",
+            "kost": "67%",
+            "kpr": "0.65",
+            "srv": "27%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Rogue",
+            "player": "Prano",
+            "rating": "0.96",
+            "kd": "67-84 (-17)",
+            "entry": "9-5 (+4)",
+            "maps_played": "11",
+            "kost": "63%",
+            "kpr": "0.54",
+            "srv": "32%",
+            "clutches": "5",
+            "plants": "11",
+            "disables": "0",
+            "hs_ratio": "46%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "DWG KIA",
+            "player": "RIN",
+            "rating": "0.96",
+            "kd": "117-124 (-7)",
+            "entry": "16-23 (-7)",
+            "maps_played": "14",
+            "kost": "61%",
+            "kpr": "0.70",
+            "srv": "26%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "50%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Shaiiko",
+            "rating": "0.96",
+            "kd": "85-89 (-4)",
+            "entry": "16-16 (+0)",
+            "maps_played": "10",
+            "kost": "59%",
+            "kpr": "0.75",
+            "srv": "21%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "68%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "MNM Gaming",
+            "player": "Tyrant",
+            "rating": "0.95",
+            "kd": "80-84 (-4)",
+            "entry": "15-16 (-1)",
+            "maps_played": "10",
+            "kost": "59%",
+            "kpr": "0.74",
+            "srv": "22%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "61%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "DWG KIA",
+            "player": "CATsang",
+            "rating": "0.95",
+            "kd": "111-122 (-11)",
+            "entry": "17-11 (+6)",
+            "maps_played": "14",
+            "kost": "63%",
+            "kpr": "0.66",
+            "srv": "27%",
+            "clutches": "4",
+            "plants": "5",
+            "disables": "1",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "BUCK",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Ninjas In Pyjamas",
+            "player": "Psycho",
+            "rating": "0.95",
+            "kd": "107-113 (-6)",
+            "entry": "15-26 (-11)",
+            "maps_played": "13",
+            "kost": "61%",
+            "kpr": "0.74",
+            "srv": "22%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "WAMAI"
+            }
+        },
+        {
+            "team": "Ninjas In Pyjamas",
+            "player": "Kamikaze",
+            "rating": "0.95",
+            "kd": "85-98 (-13)",
+            "entry": "6-9 (-3)",
+            "maps_played": "13",
+            "kost": "66%",
+            "kpr": "0.59",
+            "srv": "32%",
+            "clutches": "3",
+            "plants": "12",
+            "disables": "0",
+            "hs_ratio": "60%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Team Liquid",
+            "player": "psk1",
+            "rating": "0.94",
+            "kd": "98-108 (-10)",
+            "entry": "10-16 (-6)",
+            "maps_played": "15",
+            "kost": "69%",
+            "kpr": "0.54",
+            "srv": "40%",
+            "clutches": "2",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "SANDBOX Gaming",
+            "player": "SyAIL",
+            "rating": "0.94",
+            "kd": "64-65 (-1)",
+            "entry": "7-10 (-3)",
+            "maps_played": "9",
+            "kost": "61%",
+            "kpr": "0.73",
+            "srv": "26%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "53%",
+            "operators": {
+                "attack": "TWITCH",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Elevate",
+            "player": "DCH",
+            "rating": "0.94",
+            "kd": "128-133 (-5)",
+            "entry": "7-12 (-5)",
+            "maps_played": "17",
+            "kost": "64%",
+            "kpr": "0.64",
+            "srv": "33%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "39%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Elemzje",
+            "rating": "0.94",
+            "kd": "82-88 (-6)",
+            "entry": "21-23 (-2)",
+            "maps_played": "10",
+            "kost": "58%",
+            "kpr": "0.73",
+            "srv": "22%",
+            "clutches": "2",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "53%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "TSM",
+            "player": "Chala",
+            "rating": "0.94",
+            "kd": "163-182 (-19)",
+            "entry": "11-13 (-2)",
+            "maps_played": "25",
+            "kost": "68%",
+            "kpr": "0.56",
+            "srv": "37%",
+            "clutches": "2",
+            "plants": "7",
+            "disables": "1",
+            "hs_ratio": "44%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Oxygen Esports",
+            "player": "VertcL",
+            "rating": "0.93",
+            "kd": "134-151 (-17)",
+            "entry": "20-23 (-3)",
+            "maps_played": "19",
+            "kost": "63%",
+            "kpr": "0.65",
+            "srv": "27%",
+            "clutches": "3",
+            "plants": "1",
+            "disables": "3",
+            "hs_ratio": "51%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Elevate",
+            "player": "Sapper",
+            "rating": "0.92",
+            "kd": "110-134 (-24)",
+            "entry": "10-10 (+0)",
+            "maps_played": "17",
+            "kost": "63%",
+            "kpr": "0.55",
+            "srv": "33%",
+            "clutches": "3",
+            "plants": "8",
+            "disables": "0",
+            "hs_ratio": "47%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Elevate",
+            "player": "Nay..Pew",
+            "rating": "0.92",
+            "kd": "132-146 (-14)",
+            "entry": "30-30 (+0)",
+            "maps_played": "17",
+            "kost": "57%",
+            "kpr": "0.66",
+            "srv": "27%",
+            "clutches": "2",
+            "plants": "1",
+            "disables": "1",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "SANDBOX Gaming",
+            "player": "Static",
+            "rating": "0.92",
+            "kd": "66-70 (-4)",
+            "entry": "15-12 (+3)",
+            "maps_played": "9",
+            "kost": "50%",
+            "kpr": "0.75",
+            "srv": "20%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "63%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "Rogue",
+            "player": "Cryn",
+            "rating": "0.92",
+            "kd": "83-90 (-7)",
+            "entry": "17-9 (+8)",
+            "maps_played": "11",
+            "kost": "55%",
+            "kpr": "0.67",
+            "srv": "27%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "45%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Rogue",
+            "player": "LeonGids",
+            "rating": "0.91",
+            "kd": "88-102 (-14)",
+            "entry": "16-20 (-4)",
+            "maps_played": "11",
+            "kost": "60%",
+            "kpr": "0.71",
+            "srv": "18%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "1",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "IANA",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "00 Nation",
+            "player": "Neskin",
+            "rating": "0.91",
+            "kd": "68-84 (-16)",
+            "entry": "10-10 (+0)",
+            "maps_played": "10",
+            "kost": "65%",
+            "kpr": "0.60",
+            "srv": "26%",
+            "clutches": "2",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "42%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Yeti",
+            "rating": "0.91",
+            "kd": "135-160 (-25)",
+            "entry": "35-25 (+10)",
+            "maps_played": "19",
+            "kost": "61%",
+            "kpr": "0.61",
+            "srv": "28%",
+            "clutches": "0",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Skys",
+            "rating": "0.91",
+            "kd": "102-137 (-35)",
+            "entry": "7-4 (+3)",
+            "maps_played": "17",
+            "kost": "62%",
+            "kpr": "0.50",
+            "srv": "33%",
+            "clutches": "1",
+            "plants": "29",
+            "disables": "0",
+            "hs_ratio": "56%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Nathan",
+            "rating": "0.90",
+            "kd": "106-123 (-17)",
+            "entry": "6-10 (-4)",
+            "maps_played": "16",
+            "kost": "62%",
+            "kpr": "0.58",
+            "srv": "32%",
+            "clutches": "1",
+            "plants": "7",
+            "disables": "0",
+            "hs_ratio": "57%",
+            "operators": {
+                "attack": "BUCK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "TSM",
+            "player": "Geo",
+            "rating": "0.90",
+            "kd": "125-181 (-56)",
+            "entry": "10-12 (-2)",
+            "maps_played": "25",
+            "kost": "67%",
+            "kpr": "0.43",
+            "srv": "38%",
+            "clutches": "5",
+            "plants": "33",
+            "disables": "2",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "CASTLE"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Blurr",
+            "rating": "0.90",
+            "kd": "113-131 (-18)",
+            "entry": "23-16 (+7)",
+            "maps_played": "16",
+            "kost": "60%",
+            "kpr": "0.62",
+            "srv": "28%",
+            "clutches": "1",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "57%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "MELUSI"
+            }
+        },
+        {
+            "team": "Spacestation Gaming",
+            "player": "Bosco",
+            "rating": "0.89",
+            "kd": "119-144 (-25)",
+            "entry": "14-27 (-13)",
+            "maps_played": "17",
+            "kost": "63%",
+            "kpr": "0.59",
+            "srv": "29%",
+            "clutches": "4",
+            "plants": "2",
+            "disables": "0",
+            "hs_ratio": "45%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "DarkZero Esports",
+            "player": "Canadian",
+            "rating": "0.88",
+            "kd": "110-146 (-36)",
+            "entry": "17-25 (-8)",
+            "maps_played": "18",
+            "kost": "66%",
+            "kpr": "0.52",
+            "srv": "31%",
+            "clutches": "3",
+            "plants": "3",
+            "disables": "0",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "FLORES",
+                "defense": "KAID"
+            }
+        },
+        {
+            "team": "FaZe Clan",
+            "player": "cameram4n",
+            "rating": "0.87",
+            "kd": "155-192 (-37)",
+            "entry": "23-35 (-12)",
+            "maps_played": "25",
+            "kost": "61%",
+            "kpr": "0.57",
+            "srv": "30%",
+            "clutches": "1",
+            "plants": "3",
+            "disables": "0",
+            "hs_ratio": "31%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "CYCLOPS athlete gaming",
+            "player": "Ayagator",
+            "rating": "0.86",
+            "kd": "72-88 (-16)",
+            "entry": "13-19 (-6)",
+            "maps_played": "10",
+            "kost": "54%",
+            "kpr": "0.64",
+            "srv": "22%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "56%",
+            "operators": {
+                "attack": "ZOFIA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "00 Nation",
+            "player": "Lagonis",
+            "rating": "0.86",
+            "kd": "52-80 (-28)",
+            "entry": "3-12 (-9)",
+            "maps_played": "10",
+            "kost": "63%",
+            "kpr": "0.46",
+            "srv": "29%",
+            "clutches": "1",
+            "plants": "10",
+            "disables": "2",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Ninjas In Pyjamas",
+            "player": "JULIO",
+            "rating": "0.86",
+            "kd": "80-96 (-16)",
+            "entry": "12-8 (+4)",
+            "maps_played": "13",
+            "kost": "59%",
+            "kpr": "0.55",
+            "srv": "34%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "54%",
+            "operators": {
+                "attack": "NOMAD",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "RaFaLe",
+            "rating": "0.83",
+            "kd": "25-34 (-9)",
+            "entry": "2-6 (-4)",
+            "maps_played": "5",
+            "kost": "63%",
+            "kpr": "0.49",
+            "srv": "33%",
+            "clutches": "0",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "39%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Natus Vincere",
+            "player": "Secretly",
+            "rating": "0.81",
+            "kd": "89-132 (-43)",
+            "entry": "14-21 (-7)",
+            "maps_played": "16",
+            "kost": "59%",
+            "kpr": "0.49",
+            "srv": "27%",
+            "clutches": "2",
+            "plants": "6",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "CASTLE"
+            }
+        },
+        {
+            "team": "Soniqs",
+            "player": "Supr",
+            "rating": "0.81",
+            "kd": "84-149 (-65)",
+            "entry": "3-11 (-8)",
+            "maps_played": "19",
+            "kost": "63%",
+            "kpr": "0.38",
+            "srv": "33%",
+            "clutches": "1",
+            "plants": "24",
+            "disables": "1",
+            "hs_ratio": "41%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "SMOKE"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "Renshiro",
+            "rating": "0.81",
+            "kd": "61-86 (-25)",
+            "entry": "5-12 (-7)",
+            "maps_played": "10",
+            "kost": "58%",
+            "kpr": "0.54",
+            "srv": "24%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "49%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "GOYO"
+            }
+        },
+        {
+            "team": "CYCLOPS athlete gaming",
+            "player": "Anitun",
+            "rating": "0.81",
+            "kd": "66-92 (-26)",
+            "entry": "10-12 (-2)",
+            "maps_played": "10",
+            "kost": "60%",
+            "kpr": "0.58",
+            "srv": "19%",
+            "clutches": "0",
+            "plants": "3",
+            "disables": "0",
+            "hs_ratio": "52%",
+            "operators": {
+                "attack": "OSA",
+                "defense": "ELA"
+            }
+        },
+        {
+            "team": "CYCLOPS athlete gaming",
+            "player": "SuzuC",
+            "rating": "0.80",
+            "kd": "56-83 (-27)",
+            "entry": "3-8 (-5)",
+            "maps_played": "10",
+            "kost": "60%",
+            "kpr": "0.50",
+            "srv": "27%",
+            "clutches": "1",
+            "plants": "4",
+            "disables": "0",
+            "hs_ratio": "59%",
+            "operators": {
+                "attack": "THERMITE",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "SANDBOX Gaming",
+            "player": "EnvyTaylor",
+            "rating": "0.80",
+            "kd": "49-68 (-19)",
+            "entry": "10-11 (-1)",
+            "maps_played": "9",
+            "kost": "55%",
+            "kpr": "0.56",
+            "srv": "23%",
+            "clutches": "2",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "44%",
+            "operators": {
+                "attack": "SLEDGE",
+                "defense": "ALIBI"
+            }
+        },
+        {
+            "team": "MNM Gaming",
+            "player": "Neo",
+            "rating": "0.80",
+            "kd": "45-69 (-24)",
+            "entry": "3-2 (+1)",
+            "maps_played": "10",
+            "kost": "59%",
+            "kpr": "0.42",
+            "srv": "36%",
+            "clutches": "1",
+            "plants": "2",
+            "disables": "1",
+            "hs_ratio": "64%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "JAGER"
+            }
+        },
+        {
+            "team": "Team BDS",
+            "player": "BiOs",
+            "rating": "0.80",
+            "kd": "34-51 (-17)",
+            "entry": "2-6 (-4)",
+            "maps_played": "5",
+            "kost": "60%",
+            "kpr": "0.55",
+            "srv": "18%",
+            "clutches": "3",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "30%",
+            "operators": {
+                "attack": "LION",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "Rogue",
+            "player": "ripz",
+            "rating": "0.77",
+            "kd": "63-93 (-30)",
+            "entry": "6-10 (-4)",
+            "maps_played": "11",
+            "kost": "54%",
+            "kpr": "0.51",
+            "srv": "25%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "60%",
+            "operators": {
+                "attack": "THATCHER",
+                "defense": "ARUNI"
+            }
+        },
+        {
+            "team": "CYCLOPS athlete gaming",
+            "player": "GatoRada",
+            "rating": "0.69",
+            "kd": "54-90 (-36)",
+            "entry": "12-18 (-6)",
+            "maps_played": "10",
+            "kost": "46%",
+            "kpr": "0.48",
+            "srv": "20%",
+            "clutches": "1",
+            "plants": "0",
+            "disables": "0",
+            "hs_ratio": "43%",
+            "operators": {
+                "attack": "FINKA",
+                "defense": "MUTE"
+            }
+        },
+        {
+            "team": "SANDBOX Gaming",
+            "player": "Harp3r",
+            "rating": "0.66",
+            "kd": "40-77 (-37)",
+            "entry": "3-8 (-5)",
+            "maps_played": "9",
+            "kost": "52%",
+            "kpr": "0.45",
+            "srv": "13%",
+            "clutches": "0",
+            "plants": "1",
+            "disables": "0",
+            "hs_ratio": "68%",
+            "operators": {
+                "attack": "MAVERICK",
+                "defense": "MIRA"
+            }
+        },
+        {
+            "team": "SANDBOX Gaming",
+            "player": "Nova",
+            "rating": "0.65",
+            "kd": "33-69 (-36)",
+            "entry": "3-8 (-5)",
+            "maps_played": "9",
+            "kost": "44%",
+            "kpr": "0.38",
+            "srv": "22%",
+            "clutches": "1",
+            "plants": "6",
+            "disables": "0",
+            "hs_ratio": "48%",
+            "operators": {
+                "attack": "HIBANA",
+                "defense": "SMOKE"
+            }
+        }
+    ],
+    "map_picks": [
+        {
+            "name": "Kafe",
+            "plays": "28",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "312"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "51%",
+                    "rounds": "102"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "47%",
+                    "rounds": "95"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "52%",
+                    "rounds": "80"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "54%",
+                    "rounds": "35"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "27",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "53%",
+                    "rounds": "318"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "63%",
+                    "rounds": "145"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "46%",
+                    "rounds": "109"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "44%",
+                    "rounds": "45"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "42%",
+                    "rounds": "19"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "25",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "55%",
+                    "rounds": "285"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "65%",
+                    "rounds": "111"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "47%",
+                    "rounds": "74"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "51%",
+                    "rounds": "73"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "52%",
+                    "rounds": "27"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "22",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "46%",
+                    "rounds": "234"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "48%",
+                    "rounds": "90"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "43%",
+                    "rounds": "81"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "50%",
+                    "rounds": "50"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "38%",
+                    "rounds": "13"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "21",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "54%",
+                    "rounds": "238"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "58%",
+                    "rounds": "101"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "56%",
+                    "rounds": "66"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "52%",
+                    "rounds": "58"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "15%",
+                    "rounds": "13"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "18",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "41%",
+                    "rounds": "209"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "46%",
+                    "rounds": "69"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "34%",
+                    "rounds": "59"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "39%",
+                    "rounds": "57"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "50%",
+                    "rounds": "24"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "16",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "46%",
+                    "rounds": "195"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "51%",
+                    "rounds": "68"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "47%",
+                    "rounds": "53"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "47%",
+                    "rounds": "45"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "28%",
+                    "rounds": "29"
+                }
+            ]
+        }
+    ]
+}

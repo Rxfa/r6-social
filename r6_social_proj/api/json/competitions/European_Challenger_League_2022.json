@@ -1,0 +1,307 @@
+{
+    "url": "https://old.siege.gg/competitions/430-european-challenger-league-2022?stats=full-stats",
+    "name": "European Challenger League 2022",
+    "system_of_competition": "LEAGUE_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "TENSTAR",
+        "Mkers",
+        "Acend",
+        "JLINGZ esports",
+        "WYLDE",
+        "Dunlimited",
+        "Lan Party Hotel",
+        "DeathroW",
+        "MNM Gaming Academy",
+        "KV Mechelen Esports",
+        "Jobseekers",
+        "Viperio 86",
+        "LFO GSA",
+        "Activit-E Esports",
+        "Victus",
+        "Rebels Gaming"
+    ],
+    "standings": [],
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Oregon",
+            "plays": "15",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "179"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "62%",
+                    "rounds": "81"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "56%",
+                    "rounds": "59"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "42%",
+                    "rounds": "31"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "50%",
+                    "rounds": "8"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "12",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "51%",
+                    "rounds": "123"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "49%",
+                    "rounds": "39"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "53%",
+                    "rounds": "36"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "60%",
+                    "rounds": "25"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "43%",
+                    "rounds": "23"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "9",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "61%",
+                    "rounds": "88"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "67%",
+                    "rounds": "33"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "52%",
+                    "rounds": "23"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "68%",
+                    "rounds": "19"
+                },
+                {
+                    "site": "Bar/Stage",
+                    "winrate": "54%",
+                    "rounds": "13"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "7",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "53%",
+                    "rounds": "64"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "50%",
+                    "rounds": "24"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "50%",
+                    "rounds": "24"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "62%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "67%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "6",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "49%",
+                    "rounds": "57"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "50%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "41%",
+                    "rounds": "17"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "67%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "29%",
+                    "rounds": "7"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "6",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "66"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "53%",
+                    "rounds": "30"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "55%",
+                    "rounds": "20"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "69%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Theme Park",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "61%",
+                    "rounds": "62"
+                },
+                {
+                    "site": "Armory/Throne",
+                    "winrate": "75%",
+                    "rounds": "24"
+                },
+                {
+                    "site": "Bunk/Day",
+                    "winrate": "72%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Initiation",
+                    "winrate": "33%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Lab/Storage",
+                    "winrate": "40%",
+                    "rounds": "5"
+                }
+            ]
+        },
+        {
+            "name": "Border",
+            "plays": "5",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "68%",
+                    "rounds": "59"
+                },
+                {
+                    "site": "Archives/Armory",
+                    "winrate": "77%",
+                    "rounds": "26"
+                },
+                {
+                    "site": "Ventilation/Workshop",
+                    "winrate": "67%",
+                    "rounds": "18"
+                },
+                {
+                    "site": "Tellers/Bathroom",
+                    "winrate": "50%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Supply/Customs",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Skyscraper",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "61%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Tea/Karaoke",
+                    "winrate": "69%",
+                    "rounds": "13"
+                },
+                {
+                    "site": "Office/Exhibition",
+                    "winrate": "58%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Kitchen/BBQ",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Master/Bathroom",
+                    "winrate": "63%",
+                    "rounds": "4"
+                }
+            ]
+        }
+    ]
+}

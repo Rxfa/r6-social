@@ -1,0 +1,203 @@
+{
+    "url": "https://old.siege.gg/competitions/380-benelux-cup-season-2-finals?tab=results&stats=full-stats",
+    "name": "Benelux Cup Season 2 Finals",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "The Last Dance",
+        "KV Mechelen Esports",
+        "Activit-E Esports",
+        "4Eggs"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Kafe",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "48%",
+                    "rounds": "21"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "25%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "71%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "56%",
+                    "rounds": "25"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "73%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "44%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "0%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "52%",
+                    "rounds": "23"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "75%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "43%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Bank",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "67%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "100%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "50%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "0%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "36%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "20%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "67%",
+                    "rounds": "9"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "75%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "50%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "100%",
+                    "rounds": "1"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "0",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "0%",
+                    "rounds": "0"
+                }
+            ]
+        }
+    ]
+}

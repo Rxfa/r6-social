@@ -1,0 +1,228 @@
+{
+    "url": "https://old.siege.gg/competitions/384-six-invitational-2022-north-america-qualifier?tab=results&stats=full-stats",
+    "name": "Six Invitational 2022 North America Qualifier",
+    "system_of_competition": "CUP_SYSTEM_WITH_NO_PLAYER_PRIZES",
+    "participants": [
+        "TSM",
+        "Parabellum Esports",
+        "1shotLFO",
+        "Mirage"
+    ],
+    "standings": null,
+    "mvp": null,
+    "player_stats": [],
+    "map_picks": [
+        {
+            "name": "Bank",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "52%",
+                    "rounds": "27"
+                },
+                {
+                    "site": "Lockers/CCTV",
+                    "winrate": "60%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Open",
+                    "winrate": "50%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "CEO/Lounge",
+                    "winrate": "29%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Tellers/Archives",
+                    "winrate": "100%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Kafe",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Service/Cooking",
+                    "winrate": "58%",
+                    "rounds": "12"
+                },
+                {
+                    "site": "Bar/Cocktail",
+                    "winrate": "60%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Reading/Dining",
+                    "winrate": "38%",
+                    "rounds": "8"
+                },
+                {
+                    "site": "Mining/Dining",
+                    "winrate": "0%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Oregon",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "59%",
+                    "rounds": "37"
+                },
+                {
+                    "site": "Dorms/Kids",
+                    "winrate": "67%",
+                    "rounds": "15"
+                },
+                {
+                    "site": "Laundry/Supply",
+                    "winrate": "64%",
+                    "rounds": "14"
+                },
+                {
+                    "site": "Meeting",
+                    "winrate": "40%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "33%",
+                    "rounds": "3"
+                }
+            ]
+        },
+        {
+            "name": "Chalet",
+            "plays": "3",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "53%",
+                    "rounds": "32"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "45%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Bar/Gaming",
+                    "winrate": "45%",
+                    "rounds": "11"
+                },
+                {
+                    "site": "Wine",
+                    "winrate": "83%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Master/Office",
+                    "winrate": "50%",
+                    "rounds": "4"
+                }
+            ]
+        },
+        {
+            "name": "Villa",
+            "plays": "2",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "64%",
+                    "rounds": "22"
+                },
+                {
+                    "site": "Aviator/Game",
+                    "winrate": "71%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Trophy/Statue",
+                    "winrate": "57%",
+                    "rounds": "7"
+                },
+                {
+                    "site": "Kitchen/Dining",
+                    "winrate": "67%",
+                    "rounds": "6"
+                },
+                {
+                    "site": "Living/Library",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Club House",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Church/Arsenal",
+                    "winrate": "60%",
+                    "rounds": "5"
+                },
+                {
+                    "site": "Cash/CCTV",
+                    "winrate": "33%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Master/Gym",
+                    "winrate": "50%",
+                    "rounds": "2"
+                }
+            ]
+        },
+        {
+            "name": "Coastline",
+            "plays": "1",
+            "bombsites": [
+                {
+                    "site": "Overall",
+                    "winrate": "50%",
+                    "rounds": "10"
+                },
+                {
+                    "site": "Kitchen/Service",
+                    "winrate": "25%",
+                    "rounds": "4"
+                },
+                {
+                    "site": "Hookah/Billiards",
+                    "winrate": "67%",
+                    "rounds": "3"
+                },
+                {
+                    "site": "Blue/Sunrise",
+                    "winrate": "100%",
+                    "rounds": "2"
+                },
+                {
+                    "site": "Penthouse/Theater",
+                    "winrate": "0%",
+                    "rounds": "1"
+                }
+            ]
+        }
+    ]
+}
